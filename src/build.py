@@ -15,6 +15,7 @@ emb = json.dumps(files, ensure_ascii=False).replace('<', '\\u003c')
 t = open(os.path.join(here, 'template.html'), encoding='utf-8').read()
 t = t.replace('/*__PARSER__*/', open(os.path.join(here, 'parser.js'), encoding='utf-8').read())
 t = t.replace('/*__APP__*/', open(os.path.join(here, 'app.js'), encoding='utf-8').read())
+t = t.replace('/*__SYNC__*/', open(os.path.join(here, 'sync.js'), encoding='utf-8').read())
 t = t.replace('/*__GRAMMAR__*/', open(os.path.join(here, 'grammar.js'), encoding='utf-8').read())
 gj = os.path.join(here, 'grammar.json')
 gdata = open(gj, encoding='utf-8').read() if os.path.exists(gj) else '[]'

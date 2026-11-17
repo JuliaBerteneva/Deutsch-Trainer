@@ -30,6 +30,7 @@ function save() {
   try { localStorage.setItem(LS_KEY, JSON.stringify(S)); }
   catch (e) { storageOK = false; }
   if (typeof scheduleFileSave === 'function') scheduleFileSave();
+  scheduleGhPush();
 }
 
 /* ---------- словарь ---------- */
@@ -734,6 +735,7 @@ function viewSettings() {
       h('input', { type: 'file', id: 'mdfiles', accept: '.md,.txt,text/markdown,text/plain', multiple: true, hidden: true, onchange: addFiles }),
       h('button', { class: 'btn', onclick: () => $('#mdfiles').click() }, '＋ Vokabeldateien hinzufügen (.md)'),
       S.extra.length ? S.extra.map(f => h('div', { class: 'row between' }, h('span', null, f.name), h('button', { class: 'link', onclick: () => { S.extra = S.extra.filter(x => x !== f); save(); rebuild(); render(); } }, 'entfernen'))) : null),
+    githubCard(),
     autosaveCard(),
     h('div', { class: 'card' }, h('div', { class: 'h2' }, 'Fortschritt: Sicherung und Übertragung'),
       h('div', { class: 'muted small' }, 'Der Fortschritt wird im Browser gespeichert. Zum Übertragen aufs Handy oder als Sicherung: in eine Datei exportieren und auf dem anderen Gerät importieren.' + (S.lastExport ? ` Letzter Export: ${new Date(S.lastExport).toLocaleDateString('de')}.` : '')),
@@ -870,3 +872,4 @@ function codeDialog(importMode) {
 rebuild();
 render();
 fileInit();
+ghSync(false);
