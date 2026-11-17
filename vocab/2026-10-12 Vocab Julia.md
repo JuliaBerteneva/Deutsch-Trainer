@@ -1,0 +1,188 @@
+# Vocab — 2026-10-12
+
+
+**Hauslektüre Kap. 6 «Das Geheimnis» (S.70–79)**
+- das Geheimnis, -se — тайна
+- erben — наследовать
+- gleich — сразу, тут же
+- geraten (gerät, geriet, ist geraten) — попадать (во что-то)
+- der Orkan, -e — ураган
+- einsperren — запирать
+- der Krankenwärter, - — санитар
+- bestechen (besticht, bestach, hat bestochen) — подкупать
+- fliehen (floh, ist geflohen) — бежать, спасаться бегством
+- ertrinken (ertrank, ist ertrunken) — тонуть, утонуть
+- leugnen — отрицать, отпираться
+- gleichgültig — безразличный, всё равно
+- überzeugen — убеждать
+- sich unterhalten (mit) — беседовать; развлекаться
+- entspannt — расслабленный
+- verlegen — смущённый
+- das Watt (Sg.) — ватты (мелководье, отлив)
+- der Rentner, - — пенсионер
+- die Kunst, ¨-e — искусство
+- die Bestechung, -en — подкуп, взятка
+
+**Kursbuch Kap. 2 «Ziele und Wünsche» (S.16–17)**
+- der Wunsch, ¨-e — желание, пожелание
+- die Hoffnung, -en — надежда
+- auswandern (ist ausgewandert) — эмигрировать
+- die Heimat (Sg.) — родина
+- das Ausland (Sg.) — заграница
+- die Stelle, -n — рабочее место, вакансия
+- der Sprachkurs, -e — языковой курс
+- der Intensivkurs, -e — интенсивный курс
+- höflich — вежливый
+- die Bitte, -n — просьба
+- Können Sie mir helfen? — Вы не могли бы мне помочь? (вежливая просьба)
+- weil … (Verb am Ende) — потому что … (глагол в конце)
+
+**Übungsbuch Kap. 14 «Einkaufswelt» (S.134–143)**
+- beobachten — наблюдать
+- die Kasse, -n — касса
+- der Käufer, - — покупатель
+- die Käuferin, -nen — покупательница
+- das Parkhaus, ¨-er — многоярусная парковка
+- persönlich — лично, личный
+- der Shopper, - — любитель шопинга
+- ausgeben (gibt aus, gab aus, hat ausgegeben) — тратить (деньги)
+- der Baumarkt, ¨-e — строительный магазин
+- beschreiben (beschrieb, hat beschrieben) — описывать
+- einzig- — единственный
+- der Elektromarkt, ¨-e — магазин электроники
+- emotional — эмоциональный
+- rational — рациональный
+- sinnlos — бессмысленный
+- das Verhalten (Sg.) — поведение
+- die Creme, -s — крем
+- die Drogerie, -n — дрогери (магазин бытовой химии/косметики)
+- der Drucker, - — принтер
+- das Jackett, -s — пиджак
+- die Kosmetik (Sg.) — косметика
+- die Krawatte, -n — галстук
+- der Optiker, - — оптик
+- das Parfüm, -s — духи
+- die Seife, -n — мыло
+- die Schere, -n — ножницы
+- der Spielzeugladen, ¨- — магазин игрушек
+- die Weinhandlung, -en — винный магазин
+- das Souvenir, -s — сувенир
+- preiswert — недорогой, выгодный
+- breit — широкий
+- nennen (nannte, hat genannt) — называть
+- die Speisekarte, -n — меню
+- das Weinlokal, -e — винный бар
+- schick — шикарный, стильный
+- die Kneipe, -n — пивная, бар
+- die Currywurst, ¨-e — карривурст
+- der Dieb, -e / die Diebin, -nen — вор / воровка
+- backen (bäckt, backte, hat gebacken) — печь (выпекать)
+- die Form, -en — форма
+- legen — класть (горизонтально)
+- der Ofen, ¨- — печь, духовка
+- der Reiseführer, - — путеводитель; гид
+- die Sonnencreme, -s — солнцезащитный крем
+- die Zeitschrift, -en — журнал
+- der Lippenstift, -e — губная помада
+
+**Übungsbuch Kap. 15 «Partylaune» (S.144–153)**
+- die Einladung, -en — приглашение
+- die Zusage, -n — согласие (на приглашение)
+- die Absage, -n — отказ (от приглашения)
+- der Glückwunsch, ¨-e — поздравление
+- gratulieren — поздравлять
+- Bescheid sagen — сообщить, дать знать
+- einladen (lädt ein, lud ein, hat eingeladen) — приглашать
+- die Feier, -n — праздник, вечеринка
+- feiern — праздновать
+- basteln — мастерить, делать поделки
+- rund (runder Geburtstag) — круглый (юбилей)
+- schwanger — беременная
+- die Überraschung, -en — сюрприз
+- zurückkommen (ist zurückgekommen) — возвращаться
+- das Besteck (Sg.) — столовые приборы
+- den Tisch decken — накрывать на стол
+- der DJ, -s — диджей
+- das Geschirr (Sg.) — посуда
+- (sich) langweilen — скучать
+- die Musikanlage, -n — музыкальная система
+- öde — скучный, унылый
+- das Picknick, -s — пикник
+- der Rest, -e — остаток
+- schrecklich — ужасный
+- der Sinn (Sg.) — смысл
+- träumen (von) — мечтать; видеть сны
+- ausfallen (fällt aus, fiel aus, ist ausgefallen) — отменяться; выпадать
+- die Behörde, -n — ведомство, учреждение
+- die Braut, ¨-e — невеста
+- der Bräutigam, -e — жених
+- das Brautpaar, -e — молодожёны
+- der Brautstrauß, ¨-e — букет невесты
+- die Dekoration, -en — украшение, декор
+- das Gewitter, - — гроза
+- das Herz, -en — сердце
+- der Hochzeitsplaner, - / die Hochzeitsplanerin, -nen — организатор свадеб
+- kaputtmachen — ломать, портить
+- der Luftballon, -s — воздушный шарик
+- die Möglichkeit, -en — возможность
+- die Panne, -n — поломка, накладка
+- der Profi, -s — профессионал
+- schiefgehen (ging schief, ist schiefgegangen) — не получиться, пойти не так
+- das Standesamt, ¨-er — ЗАГС
+- übernehmen (übernimmt, übernahm, hat übernommen) — брать на себя
+- verantwortlich — ответственный
+- der Vorschlag, ¨-e — предложение (идея)
+- der Ausflug, ¨-e — экскурсия, поездка за город
+- grillen — жарить на гриле
+
+**Übungsbuch Kap. 16 «Kulturwelten» (S.154–163)**
+- der Umzug, ¨-e — шествие, парад
+- die Bühne, -n — сцена
+- das Publikum (Sg.) — публика
+- das Kostüm, -e — костюм (театральный)
+- der Straßenkünstler, - — уличный артист
+- der Eintritt (Sg.) — вход; плата за вход
+- auftreten (tritt auf, trat auf, ist aufgetreten) — выступать
+- jonglieren — жонглировать
+- das Zirkuszelt, -e — цирковой шатёр
+- die Band, -s — группа (музыкальная)
+- sich ärgern über (+Akk) — злиться на
+- der Akrobat, -en / die Akrobatin, -nen — акробат / акробатка
+- die Akrobatik (Sg.) — акробатика
+- denken an (+Akk) — думать о
+- einladen zu (+Dat) — приглашать на
+- sich freuen auf (+Akk) — радоваться (предстоящему)
+- sich freuen über (+Akk) — радоваться (случившемуся)
+- gehören zu (+Dat) — относиться к, входить в
+- das Honorar, -e — гонорар
+- (sich) informieren über (+Akk) — информировать(ся) о
+- der Infostand, ¨-e — информационный стенд
+- sich interessieren für (+Akk) — интересоваться (чем-то)
+- klatschen — хлопать, аплодировать
+- leer — пустой
+- die Nation, -en — нация
+- träumen von (+Dat) — мечтать о
+- die Vorstellung, -en — представление, спектакль; идея
+- warten auf (+Akk) — ждать (чего-то/кого-то)
+- der Zuschauer, - / die Zuschauerin, -nen — зритель / зрительница
+- das Open Air, -s — open-air, концерт на открытом воздухе
+- das Lieblingsorchester, - — любимый оркестр
+- wachsen (wächst, wuchs, ist gewachsen) — расти
+- die Fahne, -n — флаг, знамя
+- die Kutsche, -n — карета
+- das Pferd, -e — лошадь
+- reiten (ritt, ist geritten) — ездить верхом
+- der Reiter, - / die Reiterin, -nen — всадник / всадница
+- der Schneemann, ¨-er — снеговик
+- die Uniform, -en — униформа
+- verbrennen (verbrannte, hat/ist verbrannt) — сжигать; сгорать
+- verabschieden — провожать, прощаться
+- anmachen (Feuer) — разжигать (огонь)
+- die Glocke, -n — колокол
+- läuten — звонить (в колокол)
+- das Symbol, -e — символ
+
+**Wichtige Strukturen (Grammatik)**
+- Relativsatz: …, der/das/die/den … — относительные придаточные (Nom./Akk.): Ich suche einen Baumarkt, der …
+- Wortbildung: -chen / -lein — уменьшительные: das Herzchen = das Herzlein
+- Fragewörter wo(r)- : Worauf? Woran? Worüber? — вопросы к глаголам с предлогом: Worauf freust du dich?

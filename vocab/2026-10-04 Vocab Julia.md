@@ -1,0 +1,93 @@
+# Vocab — 2026-10-04
+
+**Hauslektüre, Kapitel 5 «Der Geburtstag»**
+- die Einrichtung — обстановка, мебель
+- wertvoll — ценный
+- das Schüssel (die Schüssel, -n) — миска, салатник
+- die Konstellation, -en — расстановка, состав (пары)
+- eifersüchtig — ревнивый
+- ruinieren — портить, разрушать
+- der Schrei, -e — крик
+- der Flur, -e — коридор, прихожая
+- der Sprung, "e — прыжок
+- die Matrosenmütze, -n — бескозырка
+- lütt (северонем.) — маленький
+- unzufrieden — недовольный
+- langweilig — скучный
+- sarkastisch — саркастичный
+- backen / braten / grillen / kochen — печь / жарить / жарить на гриле / варить
+
+**Kursbuch S. 160–163 (Wetter)**
+- das Gewitter, – — гроза
+- der Regenschauer, – — кратковременный дождь
+- neblig — туманный
+- bewölkt — облачный
+- heiter — ясный, погожий
+- stürmisch — штормовой
+- die Windstärke, -n — сила ветра
+- mild / angenehm — мягкий / приятный
+- die Hitze — жара
+- die Kälte — холод
+- erkältet sein — быть простуженным
+- der Winterurlaub — зимний отпуск
+- die Anreise — приезд (дорога туда)
+- die Hinfahrt — поездка туда
+- der Stau, -s — пробка
+- die Grenze, -n — граница
+- fertig sein — быть измотанным / готовым
+- der Skikurs, -e — курс по лыжам
+- verliebt — влюблённый
+- der Dialekt, -e — диалект
+- zum Abschied — на прощание
+
+**Arbeitsbuch Kap. 33 / Lernwortschatz (S. 192)**
+- r Abschied, -e — прощание
+- s Bergland — горная местность
+- e Besonderheit, -en — особенность
+- r Dialekt, -e — диалект
+- e Hitze — жара
+- e Hinfahrt, -en — поездка туда
+- s Hoch, -s — область высокого давления
+- s Jahreszeit, -en (e Jahreszeit) — время года
+- s Meeresluft / s Meer — морской воздух / море
+- r Nebel, – — туман
+- r Nordwesten — северо-запад
+- r Schauer, – — ливень, кратковременный дождь
+- r Skifahrer / s Skifahren — лыжник / катание на лыжах
+- r Stau, -s — пробка
+- s Tief, -s — область низкого давления
+- r Unterschied, -e — различие
+- s Wetterbericht, -e — прогноз погоды
+- e Windstärke, -n — сила ветра
+- r Zwillingsschwester, -n — сестра-близнец
+- bestimmen — определять
+- fühlen — чувствовать
+- schneien — идти (о снеге)
+- wehen — дуть
+- zusammen·lassen / zusammenpassen — подходить друг другу
+- durchschnittlich — в среднем
+- erkältet — простуженный
+- heiter — ясный
+- kühl — прохладный
+- mild — мягкий
+- problemlos — без проблем
+- regional — региональный
+- sonnig — солнечный
+- stellenweise — местами
+- stürmisch — штормовой
+- südwestlich — юго-западный
+- telefonisch — по телефону
+- vorgestern — позавчера
+- Es ist schwül/windig/regnet — (в обороте) ветрено / идёт дождь
+- Es gibt ein Gewitter. — Будет гроза.
+- Es sind 20 Grad. — 20 градусов.
+- Die Temperaturen erreichen 20 Grad. — Температура достигает 20°.
+- Das Wetter ist angenehm mild. — Погода приятно мягкая.
+- Auf Wiedersehen / Tschüs / Servus / Ade / Uf Wiederluege — прощания (D / A / CH)
+- r Fleischhauer (AT) = r Metzger — мясник
+- r Erdapfel (AT) = e Kartoffel — картошка
+- e Matura (AT) = s Abitur — выпускной экзамен
+- e Semmel (AT) = s Brötchen — булочка
+- r Billet (CH) = e Eintrittskarte — билет
+- r Coiffeur (CH) = r Friseur — парикмахер
+- s Velo (CH) = s Fahrrad — велосипед

@@ -1,0 +1,91 @@
+# Vocab — 2026-11-15
+
+**Лампы / описание вещей (Kursbuch S.50, Übungsbuch S.58, 63)**
+- das Material, -ien — материал
+- das Glas (Sg.) — стекло
+- das Metall, -e — металл
+- die Keramik (Sg.) — керамика
+- der Stoff, -e — ткань
+- das Holz (Sg.) — дерево
+- das Plastik (Sg.) — пластик
+- die Größe, -n — размер
+- die Höhe, -n — высота
+- das Gewicht (Sg.) — вес
+- hoch — высокий
+- klein — маленький
+- schwer — тяжёлый
+- leicht — лёгкий
+- weich — мягкий
+- teuer — дорогой
+- günstig / billig — дешёвый, выгодный
+- hell — светлый
+- schön — красивый
+- elegant — элегантный
+- modern — современный
+- aus (+Material) — из (материала): eine Lampe aus Glas — лампа из стекла
+- altmodisch — старомодный
+- gesamt — общий, итого
+
+**Заказ / рекламация (Kursbuch S.51, Übungsbuch S.59–60, 63)**
+- die Bestellung, -en — заказ
+- der Artikel, - — товар
+- die Menge, -n — количество
+- der Auftrag, -¨e — заказ, поручение
+- der Lieferschein, -e — накладная
+- der Liefertermin, -e — срок поставки
+- liefern — доставлять
+- das Formular, -e — бланк, форма
+- ausfüllen — заполнять
+- reklamieren — подавать рекламацию, жаловаться
+- der Reklamationsschein, -e — бланк рекламации
+- zurückschicken — отправлять обратно
+- abschicken — отправлять
+- das Paket, -e — посылка
+- der Absender, - — отправитель
+- ergänzen — дополнять, вписывать
+- der Grund, -¨e — причина
+- die Beschreibung, -en — описание
+- kaputt — сломанный
+- kaputtgehen, er/sie geht kaputt, ist kaputtgegangen — ломаться
+- falsch bestellt — заказан неправильно
+- Ein Teil fehlt. — Не хватает детали.
+- im Angebot (sein) — быть по акции
+- die Bestellnummer, -n — номер заказа
+
+**Мебель / апсайклинг (Kursbuch S.52, Übungsbuch S.61, 63)**
+- die Möbel (Pl.) — мебель
+- der Teppich, -e — ковёр
+- der Trolley, -s — тележка (бортовая)
+- kreativ — креативный
+- stabil — прочный
+- umweltbewusst — экологически сознательный
+- der Flugbegleiter, - / die Flugbegleiterin, -nen — бортпроводник / бортпроводница
+- der Designer, - — дизайнер
+- weltweit — по всему миру
+- der Schrank, -¨e — шкаф
+- das Upcycling — апсайклинг
+- wegwerfen, er/sie wirft weg, hat weggeworfen — выбрасывать
+- behalten, er/sie behält, hat behalten — оставлять себе
+- gucken — смотреть
+- sich wohlfühlen — чувствовать себя хорошо
+
+**Veronika, Kapitel 2 «Zu Hause» (S.17–22)**
+- anstrengend — утомительный
+- die Besprechung, -en — совещание
+- der Streik, -s — забастовка
+- hundemüde (Jargon) — смертельно уставший
+- zusammenziehen, er/sie zieht zusammen, ist zusammengezogen — съехаться, жить вместе
+- das Knäckebrot, -e — хрустящие хлебцы
+- umschalten, er/sie schaltet um, hat umgeschaltet — переключать (канал)
+- an jdm. etwas auszusetzen haben — придираться к кому-то
+- zärtlich — нежный
+- etwas ist jdm. egal — кому-то всё равно
+- gereizt — раздражённый
+- die leitende Stellung, -en — руководящая должность
+- blöd — глупый
+- die Bluse, -n — блузка
+- der Seidenschal, -s — шёлковый шарф
+- streng — строгий
+- die Miete, -n — арендная плата
+- der Schneeball, -¨e — снежок
+- das Appartement, -s — квартира-студия
