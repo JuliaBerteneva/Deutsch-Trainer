@@ -10,13 +10,13 @@ topic('possessiv', 'Possessivpronomen', 'Paremskaja S.46–48',
  ['mein / dein / sein / ihr / unser / euer / ihr / Ihr — притяжательные местоимения; склоняются как ein/kein.',
   'ich → mein, du → dein, er/es → sein, sie → ihr, wir → unser, ihr → euer, sie/Sie → ihr/Ihr.',
   'Женский род и мн. число: + -e (meine Mutter, meine Eltern). Akk. m.: meinen. Dat.: meinem/meiner/meinen.'],
- [mc('Das ist ___ Mutter. (я)', 'meine', ['mein', 'meinen', 'meiner'], 'Mutter — die, Nominativ: meine.'),
-  mc('Er liebt ___ Frau. (его)', 'seine', ['sein', 'ihre', 'seiner'], 'er → sein-; Frau — die → seine.'),
-  mc('Sie besucht ___ Eltern. (её)', 'ihre', ['seine', 'ihr', 'ihren'], 'sie (она) → ihr-; Eltern — мн. ч. → ihre.'),
-  mc('Wir haben ___ Auto verkauft. (наш)', 'unser', ['unsere', 'unseren', 'uns'], 'das Auto — Akk. n. = unser.'),
-  mc('Hast du ___ Schlüssel? (твой)', 'deinen', ['dein', 'deine', 'deinem'], 'der Schlüssel — Akk. m. → deinen.'),
-  mc('Ich helfe ___ Bruder. (моему)', 'meinem', ['meinen', 'mein', 'meiner'], 'helfen + Dativ; der Bruder → meinem.'),
-  mc('Ihr habt ___ Hausaufgaben gemacht. (ваши)', 'eure', ['euer', 'euere', 'euren'], 'euer → eure (e выпадает): eure Hausaufgaben.')])
+ [mc('Das ist ___ Mutter. (ich)', 'meine', ['mein', 'meinen', 'meiner'], 'ich → mein-; Mutter — die, Nom. f. → meine.'),
+  mc('Er liebt ___ Frau. (er)', 'seine', ['sein', 'ihre', 'seiner'], 'er → sein-; Frau — die, Akk. f. → seine.'),
+  mc('Sie besucht ___ Eltern. (sie, она)', 'ihre', ['seine', 'ihr', 'ihren'], 'sie (она) → ihr-; Eltern — мн. ч., Akk. → ihre.'),
+  mc('Wir haben ___ Auto verkauft. (wir)', 'unser', ['unsere', 'unseren', 'uns'], 'wir → unser-; das Auto — Akk. n. → unser (без окончания).'),
+  mc('Hast du ___ Schlüssel? (du)', 'deinen', ['dein', 'deine', 'deinem'], 'du → dein-; der Schlüssel — Akk. m. → deinen.'),
+  mc('Ich helfe ___ Bruder. (ich)', 'meinem', ['meinen', 'mein', 'meiner'], 'ich → mein-; helfen + Dativ; der Bruder — Dat. m. → meinem.'),
+  mc('Ihr habt ___ Hausaufgaben gemacht. (ihr)', 'eure', ['euer', 'eures', 'euren'], 'ihr → euer-; Hausaufgaben — мн. ч. → eure (е перед -e выпадает): eure Hausaufgaben.')])
 
 topic('komparativ', 'Komparativ und Superlativ', 'AB S.47, S.78 §9b, S.82; Panorama Kap.3',
  ['Komparativ: Adjektiv + -er (schnell → schneller). Superlativ: am + -sten (am schnellsten).',
@@ -316,8 +316,9 @@ for kind in ['def', 'indef']:
 R.shuffle(ad); add('adjdekl', ad)
 
 # ---- Possessivpronomen
-own = [('ich', 'mein', 'мой'), ('du', 'dein', 'твой'), ('er', 'sein', 'его'), ('sie', 'ihr', 'её'), ('wir', 'unser', 'наш'), ('ihr', 'euer', 'ваш')]
+own = [('ich', 'mein', 'ich'), ('du', 'dein', 'du'), ('er', 'sein', 'er'), ('sie (она)', 'ihr', 'sie, она'), ('wir', 'unser', 'wir'), ('ihr', 'euer', 'ihr'), ('sie (они)', 'ihr', 'sie, они')]
 pn = {'m': ['Bruder', 'Vater', 'Freund', 'Hund', 'Onkel', 'Lehrer'], 'f': ['Mutter', 'Schwester', 'Freundin', 'Katze', 'Tante', 'Lehrerin'], 'n': ['Kind', 'Baby', 'Pferd'], 'p': ['Eltern', 'Freunde', 'Kinder', 'Geschwister']}
+PDAT = {'Freunde': 'Freunden', 'Kinder': 'Kindern'}   # Dativ Plural: -n
 PE = {'n': {'m': '', 'f': 'e', 'n': '', 'p': 'e'}, 'a': {'m': 'en', 'f': 'e', 'n': '', 'p': 'e'}, 'd': {'m': 'em', 'f': 'er', 'n': 'em', 'p': 'en'}}
 def poss(stem, e):
     if stem == 'euer' and e and e[0] in 'e': return 'eur' + e
@@ -332,9 +333,10 @@ for case in 'nad':
             if case == 'a' and g == 'p' and False: pass
             wr = pick3(a, [poss(o[1], x) for x in ['', 'e', 'en', 'em', 'er']])
             fq = R.choice(pf[case]); fq = plur(fq) if g == 'p' and case == 'n' else fq
+            if case == 'd' and g == 'p': n_ = PDAT.get(n_, n_)
             q = fq.format(n=n_) + f' ({o[2]})'
-            if case == 'd' and q.startswith('Ich helfe') and g == 'p': q = f'Ich telefoniere mit ___ {n_} ({o[2]}).'.replace(') (', ' (')
-            pl.append(mc(q, a, wr, f"{o[0]} → {o[1]}-; {CN[case]} {GN_[g]} → -{e or '(без окончания)'}: {a}."))
+            q = q.replace('. (', ' (', 1) if q.endswith(').') else q
+            pl.append(mc(q, a, wr, f"{o[0]} → {o[1]}-; {CN[case]} {GN_[g]} → {('-' + e) if e else 'без окончания'}: {a}."))
 R.shuffle(pl); add('possessiv', pl)
 
 # ---- Genitiv

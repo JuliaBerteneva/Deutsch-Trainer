@@ -38,7 +38,7 @@ function gpick(topicId, n) {
 function startGrammar(topicId, entries) {
   const q = entries || gpick(topicId, topicId ? 8 : 10);
   if (!q.length) { toast('Keine Aufgaben verfügbar'); return; }
-  GSES = { topicId, queue: q.slice(), total: q.length, done: 0, firstOk: 0, missed: [] };
+  GSES = { topicId, queue: q.slice(), total: q.length, done: 0, firstOk: 0, missed: [], rules: !entries, ruled: {} };   // rules: перед первым заданием каждой темы показываем правило
   go('gex');
 }
 function gtopicsOverview() {
@@ -76,14 +76,35 @@ function viewGTopic() {
 }
 
 /* ---- упражнения ---- */
+function ruleBlock(t) {
+  return h('div', { class: 'rule' }, t.rule.map(l => h('p', null, l)));
+}
+function viewGRule(e) {
+  const t = e.topic;
+  const go_ = () => { GSES.ruled[t.id] = true; render(); };
+  KEYS = ev => { if (ev.key === 'Enter' || ev.key === ' ') { ev.preventDefault(); go_(); } };
+  return h('div', { class: 'wrap' },
+    h('div', null,
+      h('div', { class: 'top' },
+        h('button', { class: 'icon', 'aria-label': 'Schließen', onclick: () => go(GSES.done ? 'gsum' : 'home') }, '✕'),
+        h('div', { class: 'title' }, t.title), h('div', { class: 'sub' }, `${GSES.done}/${GSES.total}`)),
+      bar(GSES.done, GSES.total)),
+    h('div', { class: 'card' },
+      h('div', { class: 'tag' }, 'Regel'),
+      h('div', { class: 'muted small' }, t.src),
+      ruleBlock(t),
+      h('div', { class: 'btnrow' }, h('button', { class: 'btn primary', onclick: go_ }, 'Weiter zu den Aufgaben →'))));
+}
 function viewGEx() {
   const e = GSES.queue[0], it = e.item;
+  if (GSES.rules && !GSES.ruled[e.topic.id]) return viewGRule(e);
   const root = h('div', { class: 'wrap' });
   root.append(h('div', null,
     h('div', { class: 'top' },
       h('button', { class: 'icon', 'aria-label': 'Schließen', onclick: () => { if (GSES.done === 0 || confirm('Runde beenden? Dein Fortschritt ist schon gespeichert.')) go(GSES.done ? 'gsum' : 'home'); } }, '✕'),
       h('div', { class: 'title' }, e.topic.title), h('div', { class: 'sub' }, `${GSES.done}/${GSES.total}`)),
     bar(GSES.done, GSES.total)));
+  root.append(h('details', { class: 'rulebox' }, h('summary', null, '📖 Regel ansehen'), ruleBlock(e.topic)));
   const card = h('div', { class: 'card ex' }), fb = h('div', { class: 'fb', hidden: true });
   let answered = false;
   const finish = ok => {

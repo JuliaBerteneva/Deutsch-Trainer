@@ -11,139 +11,106 @@
 "items": [
 {
 "t": "mc",
-"q": "Das ist ___ Mutter. (я)",
+"q": "Das ist ___ Mutter. (ich)",
 "a": "meine",
 "w": [
 "mein",
 "meinen",
 "meiner"
 ],
-"e": "Mutter — die, Nominativ: meine."
+"e": "ich → mein-; Mutter — die, Nom. f. → meine."
 },
 {
 "t": "mc",
-"q": "Er liebt ___ Frau. (его)",
+"q": "Er liebt ___ Frau. (er)",
 "a": "seine",
 "w": [
 "sein",
 "ihre",
 "seiner"
 ],
-"e": "er → sein-; Frau — die → seine."
+"e": "er → sein-; Frau — die, Akk. f. → seine."
 },
 {
 "t": "mc",
-"q": "Sie besucht ___ Eltern. (её)",
+"q": "Sie besucht ___ Eltern. (sie, она)",
 "a": "ihre",
 "w": [
 "seine",
 "ihr",
 "ihren"
 ],
-"e": "sie (она) → ihr-; Eltern — мн. ч. → ihre."
+"e": "sie (она) → ihr-; Eltern — мн. ч., Akk. → ihre."
 },
 {
 "t": "mc",
-"q": "Wir haben ___ Auto verkauft. (наш)",
+"q": "Wir haben ___ Auto verkauft. (wir)",
 "a": "unser",
 "w": [
 "unsere",
 "unseren",
 "uns"
 ],
-"e": "das Auto — Akk. n. = unser."
+"e": "wir → unser-; das Auto — Akk. n. → unser (без окончания)."
 },
 {
 "t": "mc",
-"q": "Hast du ___ Schlüssel? (твой)",
+"q": "Hast du ___ Schlüssel? (du)",
 "a": "deinen",
 "w": [
 "dein",
 "deine",
 "deinem"
 ],
-"e": "der Schlüssel — Akk. m. → deinen."
+"e": "du → dein-; der Schlüssel — Akk. m. → deinen."
 },
 {
 "t": "mc",
-"q": "Ich helfe ___ Bruder. (моему)",
+"q": "Ich helfe ___ Bruder. (ich)",
 "a": "meinem",
 "w": [
 "meinen",
 "mein",
 "meiner"
 ],
-"e": "helfen + Dativ; der Bruder → meinem."
+"e": "ich → mein-; helfen + Dativ; der Bruder — Dat. m. → meinem."
 },
 {
 "t": "mc",
-"q": "Ihr habt ___ Hausaufgaben gemacht. (ваши)",
+"q": "Ihr habt ___ Hausaufgaben gemacht. (ihr)",
 "a": "eure",
 "w": [
 "euer",
-"euere",
+"eures",
 "euren"
 ],
-"e": "euer → eure (e выпадает): eure Hausaufgaben."
+"e": "ihr → euer-; Hausaufgaben — мн. ч. → eure (е перед -e выпадает): eure Hausaufgaben."
 },
 {
 "t": "mc",
-"q": "Hier ist ___ Pferd. (наш)",
-"a": "unser",
+"q": "Siehst du ___ Kind? (du)",
+"a": "dein",
 "w": [
-"unserer",
-"unserem",
-"unsere"
+"deine",
+"deiner",
+"deinem"
 ],
-"e": "wir → unser-; Nom. n. → -(без окончания): unser."
+"e": "du → dein-; Akk. n. → без окончания: dein."
 },
 {
 "t": "mc",
-"q": "Ich kenne ___ Pferd. (ваш)",
-"a": "euer",
+"q": "Er spricht mit ___ Schwester. (sie, они)",
+"a": "ihrer",
 "w": [
-"eurer",
-"eure",
-"euren"
-],
-"e": "ihr → euer-; Akk. n. → -(без окончания): euer."
-},
-{
-"t": "mc",
-"q": "Hier ist ___ Pferd. (ваш)",
-"a": "euer",
-"w": [
-"eurem",
-"eure",
-"euren"
-],
-"e": "ihr → euer-; Nom. n. → -(без окончания): euer."
-},
-{
-"t": "mc",
-"q": "Er spricht mit ___ Lehrerin. (мой)",
-"a": "meiner",
-"w": [
-"meinem",
-"meine",
-"mein"
-],
-"e": "ich → mein-; Dat. f. → -er: meiner."
-},
-{
-"t": "mc",
-"q": "Ich kenne ___ Baby. (её)",
-"a": "ihr",
-"w": [
-"ihre",
-"ihrer",
+"ihrem",
+"ihr",
 "ihren"
 ],
-"e": "sie → ihr-; Akk. n. → -(без окончания): ihr."
+"e": "sie (они) → ihr-; Dat. f. → -er: ihrer."
 },
 {
 "t": "mc",
-"q": "Das sind ___ Kinder. (его)",
+"q": "Das sind ___ Kinder. (er)",
 "a": "seine",
 "w": [
 "seinem",
@@ -154,183 +121,62 @@
 },
 {
 "t": "mc",
-"q": "Ich besuche ___ Freunde. (её)",
-"a": "ihre",
+"q": "Siehst du ___ Kind? (ich)",
+"a": "mein",
 "w": [
-"ihr",
-"ihrem",
-"ihren"
+"meinem",
+"meine",
+"meinen"
 ],
-"e": "sie → ihr-; Akk. мн.ч. → -e: ihre."
+"e": "ich → mein-; Akk. n. → без окончания: mein."
 },
 {
 "t": "mc",
-"q": "Ich kenne ___ Freundin. (ваш)",
-"a": "eure",
-"w": [
-"eurem",
-"eurer",
-"euer"
-],
-"e": "ihr → euer-; Akk. f. → -e: eure."
-},
-{
-"t": "mc",
-"q": "Ich kenne ___ Freunde. (наш)",
-"a": "unsere",
-"w": [
-"unserer",
-"unserem",
-"unser"
-],
-"e": "wir → unser-; Akk. мн.ч. → -e: unsere."
-},
-{
-"t": "mc",
-"q": "Ich helfe ___ Kind. (его)",
-"a": "seinem",
-"w": [
-"seinen",
-"sein",
-"seine"
-],
-"e": "er → sein-; Dat. n. → -em: seinem."
-},
-{
-"t": "mc",
-"q": "Hier ist ___ Tante. (наш)",
-"a": "unsere",
-"w": [
-"unser",
-"unserer",
-"unserem"
-],
-"e": "wir → unser-; Nom. f. → -e: unsere."
-},
-{
-"t": "mc",
-"q": "Das sind ___ Freunde. (наш)",
-"a": "unsere",
-"w": [
-"unserer",
-"unseren",
-"unser"
-],
-"e": "wir → unser-; Nom. мн.ч. → -e: unsere."
-},
-{
-"t": "mc",
-"q": "Ich besuche ___ Freundin. (её)",
-"a": "ihre",
-"w": [
-"ihrem",
-"ihrer",
-"ihren"
-],
-"e": "sie → ihr-; Akk. f. → -e: ihre."
-},
-{
-"t": "mc",
-"q": "Ich telefoniere mit ___ Geschwister. (его)",
-"a": "seinen",
-"w": [
-"sein",
-"seiner",
-"seine"
-],
-"e": "er → sein-; Dat. мн.ч. → -en: seinen."
-},
-{
-"t": "mc",
-"q": "Ich kenne ___ Mutter. (его)",
-"a": "seine",
-"w": [
-"seinem",
-"sein",
-"seinen"
-],
-"e": "er → sein-; Akk. f. → -e: seine."
-},
-{
-"t": "mc",
-"q": "Ich besuche ___ Kinder. (её)",
-"a": "ihre",
-"w": [
-"ihren",
-"ihrer",
-"ihr"
-],
-"e": "sie → ihr-; Akk. мн.ч. → -e: ihre."
-},
-{
-"t": "mc",
-"q": "Ich telefoniere mit ___ Kinder. (твой)",
-"a": "deinen",
+"q": "Hier ist ___ Pferd. (du)",
+"a": "dein",
 "w": [
 "deinem",
 "deiner",
-"dein"
+"deine"
 ],
-"e": "du → dein-; Dat. мн.ч. → -en: deinen."
+"e": "du → dein-; Nom. n. → без окончания: dein."
 },
 {
 "t": "mc",
-"q": "Das ist ___ Tante. (ваш)",
-"a": "eure",
+"q": "Das ist ___ Baby. (sie, они)",
+"a": "ihr",
 "w": [
-"euren",
-"euer",
-"eurem"
+"ihrer",
+"ihrem",
+"ihren"
 ],
-"e": "ihr → euer-; Nom. f. → -e: eure."
+"e": "sie (они) → ihr-; Nom. n. → без окончания: ihr."
 },
 {
 "t": "mc",
-"q": "Ich helfe ___ Mutter. (наш)",
-"a": "unserer",
+"q": "Ich kenne ___ Freund. (sie, они)",
+"a": "ihren",
 "w": [
-"unserem",
-"unsere",
-"unseren"
+"ihrer",
+"ihrem",
+"ihre"
 ],
-"e": "wir → unser-; Dat. f. → -er: unserer."
+"e": "sie (они) → ihr-; Akk. m. → -en: ihren."
 },
 {
 "t": "mc",
-"q": "Ich helfe ___ Vater. (его)",
-"a": "seinem",
+"q": "Ich helfe ___ Tante. (sie, они)",
+"a": "ihrer",
 "w": [
-"sein",
-"seinen",
-"seine"
+"ihren",
+"ihre",
+"ihrem"
 ],
-"e": "er → sein-; Dat. m. → -em: seinem."
+"e": "sie (они) → ihr-; Dat. f. → -er: ihrer."
 },
 {
 "t": "mc",
-"q": "Siehst du ___ Baby? (ваш)",
-"a": "euer",
-"w": [
-"euren",
-"eure",
-"eurem"
-],
-"e": "ihr → euer-; Akk. n. → -(без окончания): euer."
-},
-{
-"t": "mc",
-"q": "Ich besuche ___ Geschwister. (твой)",
-"a": "deine",
-"w": [
-"dein",
-"deiner",
-"deinen"
-],
-"e": "du → dein-; Akk. мн.ч. → -e: deine."
-},
-{
-"t": "mc",
-"q": "Ich helfe ___ Katze. (ваш)",
+"q": "Ich helfe ___ Katze. (ihr)",
 "a": "eurer",
 "w": [
 "eure",
@@ -341,29 +187,7 @@
 },
 {
 "t": "mc",
-"q": "Siehst du ___ Kind? (твой)",
-"a": "dein",
-"w": [
-"deine",
-"deiner",
-"deinem"
-],
-"e": "du → dein-; Akk. n. → -(без окончания): dein."
-},
-{
-"t": "mc",
-"q": "Das ist ___ Katze. (ваш)",
-"a": "eure",
-"w": [
-"eurem",
-"euer",
-"eurer"
-],
-"e": "ihr → euer-; Nom. f. → -e: eure."
-},
-{
-"t": "mc",
-"q": "Hier ist ___ Lehrerin. (твой)",
+"q": "Hier ist ___ Lehrerin. (du)",
 "a": "deine",
 "w": [
 "deiner",
@@ -374,425 +198,62 @@
 },
 {
 "t": "mc",
-"q": "Ich telefoniere mit ___ Eltern. (ваш)",
-"a": "euren",
-"w": [
-"eurem",
-"euer",
-"eurer"
-],
-"e": "ihr → euer-; Dat. мн.ч. → -en: euren."
-},
-{
-"t": "mc",
-"q": "Er spricht mit ___ Freundin. (его)",
-"a": "seiner",
-"w": [
-"seinen",
-"sein",
-"seinem"
-],
-"e": "er → sein-; Dat. f. → -er: seiner."
-},
-{
-"t": "mc",
-"q": "Ich telefoniere mit ___ Freunde. (мой)",
-"a": "meinen",
-"w": [
-"meine",
-"meinem",
-"mein"
-],
-"e": "ich → mein-; Dat. мн.ч. → -en: meinen."
-},
-{
-"t": "mc",
-"q": "Ich telefoniere mit ___ Geschwister (мой).",
-"a": "meinen",
-"w": [
-"meinem",
-"meiner",
-"mein"
-],
-"e": "ich → mein-; Dat. мн.ч. → -en: meinen."
-},
-{
-"t": "mc",
-"q": "Das ist ___ Freundin. (мой)",
-"a": "meine",
-"w": [
-"meinen",
-"mein",
-"meiner"
-],
-"e": "ich → mein-; Nom. f. → -e: meine."
-},
-{
-"t": "mc",
-"q": "Das ist ___ Kind. (её)",
-"a": "ihr",
-"w": [
-"ihre",
-"ihren",
-"ihrem"
-],
-"e": "sie → ihr-; Nom. n. → -(без окончания): ihr."
-},
-{
-"t": "mc",
-"q": "Ich helfe ___ Kind. (твой)",
-"a": "deinem",
-"w": [
-"deinen",
-"deine",
-"dein"
-],
-"e": "du → dein-; Dat. n. → -em: deinem."
-},
-{
-"t": "mc",
-"q": "Das ist ___ Freund. (её)",
-"a": "ihr",
-"w": [
-"ihrer",
-"ihrem",
-"ihre"
-],
-"e": "sie → ihr-; Nom. m. → -(без окончания): ihr."
-},
-{
-"t": "mc",
-"q": "Ich besuche ___ Bruder. (его)",
-"a": "seinen",
-"w": [
-"sein",
-"seiner",
-"seine"
-],
-"e": "er → sein-; Akk. m. → -en: seinen."
-},
-{
-"t": "mc",
-"q": "Ich besuche ___ Baby. (его)",
-"a": "sein",
-"w": [
-"seinen",
-"seiner",
-"seinem"
-],
-"e": "er → sein-; Akk. n. → -(без окончания): sein."
-},
-{
-"t": "mc",
-"q": "Ich helfe ___ Pferd. (мой)",
-"a": "meinem",
-"w": [
-"mein",
-"meine",
-"meiner"
-],
-"e": "ich → mein-; Dat. n. → -em: meinem."
-},
-{
-"t": "mc",
-"q": "Das ist ___ Freund. (наш)",
-"a": "unser",
-"w": [
-"unserem",
-"unserer",
-"unsere"
-],
-"e": "wir → unser-; Nom. m. → -(без окончания): unser."
-},
-{
-"t": "mc",
-"q": "Ich besuche ___ Onkel. (ваш)",
-"a": "euren",
-"w": [
-"eurer",
-"eure",
-"euer"
-],
-"e": "ihr → euer-; Akk. m. → -en: euren."
-},
-{
-"t": "mc",
-"q": "Ich helfe ___ Kind. (наш)",
-"a": "unserem",
-"w": [
-"unseren",
-"unser",
-"unserer"
-],
-"e": "wir → unser-; Dat. n. → -em: unserem."
-},
-{
-"t": "mc",
-"q": "Er spricht mit ___ Baby. (ваш)",
-"a": "eurem",
-"w": [
-"euren",
-"eurer",
-"euer"
-],
-"e": "ihr → euer-; Dat. n. → -em: eurem."
-},
-{
-"t": "mc",
-"q": "Siehst du ___ Pferd? (её)",
-"a": "ihr",
-"w": [
-"ihren",
-"ihrem",
-"ihre"
-],
-"e": "sie → ihr-; Akk. n. → -(без окончания): ihr."
-},
-{
-"t": "mc",
-"q": "Hier ist ___ Hund. (его)",
-"a": "sein",
-"w": [
-"seiner",
-"seinem",
-"seinen"
-],
-"e": "er → sein-; Nom. m. → -(без окончания): sein."
-},
-{
-"t": "mc",
-"q": "Ich telefoniere mit ___ Tante. (наш)",
-"a": "unserer",
-"w": [
-"unser",
-"unseren",
-"unserem"
-],
-"e": "wir → unser-; Dat. f. → -er: unserer."
-},
-{
-"t": "mc",
-"q": "Ich telefoniere mit ___ Kind. (мой)",
-"a": "meinem",
-"w": [
-"mein",
-"meine",
-"meinen"
-],
-"e": "ich → mein-; Dat. n. → -em: meinem."
-},
-{
-"t": "mc",
-"q": "Ich helfe ___ Onkel. (её)",
+"q": "Ich telefoniere mit ___ Pferd. (sie, они)",
 "a": "ihrem",
 "w": [
+"ihren",
 "ihre",
-"ihren",
-"ihr"
+"ihrer"
 ],
-"e": "sie → ihr-; Dat. m. → -em: ihrem."
+"e": "sie (они) → ihr-; Dat. n. → -em: ihrem."
 },
 {
 "t": "mc",
-"q": "Ich besuche ___ Hund. (твой)",
-"a": "deinen",
-"w": [
-"dein",
-"deiner",
-"deine"
-],
-"e": "du → dein-; Akk. m. → -en: deinen."
-},
-{
-"t": "mc",
-"q": "Ich besuche ___ Freundin. (наш)",
-"a": "unsere",
-"w": [
-"unser",
-"unserem",
-"unserer"
-],
-"e": "wir → unser-; Akk. f. → -e: unsere."
-},
-{
-"t": "mc",
-"q": "Das sind ___ Freunde. (её)",
+"q": "Ich kenne ___ Freunde. (sie, они)",
 "a": "ihre",
 "w": [
 "ihrer",
-"ihrem",
-"ihr"
-],
-"e": "sie → ihr-; Nom. мн.ч. → -e: ihre."
-},
-{
-"t": "mc",
-"q": "Hier ist ___ Kind. (наш)",
-"a": "unser",
-"w": [
-"unseren",
-"unserer",
-"unserem"
-],
-"e": "wir → unser-; Nom. n. → -(без окончания): unser."
-},
-{
-"t": "mc",
-"q": "Ich kenne ___ Lehrerin. (твой)",
-"a": "deine",
-"w": [
-"deiner",
-"deinen",
-"deinem"
-],
-"e": "du → dein-; Akk. f. → -e: deine."
-},
-{
-"t": "mc",
-"q": "Das ist ___ Vater. (его)",
-"a": "sein",
-"w": [
-"seiner",
-"seinem",
-"seinen"
-],
-"e": "er → sein-; Nom. m. → -(без окончания): sein."
-},
-{
-"t": "mc",
-"q": "Hier ist ___ Bruder. (его)",
-"a": "sein",
-"w": [
-"seinem",
-"seine",
-"seiner"
-],
-"e": "er → sein-; Nom. m. → -(без окончания): sein."
-},
-{
-"t": "mc",
-"q": "Siehst du ___ Lehrer? (её)",
-"a": "ihren",
-"w": [
-"ihr",
-"ihrem",
-"ihre"
-],
-"e": "sie → ihr-; Akk. m. → -en: ihren."
-},
-{
-"t": "mc",
-"q": "Ich telefoniere mit ___ Hund. (наш)",
-"a": "unserem",
-"w": [
-"unsere",
-"unseren",
-"unser"
-],
-"e": "wir → unser-; Dat. m. → -em: unserem."
-},
-{
-"t": "mc",
-"q": "Ich telefoniere mit ___ Mutter. (твой)",
-"a": "deiner",
-"w": [
-"dein",
-"deine",
-"deinen"
-],
-"e": "du → dein-; Dat. f. → -er: deiner."
-},
-{
-"t": "mc",
-"q": "Hier sind ___ Kinder. (её)",
-"a": "ihre",
-"w": [
 "ihren",
-"ihrer",
 "ihrem"
 ],
-"e": "sie → ihr-; Nom. мн.ч. → -e: ihre."
+"e": "sie (они) → ihr-; Akk. мн.ч. → -e: ihre."
 },
 {
 "t": "mc",
-"q": "Ich telefoniere mit ___ Vater. (твой)",
-"a": "deinem",
+"q": "Ich telefoniere mit ___ Geschwister. (du)",
+"a": "deinen",
 "w": [
-"deiner",
 "deine",
-"deinen"
-],
-"e": "du → dein-; Dat. m. → -em: deinem."
-},
-{
-"t": "mc",
-"q": "Er spricht mit ___ Bruder. (его)",
-"a": "seinem",
-"w": [
-"seinen",
-"seiner",
-"sein"
-],
-"e": "er → sein-; Dat. m. → -em: seinem."
-},
-{
-"t": "mc",
-"q": "Hier sind ___ Geschwister. (его)",
-"a": "seine",
-"w": [
-"seiner",
-"seinen",
-"seinem"
-],
-"e": "er → sein-; Nom. мн.ч. → -e: seine."
-},
-{
-"t": "mc",
-"q": "Siehst du ___ Onkel? (ваш)",
-"a": "euren",
-"w": [
-"eurer",
-"euer",
-"eure"
-],
-"e": "ihr → euer-; Akk. m. → -en: euren."
-},
-{
-"t": "mc",
-"q": "Ich besuche ___ Hund. (её)",
-"a": "ihren",
-"w": [
-"ihre",
-"ihrem",
-"ihr"
-],
-"e": "sie → ihr-; Akk. m. → -en: ihren."
-},
-{
-"t": "mc",
-"q": "Hier ist ___ Pferd. (твой)",
-"a": "dein",
-"w": [
-"deinem",
 "deiner",
-"deine"
+"deinem"
 ],
-"e": "du → dein-; Nom. n. → -(без окончания): dein."
+"e": "du → dein-; Dat. мн.ч. → -en: deinen."
 },
 {
 "t": "mc",
-"q": "Er spricht mit ___ Bruder. (наш)",
-"a": "unserem",
+"q": "Das ist ___ Lehrerin. (sie, они)",
+"a": "ihre",
 "w": [
-"unsere",
-"unseren",
-"unserer"
+"ihren",
+"ihr",
+"ihrem"
 ],
-"e": "wir → unser-; Dat. m. → -em: unserem."
+"e": "sie (они) → ihr-; Nom. f. → -e: ihre."
 },
 {
 "t": "mc",
-"q": "Ich kenne ___ Eltern. (наш)",
+"q": "Ich telefoniere mit ___ Onkel. (sie, они)",
+"a": "ihrem",
+"w": [
+"ihren",
+"ihr",
+"ihre"
+],
+"e": "sie (они) → ihr-; Dat. m. → -em: ihrem."
+},
+{
+"t": "mc",
+"q": "Ich kenne ___ Eltern. (wir)",
 "a": "unsere",
 "w": [
 "unserer",
@@ -803,47 +264,597 @@
 },
 {
 "t": "mc",
-"q": "Ich telefoniere mit ___ Geschwister. (её)",
-"a": "ihren",
+"q": "Ich telefoniere mit ___ Tante. (wir)",
+"a": "unserer",
 "w": [
-"ihre",
-"ihr",
-"ihrer"
+"unser",
+"unseren",
+"unserem"
 ],
-"e": "sie → ihr-; Dat. мн.ч. → -en: ihren."
+"e": "wir → unser-; Dat. f. → -er: unserer."
 },
 {
 "t": "mc",
-"q": "Ich besuche ___ Katze. (ваш)",
+"q": "Das ist ___ Katze. (ihr)",
 "a": "eure",
 "w": [
-"eurer",
+"eurem",
 "euer",
-"eurem"
+"eurer"
 ],
-"e": "ihr → euer-; Akk. f. → -e: eure."
+"e": "ihr → euer-; Nom. f. → -e: eure."
 },
 {
 "t": "mc",
-"q": "Das ist ___ Freund. (ваш)",
+"q": "Ich telefoniere mit ___ Kind. (du)",
+"a": "deinem",
+"w": [
+"dein",
+"deine",
+"deinen"
+],
+"e": "du → dein-; Dat. n. → -em: deinem."
+},
+{
+"t": "mc",
+"q": "Das ist ___ Freund. (wir)",
+"a": "unser",
+"w": [
+"unserem",
+"unserer",
+"unsere"
+],
+"e": "wir → unser-; Nom. m. → без окончания: unser."
+},
+{
+"t": "mc",
+"q": "Hier ist ___ Pferd. (ihr)",
 "a": "euer",
 "w": [
 "eurem",
-"eurer",
+"eure",
 "euren"
 ],
-"e": "ihr → euer-; Nom. m. → -(без окончания): euer."
+"e": "ihr → euer-; Nom. n. → без окончания: euer."
 },
 {
 "t": "mc",
-"q": "Das ist ___ Kind. (его)",
+"q": "Ich besuche ___ Lehrerin. (sie, они)",
+"a": "ihre",
+"w": [
+"ihren",
+"ihr",
+"ihrer"
+],
+"e": "sie (они) → ihr-; Akk. f. → -e: ihre."
+},
+{
+"t": "mc",
+"q": "Ich kenne ___ Freunde. (wir)",
+"a": "unsere",
+"w": [
+"unserer",
+"unserem",
+"unser"
+],
+"e": "wir → unser-; Akk. мн.ч. → -e: unsere."
+},
+{
+"t": "mc",
+"q": "Ich kenne ___ Mutter. (er)",
+"a": "seine",
+"w": [
+"seinem",
+"sein",
+"seinen"
+],
+"e": "er → sein-; Akk. f. → -e: seine."
+},
+{
+"t": "mc",
+"q": "Er spricht mit ___ Bruder. (er)",
+"a": "seinem",
+"w": [
+"seinen",
+"seiner",
+"sein"
+],
+"e": "er → sein-; Dat. m. → -em: seinem."
+},
+{
+"t": "mc",
+"q": "Ich besuche ___ Freunde. (sie, она)",
+"a": "ihre",
+"w": [
+"ihr",
+"ihrem",
+"ihren"
+],
+"e": "sie (она) → ihr-; Akk. мн.ч. → -e: ihre."
+},
+{
+"t": "mc",
+"q": "Ich besuche ___ Freundin. (sie, она)",
+"a": "ihre",
+"w": [
+"ihrem",
+"ihrer",
+"ihren"
+],
+"e": "sie (она) → ihr-; Akk. f. → -e: ihre."
+},
+{
+"t": "mc",
+"q": "Ich besuche ___ Lehrer. (sie, они)",
+"a": "ihren",
+"w": [
+"ihrer",
+"ihre",
+"ihr"
+],
+"e": "sie (они) → ihr-; Akk. m. → -en: ihren."
+},
+{
+"t": "mc",
+"q": "Ich helfe ___ Hund. (sie, они)",
+"a": "ihrem",
+"w": [
+"ihre",
+"ihren",
+"ihr"
+],
+"e": "sie (они) → ihr-; Dat. m. → -em: ihrem."
+},
+{
+"t": "mc",
+"q": "Ich besuche ___ Kinder. (sie, она)",
+"a": "ihre",
+"w": [
+"ihren",
+"ihrer",
+"ihr"
+],
+"e": "sie (она) → ihr-; Akk. мн.ч. → -e: ihre."
+},
+{
+"t": "mc",
+"q": "Ich besuche ___ Baby. (sie, они)",
+"a": "ihr",
+"w": [
+"ihren",
+"ihrem",
+"ihre"
+],
+"e": "sie (они) → ihr-; Akk. n. → без окончания: ihr."
+},
+{
+"t": "mc",
+"q": "Hier ist ___ Hund. (er)",
+"a": "sein",
+"w": [
+"seiner",
+"seinem",
+"seinen"
+],
+"e": "er → sein-; Nom. m. → без окончания: sein."
+},
+{
+"t": "mc",
+"q": "Siehst du ___ Pferd? (sie, она)",
+"a": "ihr",
+"w": [
+"ihren",
+"ihrem",
+"ihre"
+],
+"e": "sie (она) → ihr-; Akk. n. → без окончания: ihr."
+},
+{
+"t": "mc",
+"q": "Ich kenne ___ Baby. (sie, она)",
+"a": "ihr",
+"w": [
+"ihre",
+"ihrer",
+"ihren"
+],
+"e": "sie (она) → ihr-; Akk. n. → без окончания: ihr."
+},
+{
+"t": "mc",
+"q": "Er spricht mit ___ Baby. (ihr)",
+"a": "eurem",
+"w": [
+"euren",
+"eurer",
+"euer"
+],
+"e": "ihr → euer-; Dat. n. → -em: eurem."
+},
+{
+"t": "mc",
+"q": "Ich helfe ___ Freunden. (er)",
+"a": "seinen",
+"w": [
+"seinem",
+"sein",
+"seiner"
+],
+"e": "er → sein-; Dat. мн.ч. → -en: seinen."
+},
+{
+"t": "mc",
+"q": "Ich kenne ___ Katze. (er)",
+"a": "seine",
+"w": [
+"seiner",
+"seinen",
+"sein"
+],
+"e": "er → sein-; Akk. f. → -e: seine."
+},
+{
+"t": "mc",
+"q": "Ich telefoniere mit ___ Kind. (ich)",
+"a": "meinem",
+"w": [
+"mein",
+"meine",
+"meinen"
+],
+"e": "ich → mein-; Dat. n. → -em: meinem."
+},
+{
+"t": "mc",
+"q": "Hier ist ___ Kind. (wir)",
+"a": "unser",
+"w": [
+"unseren",
+"unserer",
+"unserem"
+],
+"e": "wir → unser-; Nom. n. → без окончания: unser."
+},
+{
+"t": "mc",
+"q": "Ich kenne ___ Schwester. (ich)",
+"a": "meine",
+"w": [
+"meiner",
+"meinen",
+"meinem"
+],
+"e": "ich → mein-; Akk. f. → -e: meine."
+},
+{
+"t": "mc",
+"q": "Das ist ___ Vater. (er)",
+"a": "sein",
+"w": [
+"seiner",
+"seinem",
+"seinen"
+],
+"e": "er → sein-; Nom. m. → без окончания: sein."
+},
+{
+"t": "mc",
+"q": "Ich helfe ___ Kind. (er)",
+"a": "seinem",
+"w": [
+"seinen",
+"sein",
+"seine"
+],
+"e": "er → sein-; Dat. n. → -em: seinem."
+},
+{
+"t": "mc",
+"q": "Siehst du ___ Lehrer? (sie, она)",
+"a": "ihren",
+"w": [
+"ihr",
+"ihrem",
+"ihre"
+],
+"e": "sie (она) → ihr-; Akk. m. → -en: ihren."
+},
+{
+"t": "mc",
+"q": "Hier sind ___ Kinder. (sie, она)",
+"a": "ihre",
+"w": [
+"ihren",
+"ihrer",
+"ihrem"
+],
+"e": "sie (она) → ihr-; Nom. мн.ч. → -e: ihre."
+},
+{
+"t": "mc",
+"q": "Er spricht mit ___ Vater. (du)",
+"a": "deinem",
+"w": [
+"deiner",
+"dein",
+"deinen"
+],
+"e": "du → dein-; Dat. m. → -em: deinem."
+},
+{
+"t": "mc",
+"q": "Er spricht mit ___ Geschwister. (du)",
+"a": "deinen",
+"w": [
+"deine",
+"deinem",
+"deiner"
+],
+"e": "du → dein-; Dat. мн.ч. → -en: deinen."
+},
+{
+"t": "mc",
+"q": "Das ist ___ Kind. (er)",
 "a": "sein",
 "w": [
 "seinen",
 "seinem",
 "seine"
 ],
-"e": "er → sein-; Nom. n. → -(без окончания): sein."
+"e": "er → sein-; Nom. n. → без окончания: sein."
+},
+{
+"t": "mc",
+"q": "Ich helfe ___ Pferd. (ich)",
+"a": "meinem",
+"w": [
+"mein",
+"meine",
+"meiner"
+],
+"e": "ich → mein-; Dat. n. → -em: meinem."
+},
+{
+"t": "mc",
+"q": "Siehst du ___ Lehrerin? (ich)",
+"a": "meine",
+"w": [
+"meinen",
+"mein",
+"meinem"
+],
+"e": "ich → mein-; Akk. f. → -e: meine."
+},
+{
+"t": "mc",
+"q": "Hier ist ___ Tante. (wir)",
+"a": "unsere",
+"w": [
+"unser",
+"unserer",
+"unserem"
+],
+"e": "wir → unser-; Nom. f. → -e: unsere."
+},
+{
+"t": "mc",
+"q": "Ich besuche ___ Hund. (sie, она)",
+"a": "ihren",
+"w": [
+"ihre",
+"ihrem",
+"ihr"
+],
+"e": "sie (она) → ihr-; Akk. m. → -en: ihren."
+},
+{
+"t": "mc",
+"q": "Hier sind ___ Geschwister. (er)",
+"a": "seine",
+"w": [
+"seiner",
+"seinen",
+"seinem"
+],
+"e": "er → sein-; Nom. мн.ч. → -e: seine."
+},
+{
+"t": "mc",
+"q": "Er spricht mit ___ Freundin. (ihr)",
+"a": "eurer",
+"w": [
+"euer",
+"eurem",
+"euren"
+],
+"e": "ihr → euer-; Dat. f. → -er: eurer."
+},
+{
+"t": "mc",
+"q": "Hier ist ___ Pferd. (wir)",
+"a": "unser",
+"w": [
+"unserer",
+"unserem",
+"unsere"
+],
+"e": "wir → unser-; Nom. n. → без окончания: unser."
+},
+{
+"t": "mc",
+"q": "Hier ist ___ Bruder. (er)",
+"a": "sein",
+"w": [
+"seinem",
+"seine",
+"seiner"
+],
+"e": "er → sein-; Nom. m. → без окончания: sein."
+},
+{
+"t": "mc",
+"q": "Das ist ___ Freund. (ihr)",
+"a": "euer",
+"w": [
+"eurem",
+"eurer",
+"euren"
+],
+"e": "ihr → euer-; Nom. m. → без окончания: euer."
+},
+{
+"t": "mc",
+"q": "Das ist ___ Freundin. (ich)",
+"a": "meine",
+"w": [
+"meinen",
+"mein",
+"meiner"
+],
+"e": "ich → mein-; Nom. f. → -e: meine."
+},
+{
+"t": "mc",
+"q": "Ich besuche ___ Hund. (du)",
+"a": "deinen",
+"w": [
+"dein",
+"deiner",
+"deine"
+],
+"e": "du → dein-; Akk. m. → -en: deinen."
+},
+{
+"t": "mc",
+"q": "Ich telefoniere mit ___ Geschwister. (sie, она)",
+"a": "ihren",
+"w": [
+"ihre",
+"ihr",
+"ihrer"
+],
+"e": "sie (она) → ihr-; Dat. мн.ч. → -en: ihren."
+},
+{
+"t": "mc",
+"q": "Er spricht mit ___ Freunden. (du)",
+"a": "deinen",
+"w": [
+"deinem",
+"dein",
+"deine"
+],
+"e": "du → dein-; Dat. мн.ч. → -en: deinen."
+},
+{
+"t": "mc",
+"q": "Ich telefoniere mit ___ Lehrer. (ihr)",
+"a": "eurem",
+"w": [
+"eure",
+"euren",
+"euer"
+],
+"e": "ihr → euer-; Dat. m. → -em: eurem."
+},
+{
+"t": "mc",
+"q": "Ich helfe ___ Vater. (er)",
+"a": "seinem",
+"w": [
+"sein",
+"seinen",
+"seine"
+],
+"e": "er → sein-; Dat. m. → -em: seinem."
+},
+{
+"t": "mc",
+"q": "Ich kenne ___ Pferd. (ihr)",
+"a": "euer",
+"w": [
+"eurer",
+"eure",
+"euren"
+],
+"e": "ihr → euer-; Akk. n. → без окончания: euer."
+},
+{
+"t": "mc",
+"q": "Das ist ___ Freund. (sie, она)",
+"a": "ihr",
+"w": [
+"ihrer",
+"ihrem",
+"ihre"
+],
+"e": "sie (она) → ihr-; Nom. m. → без окончания: ihr."
+},
+{
+"t": "mc",
+"q": "Er spricht mit ___ Freundin. (er)",
+"a": "seiner",
+"w": [
+"seinen",
+"sein",
+"seinem"
+],
+"e": "er → sein-; Dat. f. → -er: seiner."
+},
+{
+"t": "mc",
+"q": "Er spricht mit ___ Kindern. (sie, они)",
+"a": "ihren",
+"w": [
+"ihrer",
+"ihre",
+"ihrem"
+],
+"e": "sie (они) → ihr-; Dat. мн.ч. → -en: ihren."
+},
+{
+"t": "mc",
+"q": "Das sind ___ Freunde. (sie, она)",
+"a": "ihre",
+"w": [
+"ihrer",
+"ihrem",
+"ihr"
+],
+"e": "sie (она) → ihr-; Nom. мн.ч. → -e: ihre."
+},
+{
+"t": "mc",
+"q": "Siehst du ___ Onkel? (ihr)",
+"a": "euren",
+"w": [
+"eurer",
+"euer",
+"eure"
+],
+"e": "ihr → euer-; Akk. m. → -en: euren."
+},
+{
+"t": "mc",
+"q": "Ich besuche ___ Geschwister. (du)",
+"a": "deine",
+"w": [
+"dein",
+"deiner",
+"deinen"
+],
+"e": "du → dein-; Akk. мн.ч. → -e: deine."
+},
+{
+"t": "mc",
+"q": "Das sind ___ Freunde. (wir)",
+"a": "unsere",
+"w": [
+"unserer",
+"unseren",
+"unser"
+],
+"e": "wir → unser-; Nom. мн.ч. → -e: unsere."
 }
 ]
 },
@@ -4813,58 +4824,135 @@
 },
 {
 "t": "mc",
-"q": "Sie (они) ___ Deutsch. (sprechen)",
-"a": "sprechen",
-"w": [
-"sprichst",
-"spreche",
-"spricht"
-],
-"e": "sie (они) → sprechen."
-},
-{
-"t": "mc",
-"q": "Sie (они) ___ den Bus. (nehmen)",
-"a": "nehmen",
-"w": [
-"nimmst",
-"nehme",
-"nehmt"
-],
-"e": "sie (они) → nehmen."
-},
-{
-"t": "mc",
-"q": "Er ___ nach Hause. (fahren)",
-"a": "fährt",
-"w": [
-"fährst",
-"fahren",
-"fahrt"
-],
-"e": "er → fährt."
-},
-{
-"t": "mc",
 "q": "Du ___ den Bus. (nehmen)",
 "a": "nimmst",
 "w": [
 "nehmt",
-"nimmt",
-"nehme"
+"nehme",
+"nehmen"
 ],
 "e": "du → nimmst."
+},
+{
+"t": "mc",
+"q": "Wir ___ nach Hause. (fahren)",
+"a": "fahren",
+"w": [
+"fahrt",
+"fährst",
+"fahre"
+],
+"e": "wir → fahren."
+},
+{
+"t": "mc",
+"q": "Wir ___ Hunger. (haben)",
+"a": "haben",
+"w": [
+"hat",
+"habe",
+"hast"
+],
+"e": "wir → haben."
+},
+{
+"t": "mc",
+"q": "Ich ___ den Bus. (nehmen)",
+"a": "nehme",
+"w": [
+"nimmst",
+"nehmt",
+"nehmen"
+],
+"e": "ich → nehme."
+},
+{
+"t": "mc",
+"q": "Ich ___ nach Hause. (fahren)",
+"a": "fahre",
+"w": [
+"fährt",
+"fahren",
+"fahrt"
+],
+"e": "ich → fahre."
+},
+{
+"t": "mc",
+"q": "Ich ___ müde. (sein)",
+"a": "bin",
+"w": [
+"sind",
+"ist",
+"seid"
+],
+"e": "ich → bin."
 },
 {
 "t": "mc",
 "q": "Er ___ Freunde. (treffen)",
 "a": "trifft",
 "w": [
+"treffe",
 "trefft",
-"triffst",
-"treffe"
+"triffst"
 ],
 "e": "er → trifft."
+},
+{
+"t": "mc",
+"q": "Sie (они) ___ mir. (helfen)",
+"a": "helfen",
+"w": [
+"hilfst",
+"helft",
+"helfe"
+],
+"e": "sie (они) → helfen."
+},
+{
+"t": "mc",
+"q": "Sie (они) ___ ein Buch. (lesen)",
+"a": "lesen",
+"w": [
+"lest",
+"liest",
+"lese"
+],
+"e": "sie (они) → lesen."
+},
+{
+"t": "mc",
+"q": "Sie (они) ___ Deutsch. (sprechen)",
+"a": "sprechen",
+"w": [
+"spricht",
+"sprecht",
+"sprichst"
+],
+"e": "sie (они) → sprechen."
+},
+{
+"t": "mc",
+"q": "Er ___ in Berlin. (wohnen)",
+"a": "wohnt",
+"w": [
+"wohnst",
+"wohne",
+"wohnen"
+],
+"e": "er → wohnt."
+},
+{
+"t": "mc",
+"q": "Du ___ nach Hause. (fahren)",
+"a": "fährst",
+"w": [
+"fahrt",
+"fährt",
+"fahren"
+],
+"e": "du → fährst."
 },
 {
 "t": "mc",
@@ -4872,54 +4960,76 @@
 "a": "gibt",
 "w": [
 "gibst",
-"geben",
-"gebt"
+"gebt",
+"geben"
 ],
 "e": "er → gibt."
 },
 {
 "t": "mc",
-"q": "Wir ___ nach Hause. (fahren)",
-"a": "fahren",
+"q": "Er ___ viel. (arbeiten)",
+"a": "arbeitet",
 "w": [
-"fährt",
-"fahrt",
-"fahre"
+"arbeiten",
+"arbeite",
+"arbeitest"
 ],
-"e": "wir → fahren."
+"e": "er → arbeitet."
 },
 {
 "t": "mc",
-"q": "Ihr ___ lange. (schlafen)",
-"a": "schlaft",
+"q": "Er ___ mir. (helfen)",
+"a": "hilft",
 "w": [
-"schläfst",
-"schläft",
-"schlafen"
+"hilfst",
+"helfen",
+"helft"
 ],
-"e": "ihr → schlaft."
+"e": "er → hilft."
 },
 {
 "t": "mc",
-"q": "Ich ___ schnell. (laufen)",
-"a": "laufe",
+"q": "Ihr ___ viel. (arbeiten)",
+"a": "arbeitet",
 "w": [
-"lauft",
+"arbeiten",
+"arbeite",
+"arbeitest"
+],
+"e": "ihr → arbeitet."
+},
+{
+"t": "mc",
+"q": "Ihr ___ schnell. (laufen)",
+"a": "lauft",
+"w": [
+"läufst",
 "läuft",
 "laufen"
 ],
-"e": "ich → laufe."
+"e": "ihr → lauft."
 },
 {
 "t": "mc",
-"q": "Ihr ___ in Berlin. (wohnen)",
-"a": "wohnt",
+"q": "Ich ___ einen Film. (sehen)",
+"a": "sehe",
 "w": [
-"wohnst",
-"wohnen",
-"wohne"
+"sehen",
+"sieht",
+"siehst"
 ],
-"e": "ihr → wohnt."
+"e": "ich → sehe."
+},
+{
+"t": "mc",
+"q": "Ihr ___ die Antwort. (wissen)",
+"a": "wisst",
+"w": [
+"wissen",
+"weiß",
+"weißt"
+],
+"e": "ihr → wisst."
 },
 {
 "t": "mc",
@@ -4934,91 +5044,80 @@
 },
 {
 "t": "mc",
-"q": "Du ___ in Berlin. (wohnen)",
-"a": "wohnst",
+"q": "Sie (они) ___ den Bus. (nehmen)",
+"a": "nehmen",
 "w": [
-"wohnen",
-"wohnt",
-"wohne"
+"nehme",
+"nimmt",
+"nehmt"
 ],
-"e": "du → wohnst."
-},
-{
-"t": "mc",
-"q": "Du ___ mir das Buch. (geben)",
-"a": "gibst",
-"w": [
-"gebt",
-"geben",
-"gebe"
-],
-"e": "du → gibst."
-},
-{
-"t": "mc",
-"q": "Ihr ___ nach Hause. (fahren)",
-"a": "fahrt",
-"w": [
-"fährst",
-"fährt",
-"fahre"
-],
-"e": "ihr → fahrt."
+"e": "sie (они) → nehmen."
 },
 {
 "t": "mc",
 "q": "Er ___ den Bus. (nehmen)",
 "a": "nimmt",
 "w": [
+"nehmen",
 "nimmst",
-"nehme",
-"nehmen"
+"nehmt"
 ],
 "e": "er → nimmt."
 },
 {
 "t": "mc",
-"q": "Wir ___ die Antwort. (wissen)",
-"a": "wissen",
+"q": "Du ___ müde. (sein)",
+"a": "bist",
 "w": [
-"wisst",
-"weiß",
-"weißt"
+"bin",
+"sind",
+"seid"
 ],
-"e": "wir → wissen."
+"e": "du → bist."
 },
 {
 "t": "mc",
-"q": "Ich ___ einen Film. (sehen)",
-"a": "sehe",
+"q": "Wir ___ mir das Buch. (geben)",
+"a": "geben",
 "w": [
-"sehen",
-"sieht",
-"seht"
+"gebt",
+"gibst",
+"gebe"
 ],
-"e": "ich → sehe."
+"e": "wir → geben."
 },
 {
 "t": "mc",
-"q": "Wir ___ in Berlin. (wohnen)",
-"a": "wohnen",
+"q": "Sie (они) ___ nach Hause. (fahren)",
+"a": "fahren",
 "w": [
-"wohnt",
-"wohne",
-"wohnst"
+"fahre",
+"fährt",
+"fahrt"
 ],
-"e": "wir → wohnen."
+"e": "sie (они) → fahren."
 },
 {
 "t": "mc",
-"q": "Ich ___ Hunger. (haben)",
-"a": "habe",
+"q": "Wir ___ Pizza. (essen)",
+"a": "essen",
 "w": [
-"hat",
-"hast",
-"haben"
+"esse",
+"isst",
+"esst"
 ],
-"e": "ich → habe."
+"e": "wir → essen."
+},
+{
+"t": "mc",
+"q": "Ich ___ Freunde. (treffen)",
+"a": "treffe",
+"w": [
+"triffst",
+"trefft",
+"trifft"
+],
+"e": "ich → treffe."
 },
 {
 "t": "mc",
@@ -5026,98 +5125,76 @@
 "a": "schlafen",
 "w": [
 "schläfst",
-"schlaft",
+"schläft",
 "schlafe"
 ],
 "e": "sie (они) → schlafen."
 },
 {
 "t": "mc",
-"q": "Ich ___ viel. (arbeiten)",
-"a": "arbeite",
+"q": "Ich ___ in Berlin. (wohnen)",
+"a": "wohne",
 "w": [
-"arbeiten",
-"arbeitest",
-"arbeitet"
+"wohnst",
+"wohnt",
+"wohnen"
 ],
-"e": "ich → arbeite."
+"e": "ich → wohne."
 },
 {
 "t": "mc",
-"q": "Ihr ___ den Bus. (nehmen)",
-"a": "nehmt",
+"q": "Wir ___ lange. (schlafen)",
+"a": "schlafen",
 "w": [
-"nehme",
-"nimmst",
-"nimmt"
+"schlafe",
+"schlaft",
+"schläft"
 ],
-"e": "ihr → nehmt."
-},
-{
-"t": "mc",
-"q": "Sie (они) ___ viel. (arbeiten)",
-"a": "arbeiten",
-"w": [
-"arbeitest",
-"arbeite",
-"arbeitet"
-],
-"e": "sie (они) → arbeiten."
+"e": "wir → schlafen."
 },
 {
 "t": "mc",
 "q": "Du ___ lange. (schlafen)",
 "a": "schläfst",
 "w": [
-"schlafe",
 "schläft",
+"schlafen",
 "schlaft"
 ],
 "e": "du → schläfst."
 },
 {
 "t": "mc",
-"q": "Sie (они) ___ nach Hause. (fahren)",
-"a": "fahren",
+"q": "Er ___ die Antwort. (wissen)",
+"a": "weiß",
 "w": [
-"fährst",
-"fährt",
-"fahre"
+"wisst",
+"weißt",
+"wissen"
 ],
-"e": "sie (они) → fahren."
+"e": "er → weiß."
 },
 {
 "t": "mc",
-"q": "Sie (они) ___ Pizza. (essen)",
-"a": "essen",
+"q": "Sie (они) ___ in Berlin. (wohnen)",
+"a": "wohnen",
 "w": [
-"esst",
-"isst",
-"esse"
+"wohnt",
+"wohnst",
+"wohne"
 ],
-"e": "sie (они) → essen."
+"e": "sie (они) → wohnen."
 },
 {
 "t": "mc",
-"q": "Ihr ___ Hunger. (haben)",
-"a": "habt",
+"q": "Sie (они) ___ Freunde. (treffen)",
+"a": "treffen",
 "w": [
-"hat",
-"habe",
-"hast"
+"trefft",
+"trifft",
+"treffe"
 ],
-"e": "ihr → habt."
-},
-{
-"t": "mc",
-"q": "Er ___ lange. (schlafen)",
-"a": "schläft",
-"w": [
-"schläfst",
-"schlafen",
-"schlafe"
-],
-"e": "er → schläft."
+"e": "sie (они) → treffen."
 },
 {
 "t": "mc",
@@ -5125,43 +5202,54 @@
 "a": "hat",
 "w": [
 "habt",
-"hast",
+"haben",
 "habe"
 ],
 "e": "er → hat."
 },
 {
 "t": "mc",
-"q": "Sie (они) ___ mir. (helfen)",
-"a": "helfen",
+"q": "Ihr ___ Hunger. (haben)",
+"a": "habt",
 "w": [
-"helft",
-"hilft",
-"helfe"
+"haben",
+"habe",
+"hast"
 ],
-"e": "sie (они) → helfen."
+"e": "ihr → habt."
 },
 {
 "t": "mc",
-"q": "Du ___ die Antwort. (wissen)",
-"a": "weißt",
+"q": "Du ___ einen Film. (sehen)",
+"a": "siehst",
 "w": [
-"wissen",
-"weiß",
-"wisst"
+"seht",
+"sehen",
+"sehe"
 ],
-"e": "du → weißt."
+"e": "du → siehst."
 },
 {
 "t": "mc",
-"q": "Wir ___ Pizza. (essen)",
-"a": "essen",
+"q": "Er ___ einen Film. (sehen)",
+"a": "sieht",
 "w": [
-"isst",
-"esst",
-"esse"
+"seht",
+"sehen",
+"siehst"
 ],
-"e": "wir → essen."
+"e": "er → sieht."
+},
+{
+"t": "mc",
+"q": "Du ___ ein Buch. (lesen)",
+"a": "liest",
+"w": [
+"lesen",
+"lest",
+"lese"
+],
+"e": "du → liest."
 },
 {
 "t": "mc",
@@ -5176,36 +5264,113 @@
 },
 {
 "t": "mc",
-"q": "Wir ___ Hunger. (haben)",
-"a": "haben",
+"q": "Wir ___ ein Buch. (lesen)",
+"a": "lesen",
 "w": [
-"habt",
+"liest",
+"lese",
+"lest"
+],
+"e": "wir → lesen."
+},
+{
+"t": "mc",
+"q": "Wir ___ in Berlin. (wohnen)",
+"a": "wohnen",
+"w": [
+"wohnst",
+"wohne",
+"wohnt"
+],
+"e": "wir → wohnen."
+},
+{
+"t": "mc",
+"q": "Du ___ Pizza. (essen)",
+"a": "isst",
+"w": [
+"essen",
+"esse",
+"esst"
+],
+"e": "du → isst."
+},
+{
+"t": "mc",
+"q": "Wir ___ Deutsch. (sprechen)",
+"a": "sprechen",
+"w": [
+"spreche",
+"sprichst",
+"sprecht"
+],
+"e": "wir → sprechen."
+},
+{
+"t": "mc",
+"q": "Ich ___ ein Buch. (lesen)",
+"a": "lese",
+"w": [
+"lest",
+"lesen",
+"liest"
+],
+"e": "ich → lese."
+},
+{
+"t": "mc",
+"q": "Ich ___ die Antwort. (wissen)",
+"a": "weiß",
+"w": [
+"wisst",
+"weißt",
+"wissen"
+],
+"e": "ich → weiß."
+},
+{
+"t": "mc",
+"q": "Ihr ___ einen Film. (sehen)",
+"a": "seht",
+"w": [
+"sehen",
+"siehst",
+"sieht"
+],
+"e": "ihr → seht."
+},
+{
+"t": "mc",
+"q": "Ich ___ viel. (arbeiten)",
+"a": "arbeite",
+"w": [
+"arbeitest",
+"arbeitet",
+"arbeiten"
+],
+"e": "ich → arbeite."
+},
+{
+"t": "mc",
+"q": "Du ___ Hunger. (haben)",
+"a": "hast",
+"w": [
+"hat",
 "habe",
-"hast"
+"haben"
 ],
-"e": "wir → haben."
+"e": "du → hast."
 },
 {
 "t": "mc",
-"q": "Du ___ Freunde. (treffen)",
-"a": "triffst",
+"q": "Du ___ mir das Buch. (geben)",
+"a": "gibst",
 "w": [
-"trifft",
-"treffe",
-"trefft"
+"geben",
+"gebt",
+"gibt"
 ],
-"e": "du → triffst."
-},
-{
-"t": "mc",
-"q": "Ich ___ mir. (helfen)",
-"a": "helfe",
-"w": [
-"helft",
-"hilfst",
-"hilft"
-],
-"e": "ich → helfe."
+"e": "du → gibst."
 },
 {
 "t": "mc",
@@ -5220,146 +5385,14 @@
 },
 {
 "t": "mc",
-"q": "Ihr ___ die Antwort. (wissen)",
-"a": "wisst",
+"q": "Wir ___ die Antwort. (wissen)",
+"a": "wissen",
 "w": [
 "weiß",
-"wissen",
+"wisst",
 "weißt"
 ],
-"e": "ihr → wisst."
-},
-{
-"t": "mc",
-"q": "Wir ___ einen Film. (sehen)",
-"a": "sehen",
-"w": [
-"sieht",
-"seht",
-"siehst"
-],
-"e": "wir → sehen."
-},
-{
-"t": "mc",
-"q": "Ihr ___ ein Buch. (lesen)",
-"a": "lest",
-"w": [
-"liest",
-"lese",
-"lesen"
-],
-"e": "ihr → lest."
-},
-{
-"t": "mc",
-"q": "Er ___ schnell. (laufen)",
-"a": "läuft",
-"w": [
-"läufst",
-"laufen",
-"lauft"
-],
-"e": "er → läuft."
-},
-{
-"t": "mc",
-"q": "Du ___ ein Buch. (lesen)",
-"a": "liest",
-"w": [
-"lese",
-"lest",
-"lesen"
-],
-"e": "du → liest."
-},
-{
-"t": "mc",
-"q": "Sie (они) ___ Freunde. (treffen)",
-"a": "treffen",
-"w": [
-"trefft",
-"treffe",
-"triffst"
-],
-"e": "sie (они) → treffen."
-},
-{
-"t": "mc",
-"q": "Sie (они) ___ müde. (sein)",
-"a": "sind",
-"w": [
-"ist",
-"bin",
-"seid"
-],
-"e": "sie (они) → sind."
-},
-{
-"t": "mc",
-"q": "Ihr ___ Pizza. (essen)",
-"a": "esst",
-"w": [
-"essen",
-"esse",
-"isst"
-],
-"e": "ihr → esst."
-},
-{
-"t": "mc",
-"q": "Ihr ___ Deutsch. (sprechen)",
-"a": "sprecht",
-"w": [
-"sprechen",
-"spricht",
-"spreche"
-],
-"e": "ihr → sprecht."
-},
-{
-"t": "mc",
-"q": "Ich ___ ein Buch. (lesen)",
-"a": "lese",
-"w": [
-"lesen",
-"liest",
-"lest"
-],
-"e": "ich → lese."
-},
-{
-"t": "mc",
-"q": "Wir ___ mir. (helfen)",
-"a": "helfen",
-"w": [
-"hilfst",
-"hilft",
-"helft"
-],
-"e": "wir → helfen."
-},
-{
-"t": "mc",
-"q": "Sie (они) ___ einen Film. (sehen)",
-"a": "sehen",
-"w": [
-"siehst",
-"sieht",
-"sehe"
-],
-"e": "sie (они) → sehen."
-},
-{
-"t": "mc",
-"q": "Er ___ in Berlin. (wohnen)",
-"a": "wohnt",
-"w": [
-"wohnen",
-"wohne",
-"wohnst"
-],
-"e": "er → wohnt."
+"e": "wir → wissen."
 },
 {
 "t": "mc",
@@ -5367,43 +5400,76 @@
 "a": "arbeiten",
 "w": [
 "arbeitet",
-"arbeitest",
-"arbeite"
+"arbeite",
+"arbeitest"
 ],
 "e": "wir → arbeiten."
 },
 {
 "t": "mc",
-"q": "Er ___ die Antwort. (wissen)",
-"a": "weiß",
+"q": "Wir ___ schnell. (laufen)",
+"a": "laufen",
 "w": [
-"wissen",
-"weißt",
-"wisst"
+"läufst",
+"lauft",
+"läuft"
 ],
-"e": "er → weiß."
+"e": "wir → laufen."
 },
 {
 "t": "mc",
-"q": "Wir ___ mir das Buch. (geben)",
-"a": "geben",
+"q": "Wir ___ Freunde. (treffen)",
+"a": "treffen",
 "w": [
-"gibst",
-"gebt",
-"gibt"
+"trifft",
+"treffe",
+"triffst"
 ],
-"e": "wir → geben."
+"e": "wir → treffen."
 },
 {
 "t": "mc",
-"q": "Wir ___ Deutsch. (sprechen)",
-"a": "sprechen",
+"q": "Ihr ___ mir das Buch. (geben)",
+"a": "gebt",
 "w": [
-"spricht",
-"spreche",
-"sprecht"
+"gibt",
+"gebe",
+"gibst"
 ],
-"e": "wir → sprechen."
+"e": "ihr → gebt."
+},
+{
+"t": "mc",
+"q": "Ihr ___ müde. (sein)",
+"a": "seid",
+"w": [
+"ist",
+"bist",
+"bin"
+],
+"e": "ihr → seid."
+},
+{
+"t": "mc",
+"q": "Er ___ Deutsch. (sprechen)",
+"a": "spricht",
+"w": [
+"sprichst",
+"sprechen",
+"spreche"
+],
+"e": "er → spricht."
+},
+{
+"t": "mc",
+"q": "Ich ___ schnell. (laufen)",
+"a": "laufe",
+"w": [
+"läuft",
+"lauft",
+"läufst"
+],
+"e": "ich → laufe."
 },
 {
 "t": "mc",
@@ -5411,87 +5477,43 @@
 "a": "isst",
 "w": [
 "esse",
-"essen",
-"esst"
+"esst",
+"essen"
 ],
 "e": "er → isst."
 },
 {
 "t": "mc",
-"q": "Er ___ viel. (arbeiten)",
-"a": "arbeitet",
+"q": "Ich ___ mir. (helfen)",
+"a": "helfe",
 "w": [
-"arbeitest",
-"arbeite",
-"arbeiten"
+"hilft",
+"helfen",
+"hilfst"
 ],
-"e": "er → arbeitet."
+"e": "ich → helfe."
 },
 {
 "t": "mc",
-"q": "Wir ___ schnell. (laufen)",
-"a": "laufen",
+"q": "Ich ___ Pizza. (essen)",
+"a": "esse",
 "w": [
-"lauft",
-"laufe",
-"läuft"
+"isst",
+"esst",
+"essen"
 ],
-"e": "wir → laufen."
+"e": "ich → esse."
 },
 {
 "t": "mc",
-"q": "Ihr ___ Freunde. (treffen)",
-"a": "trefft",
+"q": "Ihr ___ lange. (schlafen)",
+"a": "schlaft",
 "w": [
-"treffe",
-"treffen",
-"triffst"
+"schläfst",
+"schläft",
+"schlafe"
 ],
-"e": "ihr → trefft."
-},
-{
-"t": "mc",
-"q": "Ich ___ mir das Buch. (geben)",
-"a": "gebe",
-"w": [
-"gebt",
-"gibt",
-"gibst"
-],
-"e": "ich → gebe."
-},
-{
-"t": "mc",
-"q": "Du ___ müde. (sein)",
-"a": "bist",
-"w": [
-"sind",
-"bin",
-"seid"
-],
-"e": "du → bist."
-},
-{
-"t": "mc",
-"q": "Er ___ müde. (sein)",
-"a": "ist",
-"w": [
-"bist",
-"seid",
-"sind"
-],
-"e": "er → ist."
-},
-{
-"t": "mc",
-"q": "Er ___ einen Film. (sehen)",
-"a": "sieht",
-"w": [
-"siehst",
-"sehe",
-"seht"
-],
-"e": "er → sieht."
+"e": "ihr → schlaft."
 }
 ]
 },
@@ -6491,348 +6513,7 @@
 },
 {
 "t": "mc",
-"q": "Das ist das Fahrrad ___ Lehrers.",
-"a": "des",
-"w": [
-"die",
-"den",
-"dem"
-],
-"e": "der Lehrer → Genitiv: des Lehrers."
-},
-{
-"t": "mc",
-"q": "Das ist das Zimmer ___ Stadt.",
-"a": "der",
-"w": [
-"dem",
-"die",
-"des"
-],
-"e": "die Stadt → Genitiv: der Stadt."
-},
-{
-"t": "mc",
-"q": "Das ist das Haus des ___. (Hund)",
-"a": "Hundes",
-"w": [
-"Hunde",
-"Hunden",
-"Hund"
-],
-"e": "Генитив м./ср. рода: des Hundes (окончание -s/-es)."
-},
-{
-"t": "mc",
-"q": "Das ist das Fahrrad ___ Hauses.",
-"a": "des",
-"w": [
-"den",
-"dem",
-"der"
-],
-"e": "das Haus → Genitiv: des Hauses."
-},
-{
-"t": "mc",
-"q": "Das ist das Handy ___ Tisches.",
-"a": "des",
-"w": [
-"der",
-"die",
-"dem"
-],
-"e": "der Tisch → Genitiv: des Tisches."
-},
-{
-"t": "mc",
-"q": "Das ist die Farbe ___ Lehrers.",
-"a": "des",
-"w": [
-"den",
-"die",
-"der"
-],
-"e": "der Lehrer → Genitiv: des Lehrers."
-},
-{
-"t": "mc",
-"q": "Das ist das Auto ___ Freundin.",
-"a": "der",
-"w": [
-"des",
-"dem",
-"den"
-],
-"e": "die Freundin → Genitiv: der Freundin."
-},
-{
-"t": "mc",
-"q": "Das ist die Farbe des ___. (Buch)",
-"a": "Buches",
-"w": [
-"Buchen",
-"Buchn",
-"Buche"
-],
-"e": "Генитив м./ср. рода: des Buches (окончание -s/-es)."
-},
-{
-"t": "mc",
-"q": "Das ist das Fahrrad ___ Eltern.",
-"a": "der",
-"w": [
-"die",
-"des",
-"den"
-],
-"e": "die Eltern → Genitiv: der Eltern."
-},
-{
-"t": "mc",
-"q": "Das ist das Zimmer ___ Vaters.",
-"a": "des",
-"w": [
-"der",
-"die",
-"dem"
-],
-"e": "der Vater → Genitiv: des Vaters."
-},
-{
-"t": "mc",
-"q": "Das ist das Handy ___ Hundes.",
-"a": "des",
-"w": [
-"dem",
-"den",
-"die"
-],
-"e": "der Hund → Genitiv: des Hundes."
-},
-{
-"t": "mc",
-"q": "Das ist das Auto des ___. (Garten)",
-"a": "Gartens",
-"w": [
-"Gartene",
-"Gartenn",
-"Garten"
-],
-"e": "Генитив м./ср. рода: des Gartens (окончание -s/-es)."
-},
-{
-"t": "mc",
-"q": "Das ist die Farbe des ___. (Auto)",
-"a": "Autos",
-"w": [
-"Autoe",
-"Auton",
-"Autoen"
-],
-"e": "Генитив м./ср. рода: des Autos (окончание -s/-es)."
-},
-{
-"t": "mc",
-"q": "Das ist die Meinung ___ Zimmers.",
-"a": "des",
-"w": [
-"den",
-"die",
-"der"
-],
-"e": "das Zimmer → Genitiv: des Zimmers."
-},
-{
-"t": "mc",
-"q": "Das ist das Haus des ___. (Haus)",
-"a": "Hauses",
-"w": [
-"Haus",
-"Hausn",
-"Hause"
-],
-"e": "Генитив м./ср. рода: des Hauses (окончание -s/-es)."
-},
-{
-"t": "mc",
-"q": "Das ist das Auto ___ Schule.",
-"a": "der",
-"w": [
-"des",
-"die",
-"dem"
-],
-"e": "die Schule → Genitiv: der Schule."
-},
-{
-"t": "mc",
-"q": "Das ist das Zimmer ___ Mutter.",
-"a": "der",
-"w": [
-"den",
-"die",
-"dem"
-],
-"e": "die Mutter → Genitiv: der Mutter."
-},
-{
-"t": "mc",
-"q": "Das ist das Haus ___ Buches.",
-"a": "des",
-"w": [
-"dem",
-"den",
-"die"
-],
-"e": "das Buch → Genitiv: des Buches."
-},
-{
-"t": "mc",
-"q": "Das ist die Arbeit ___ Buches.",
-"a": "des",
-"w": [
-"die",
-"der",
-"dem"
-],
-"e": "das Buch → Genitiv: des Buches."
-},
-{
-"t": "mc",
-"q": "Das ist die Farbe ___ Kindes.",
-"a": "des",
-"w": [
-"der",
-"dem",
-"die"
-],
-"e": "das Kind → Genitiv: des Kindes."
-},
-{
-"t": "mc",
-"q": "Das ist der Name ___ Lehrer.",
-"a": "der",
-"w": [
-"die",
-"des",
-"den"
-],
-"e": "die Lehrer → Genitiv: der Lehrer."
-},
-{
-"t": "mc",
-"q": "Das ist das Handy ___ Vaters.",
-"a": "des",
-"w": [
-"die",
-"der",
-"den"
-],
-"e": "der Vater → Genitiv: des Vaters."
-},
-{
-"t": "mc",
-"q": "Das ist das Haus des ___. (Lehrer)",
-"a": "Lehrers",
-"w": [
-"Lehrern",
-"Lehrere",
-"Lehrer"
-],
-"e": "Генитив м./ср. рода: des Lehrers (окончание -s/-es)."
-},
-{
-"t": "mc",
-"q": "Das ist die Farbe des ___. (Kind)",
-"a": "Kindes",
-"w": [
-"Kinde",
-"Kindn",
-"Kind"
-],
-"e": "Генитив м./ср. рода: des Kindes (окончание -s/-es)."
-},
-{
-"t": "mc",
-"q": "Das ist das Fahrrad ___ Gartens.",
-"a": "des",
-"w": [
-"dem",
-"den",
-"der"
-],
-"e": "der Garten → Genitiv: des Gartens."
-},
-{
-"t": "mc",
-"q": "Das ist die Arbeit des ___. (Bruder)",
-"a": "Bruders",
-"w": [
-"Brudere",
-"Bruder",
-"Bruderen"
-],
-"e": "Генитив м./ср. рода: des Bruders (окончание -s/-es)."
-},
-{
-"t": "mc",
-"q": "Das ist das Zimmer des ___. (Tisch)",
-"a": "Tisches",
-"w": [
-"Tisch",
-"Tischn",
-"Tischen"
-],
-"e": "Генитив м./ср. рода: des Tisches (окончание -s/-es)."
-},
-{
-"t": "mc",
-"q": "Das ist der Name ___ Lehrerin.",
-"a": "der",
-"w": [
-"dem",
-"des",
-"die"
-],
-"e": "die Lehrerin → Genitiv: der Lehrerin."
-},
-{
-"t": "mc",
-"q": "Das ist die Tasche ___ Kinder.",
-"a": "der",
-"w": [
-"dem",
-"die",
-"des"
-],
-"e": "die Kinder → Genitiv: der Kinder."
-},
-{
-"t": "mc",
-"q": "Das ist die Tasche ___ Bruders.",
-"a": "des",
-"w": [
-"den",
-"die",
-"der"
-],
-"e": "der Bruder → Genitiv: des Bruders."
-},
-{
-"t": "mc",
-"q": "Das ist der Name ___ Kinder.",
-"a": "der",
-"w": [
-"die",
-"dem",
-"des"
-],
-"e": "die Kinder → Genitiv: der Kinder."
-},
-{
-"t": "mc",
-"q": "Das ist die Tasche ___ Autos.",
+"q": "Das ist das Haus ___ Autos.",
 "a": "des",
 "w": [
 "der",
@@ -6843,7 +6524,7 @@
 },
 {
 "t": "mc",
-"q": "Das ist das Haus ___ Freundin.",
+"q": "Das ist das Fahrrad ___ Freundin.",
 "a": "der",
 "w": [
 "dem",
@@ -6854,121 +6535,264 @@
 },
 {
 "t": "mc",
-"q": "Das ist das Fahrrad ___ Mutter.",
+"q": "Das ist das Fahrrad ___ Lehrerin.",
 "a": "der",
 "w": [
 "dem",
 "den",
+"des"
+],
+"e": "die Lehrerin → Genitiv: der Lehrerin."
+},
+{
+"t": "mc",
+"q": "Das ist die Arbeit ___ Mutter.",
+"a": "der",
+"w": [
+"den",
+"des",
 "die"
 ],
 "e": "die Mutter → Genitiv: der Mutter."
 },
 {
 "t": "mc",
-"q": "Das ist das Handy ___ Zimmers.",
+"q": "Das ist das Zimmer ___ Gartens.",
 "a": "des",
 "w": [
-"die",
 "der",
-"den"
+"dem",
+"die"
 ],
-"e": "das Zimmer → Genitiv: des Zimmers."
+"e": "der Garten → Genitiv: des Gartens."
 },
 {
 "t": "mc",
-"q": "Das ist die Meinung ___ Hauses.",
+"q": "Das ist die Arbeit ___ Vaters.",
 "a": "des",
 "w": [
-"die",
-"der",
-"den"
+"dem",
+"den",
+"die"
 ],
-"e": "das Haus → Genitiv: des Hauses."
+"e": "der Vater → Genitiv: des Vaters."
 },
 {
 "t": "mc",
-"q": "Das ist das Auto ___ Lehrer.",
+"q": "Das ist das Zimmer ___ Stadt.",
+"a": "der",
+"w": [
+"den",
+"die",
+"dem"
+],
+"e": "die Stadt → Genitiv: der Stadt."
+},
+{
+"t": "mc",
+"q": "Das ist das Fahrrad des ___. (Hund)",
+"a": "Hundes",
+"w": [
+"Hunden",
+"Hunde",
+"Hundn"
+],
+"e": "Генитив м./ср. рода: des Hundes (окончание -s/-es)."
+},
+{
+"t": "mc",
+"q": "Das ist das Zimmer ___ Freundin.",
 "a": "der",
 "w": [
 "dem",
-"des",
-"den"
+"die",
+"des"
+],
+"e": "die Freundin → Genitiv: der Freundin."
+},
+{
+"t": "mc",
+"q": "Das ist der Name ___ Lehrer.",
+"a": "der",
+"w": [
+"die",
+"dem",
+"des"
 ],
 "e": "die Lehrer → Genitiv: der Lehrer."
 },
 {
 "t": "mc",
-"q": "Das ist die Arbeit ___ Eltern.",
-"a": "der",
-"w": [
-"dem",
-"des",
-"den"
-],
-"e": "die Eltern → Genitiv: der Eltern."
-},
-{
-"t": "mc",
-"q": "Das ist das Fahrrad ___ Lehrerin.",
-"a": "der",
-"w": [
-"dem",
-"des",
-"die"
-],
-"e": "die Lehrerin → Genitiv: der Lehrerin."
-},
-{
-"t": "mc",
-"q": "Das ist das Fahrrad des ___. (Zimmer)",
-"a": "Zimmers",
-"w": [
-"Zimmeren",
-"Zimmere",
-"Zimmern"
-],
-"e": "Генитив м./ср. рода: des Zimmers (окончание -s/-es)."
-},
-{
-"t": "mc",
-"q": "Das ist die Arbeit des ___. (Vater)",
-"a": "Vaters",
-"w": [
-"Vatern",
-"Vateren",
-"Vatere"
-],
-"e": "Генитив м./ср. рода: des Vaters (окончание -s/-es)."
-},
-{
-"t": "mc",
-"q": "Das ist die Farbe ___ Gartens.",
+"q": "Das ist die Farbe ___ Buches.",
 "a": "des",
+"w": [
+"den",
+"dem",
+"der"
+],
+"e": "das Buch → Genitiv: des Buches."
+},
+{
+"t": "mc",
+"q": "Das ist die Meinung des ___. (Kind)",
+"a": "Kindes",
+"w": [
+"Kinden",
+"Kind",
+"Kinde"
+],
+"e": "Генитив м./ср. рода: des Kindes (окончание -s/-es)."
+},
+{
+"t": "mc",
+"q": "Das ist die Farbe ___ Mutter.",
+"a": "der",
 "w": [
 "dem",
 "die",
+"des"
+],
+"e": "die Mutter → Genitiv: der Mutter."
+},
+{
+"t": "mc",
+"q": "Das ist die Tasche ___ Gartens.",
+"a": "des",
+"w": [
+"dem",
+"den",
 "der"
 ],
 "e": "der Garten → Genitiv: des Gartens."
 },
 {
 "t": "mc",
-"q": "Das ist der Name ___ Tisches.",
+"q": "Das ist die Tasche ___ Hauses.",
 "a": "des",
 "w": [
+"dem",
 "die",
+"der"
+],
+"e": "das Haus → Genitiv: des Hauses."
+},
+{
+"t": "mc",
+"q": "Das ist die Farbe ___ Autos.",
+"a": "des",
+"w": [
 "der",
-"den"
+"dem",
+"die"
+],
+"e": "das Auto → Genitiv: des Autos."
+},
+{
+"t": "mc",
+"q": "Das ist das Haus ___ Tisches.",
+"a": "des",
+"w": [
+"dem",
+"den",
+"der"
 ],
 "e": "der Tisch → Genitiv: des Tisches."
 },
 {
 "t": "mc",
-"q": "Das ist die Farbe ___ Hundes.",
+"q": "Das ist das Haus des ___. (Zimmer)",
+"a": "Zimmers",
+"w": [
+"Zimmern",
+"Zimmere",
+"Zimmeren"
+],
+"e": "Генитив м./ср. рода: des Zimmers (окончание -s/-es)."
+},
+{
+"t": "mc",
+"q": "Das ist die Tasche ___ Buches.",
 "a": "des",
 "w": [
 "der",
 "dem",
+"den"
+],
+"e": "das Buch → Genitiv: des Buches."
+},
+{
+"t": "mc",
+"q": "Das ist das Auto ___ Hauses.",
+"a": "des",
+"w": [
+"der",
+"die",
+"dem"
+],
+"e": "das Haus → Genitiv: des Hauses."
+},
+{
+"t": "mc",
+"q": "Das ist das Fahrrad ___ Kindes.",
+"a": "des",
+"w": [
+"den",
+"dem",
+"der"
+],
+"e": "das Kind → Genitiv: des Kindes."
+},
+{
+"t": "mc",
+"q": "Das ist das Auto ___ Kindes.",
+"a": "des",
+"w": [
+"der",
+"dem",
+"den"
+],
+"e": "das Kind → Genitiv: des Kindes."
+},
+{
+"t": "mc",
+"q": "Das ist das Auto ___ Lehrerin.",
+"a": "der",
+"w": [
+"den",
+"dem",
+"des"
+],
+"e": "die Lehrerin → Genitiv: der Lehrerin."
+},
+{
+"t": "mc",
+"q": "Das ist die Tasche des ___. (Garten)",
+"a": "Gartens",
+"w": [
+"Gartene",
+"Gartenen",
+"Garten"
+],
+"e": "Генитив м./ср. рода: des Gartens (окончание -s/-es)."
+},
+{
+"t": "mc",
+"q": "Das ist das Fahrrad ___ Vaters.",
+"a": "des",
+"w": [
+"der",
+"dem",
+"den"
+],
+"e": "der Vater → Genitiv: des Vaters."
+},
+{
+"t": "mc",
+"q": "Das ist die Arbeit ___ Hundes.",
+"a": "des",
+"w": [
+"dem",
+"die",
 "den"
 ],
 "e": "der Hund → Genitiv: des Hundes."
@@ -6979,21 +6803,252 @@
 "a": "der",
 "w": [
 "dem",
-"die",
-"des"
+"den",
+"die"
 ],
 "e": "die Stadt → Genitiv: der Stadt."
 },
 {
 "t": "mc",
-"q": "Das ist die Tasche ___ Schule.",
+"q": "Das ist die Farbe ___ Hundes.",
+"a": "des",
+"w": [
+"den",
+"die",
+"der"
+],
+"e": "der Hund → Genitiv: des Hundes."
+},
+{
+"t": "mc",
+"q": "Das ist das Handy ___ Lehrers.",
+"a": "des",
+"w": [
+"die",
+"der",
+"den"
+],
+"e": "der Lehrer → Genitiv: des Lehrers."
+},
+{
+"t": "mc",
+"q": "Das ist das Haus ___ Lehrers.",
+"a": "des",
+"w": [
+"dem",
+"den",
+"der"
+],
+"e": "der Lehrer → Genitiv: des Lehrers."
+},
+{
+"t": "mc",
+"q": "Das ist die Farbe des ___. (Auto)",
+"a": "Autos",
+"w": [
+"Autoen",
+"Autoe",
+"Auton"
+],
+"e": "Генитив м./ср. рода: des Autos (окончание -s/-es)."
+},
+{
+"t": "mc",
+"q": "Das ist das Fahrrad ___ Schule.",
+"a": "der",
+"w": [
+"dem",
+"des",
+"die"
+],
+"e": "die Schule → Genitiv: der Schule."
+},
+{
+"t": "mc",
+"q": "Das ist die Tasche ___ Lehrer.",
 "a": "der",
 "w": [
 "dem",
 "die",
 "des"
 ],
+"e": "die Lehrer → Genitiv: der Lehrer."
+},
+{
+"t": "mc",
+"q": "Das ist die Farbe ___ Kinder.",
+"a": "der",
+"w": [
+"die",
+"dem",
+"den"
+],
+"e": "die Kinder → Genitiv: der Kinder."
+},
+{
+"t": "mc",
+"q": "Das ist die Farbe des ___. (Vater)",
+"a": "Vaters",
+"w": [
+"Vater",
+"Vateren",
+"Vatern"
+],
+"e": "Генитив м./ср. рода: des Vaters (окончание -s/-es)."
+},
+{
+"t": "mc",
+"q": "Das ist der Name ___ Bruders.",
+"a": "des",
+"w": [
+"die",
+"der",
+"den"
+],
+"e": "der Bruder → Genitiv: des Bruders."
+},
+{
+"t": "mc",
+"q": "Das ist die Farbe des ___. (Tisch)",
+"a": "Tisches",
+"w": [
+"Tisch",
+"Tischn",
+"Tische"
+],
+"e": "Генитив м./ср. рода: des Tisches (окончание -s/-es)."
+},
+{
+"t": "mc",
+"q": "Das ist das Haus des ___. (Haus)",
+"a": "Hauses",
+"w": [
+"Hausn",
+"Hausen",
+"Haus"
+],
+"e": "Генитив м./ср. рода: des Hauses (окончание -s/-es)."
+},
+{
+"t": "mc",
+"q": "Das ist das Haus ___ Bruders.",
+"a": "des",
+"w": [
+"den",
+"die",
+"der"
+],
+"e": "der Bruder → Genitiv: des Bruders."
+},
+{
+"t": "mc",
+"q": "Das ist die Arbeit ___ Zimmers.",
+"a": "des",
+"w": [
+"die",
+"der",
+"dem"
+],
+"e": "das Zimmer → Genitiv: des Zimmers."
+},
+{
+"t": "mc",
+"q": "Das ist der Name ___ Schule.",
+"a": "der",
+"w": [
+"dem",
+"des",
+"die"
+],
 "e": "die Schule → Genitiv: der Schule."
+},
+{
+"t": "mc",
+"q": "Das ist das Fahrrad ___ Eltern.",
+"a": "der",
+"w": [
+"die",
+"den",
+"dem"
+],
+"e": "die Eltern → Genitiv: der Eltern."
+},
+{
+"t": "mc",
+"q": "Das ist das Handy des ___. (Bruder)",
+"a": "Bruders",
+"w": [
+"Bruder",
+"Bruderen",
+"Brudern"
+],
+"e": "Генитив м./ср. рода: des Bruders (окончание -s/-es)."
+},
+{
+"t": "mc",
+"q": "Das ist die Farbe ___ Zimmers.",
+"a": "des",
+"w": [
+"den",
+"dem",
+"die"
+],
+"e": "das Zimmer → Genitiv: des Zimmers."
+},
+{
+"t": "mc",
+"q": "Das ist das Handy ___ Tisches.",
+"a": "des",
+"w": [
+"dem",
+"den",
+"die"
+],
+"e": "der Tisch → Genitiv: des Tisches."
+},
+{
+"t": "mc",
+"q": "Das ist die Meinung ___ Kinder.",
+"a": "der",
+"w": [
+"den",
+"die",
+"des"
+],
+"e": "die Kinder → Genitiv: der Kinder."
+},
+{
+"t": "mc",
+"q": "Das ist die Tasche des ___. (Buch)",
+"a": "Buches",
+"w": [
+"Buche",
+"Buchen",
+"Buchn"
+],
+"e": "Генитив м./ср. рода: des Buches (окончание -s/-es)."
+},
+{
+"t": "mc",
+"q": "Das ist das Handy ___ Eltern.",
+"a": "der",
+"w": [
+"die",
+"des",
+"den"
+],
+"e": "die Eltern → Genitiv: der Eltern."
+},
+{
+"t": "mc",
+"q": "Das ist das Zimmer des ___. (Lehrer)",
+"a": "Lehrers",
+"w": [
+"Lehrer",
+"Lehreren",
+"Lehrern"
+],
+"e": "Генитив м./ср. рода: des Lehrers (окончание -s/-es)."
 }
 ]
 },
@@ -7577,7 +7632,7 @@
 "a": "war",
 "w": [
 "waren",
-"wohnte",
+"sah",
 "seinte"
 ],
 "e": "sein → Präteritum: war / waren (wir, sie)."
@@ -9354,8 +9409,8 @@
 "q": "Das Buch liegt auf ___ Tisch.",
 "a": "dem",
 "w": [
+"der",
 "die",
-"den",
 "das"
 ],
 "e": "Wo? → Dativ (m.): dem."
@@ -9365,9 +9420,9 @@
 "q": "Ich lege das Buch auf ___ Tisch.",
 "a": "den",
 "w": [
-"dem",
-"die",
-"das"
+"der",
+"das",
+"dem"
 ],
 "e": "Wohin? → Akkusativ (m.): den."
 },
@@ -9376,8 +9431,8 @@
 "q": "Die Lampe hängt an ___ Decke.",
 "a": "der",
 "w": [
-"dem",
 "das",
+"dem",
 "den"
 ],
 "e": "Wo? → Dativ (f.): der."
@@ -9387,9 +9442,9 @@
 "q": "Ich hänge die Lampe an ___ Decke.",
 "a": "die",
 "w": [
+"der",
 "den",
-"dem",
-"der"
+"das"
 ],
 "e": "Wohin? → Akkusativ (f.): die."
 },
@@ -9398,9 +9453,9 @@
 "q": "Das Kind sitzt auf ___ Sofa.",
 "a": "dem",
 "w": [
-"die",
 "das",
-"den"
+"den",
+"die"
 ],
 "e": "Wo? → Dativ (n.): dem."
 },
@@ -9409,9 +9464,9 @@
 "q": "Ich setze das Kind auf ___ Sofa.",
 "a": "das",
 "w": [
-"dem",
-"der",
-"die"
+"die",
+"den",
+"dem"
 ],
 "e": "Wohin? → Akkusativ (n.): das."
 },
@@ -9420,9 +9475,9 @@
 "q": "Die Flasche steht in ___ Kühlschrank.",
 "a": "dem",
 "w": [
-"das",
 "den",
-"der"
+"die",
+"das"
 ],
 "e": "Wo? → Dativ (m.): dem."
 },
@@ -9431,9 +9486,9 @@
 "q": "Ich stelle die Flasche in ___ Kühlschrank.",
 "a": "den",
 "w": [
-"dem",
+"das",
 "die",
-"der"
+"dem"
 ],
 "e": "Wohin? → Akkusativ (m.): den."
 },
@@ -9443,8 +9498,8 @@
 "a": "der",
 "w": [
 "den",
-"die",
-"das"
+"dem",
+"die"
 ],
 "e": "Wo? → Dativ (f.): der."
 },
@@ -9453,8 +9508,8 @@
 "q": "Er fährt in ___ Stadt.",
 "a": "die",
 "w": [
-"der",
 "das",
+"dem",
 "den"
 ],
 "e": "Wohin? → Akkusativ (f.): die."
@@ -9464,9 +9519,9 @@
 "q": "Wir sind in ___ Kino.",
 "a": "dem",
 "w": [
+"das",
 "der",
-"den",
-"das"
+"die"
 ],
 "e": "Wo? → Dativ (n.): dem."
 },
@@ -9475,9 +9530,9 @@
 "q": "Der Hund liegt unter ___ Tisch.",
 "a": "dem",
 "w": [
+"den",
 "die",
-"das",
-"den"
+"der"
 ],
 "e": "Wo? → Dativ (m.): dem."
 },
@@ -9486,9 +9541,9 @@
 "q": "Der Hund läuft unter ___ Tisch.",
 "a": "den",
 "w": [
-"das",
-"die",
-"der"
+"dem",
+"der",
+"die"
 ],
 "e": "Wohin? → Akkusativ (m.): den."
 },
@@ -9497,9 +9552,9 @@
 "q": "Das Auto steht vor ___ Haus.",
 "a": "dem",
 "w": [
-"den",
 "der",
-"die"
+"die",
+"den"
 ],
 "e": "Wo? → Dativ (n.): dem."
 },
@@ -9508,9 +9563,9 @@
 "q": "Er stellt das Auto vor ___ Haus.",
 "a": "das",
 "w": [
-"die",
+"der",
 "den",
-"der"
+"dem"
 ],
 "e": "Wohin? → Akkusativ (n.): das."
 },
@@ -9519,9 +9574,9 @@
 "q": "Das Bild hängt über ___ Bett.",
 "a": "dem",
 "w": [
-"den",
 "der",
-"die"
+"das",
+"den"
 ],
 "e": "Wo? → Dativ (n.): dem."
 },
@@ -9530,8 +9585,8 @@
 "q": "Sie hängt das Bild über ___ Bett.",
 "a": "das",
 "w": [
-"der",
 "die",
+"dem",
 "den"
 ],
 "e": "Wohin? → Akkusativ (n.): das."
@@ -9541,9 +9596,9 @@
 "q": "Die Katze sitzt hinter ___ Schrank.",
 "a": "dem",
 "w": [
-"der",
-"den",
-"die"
+"das",
+"die",
+"der"
 ],
 "e": "Wo? → Dativ (m.): dem."
 },
@@ -9552,9 +9607,9 @@
 "q": "Die Katze springt hinter ___ Schrank.",
 "a": "den",
 "w": [
-"die",
+"dem",
 "der",
-"dem"
+"die"
 ],
 "e": "Wohin? → Akkusativ (m.): den."
 },
@@ -9563,9 +9618,9 @@
 "q": "Der Stuhl steht neben ___ Tür.",
 "a": "der",
 "w": [
+"das",
 "den",
-"die",
-"das"
+"die"
 ],
 "e": "Wo? → Dativ (f.): der."
 },
@@ -9574,9 +9629,9 @@
 "q": "Ich stelle den Stuhl neben ___ Tür.",
 "a": "die",
 "w": [
-"das",
-"dem",
-"der"
+"den",
+"der",
+"das"
 ],
 "e": "Wohin? → Akkusativ (f.): die."
 },
@@ -9585,9 +9640,9 @@
 "q": "Das Geld liegt in ___ Tasche.",
 "a": "der",
 "w": [
-"den",
-"dem",
-"das"
+"die",
+"das",
+"den"
 ],
 "e": "Wo? → Dativ (f.): der."
 },
@@ -9597,8 +9652,8 @@
 "a": "die",
 "w": [
 "der",
-"das",
-"den"
+"den",
+"das"
 ],
 "e": "Wohin? → Akkusativ (f.): die."
 },
@@ -9608,8 +9663,8 @@
 "a": "dem",
 "w": [
 "die",
-"den",
-"das"
+"der",
+"den"
 ],
 "e": "Wo? → Dativ (m.): dem."
 },
@@ -9618,9 +9673,9 @@
 "q": "Wir fahren an ___ Bahnhof.",
 "a": "den",
 "w": [
-"das",
 "dem",
-"der"
+"der",
+"die"
 ],
 "e": "Wohin? → Akkusativ (m.): den."
 },
@@ -9629,9 +9684,9 @@
 "q": "Die Kinder spielen auf ___ Straße.",
 "a": "der",
 "w": [
-"die",
+"das",
 "dem",
-"das"
+"die"
 ],
 "e": "Wo? → Dativ (f.): der."
 },
@@ -9640,9 +9695,9 @@
 "q": "Die Kinder laufen auf ___ Straße.",
 "a": "die",
 "w": [
+"den",
 "dem",
-"das",
-"den"
+"das"
 ],
 "e": "Wohin? → Akkusativ (f.): die."
 },
@@ -9651,9 +9706,9 @@
 "q": "Er steht zwischen ___ Haus und der Schule.",
 "a": "dem",
 "w": [
-"den",
 "der",
-"das"
+"die",
+"den"
 ],
 "e": "Wo? → Dativ (n.): dem."
 },
@@ -9663,8 +9718,8 @@
 "a": "die",
 "w": [
 "das",
-"dem",
-"den"
+"den",
+"dem"
 ],
 "e": "Wohin? → Akkusativ (мн.ч.): die."
 },
@@ -9673,9 +9728,9 @@
 "q": "Der Schlüssel liegt auf ___ Regalen.",
 "a": "den",
 "w": [
+"das",
 "dem",
-"der",
-"die"
+"der"
 ],
 "e": "Wo? → Dativ (мн.ч.): den."
 },
@@ -9684,9 +9739,9 @@
 "q": "Er stellt die Bücher auf ___ Regale.",
 "a": "die",
 "w": [
-"das",
 "der",
-"den"
+"dem",
+"das"
 ],
 "e": "Wohin? → Akkusativ (мн.ч.): die."
 }
