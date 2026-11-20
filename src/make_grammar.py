@@ -523,6 +523,159 @@ tp = [('Der Film beginnt ___ 20 Uhr.', 'um'), ('Ich habe ___ Montag Unterricht.'
 tpl = [mc(q, a, pick3(a, ['um', 'am', 'im', 'ab', 'bis', 'seit', 'vor', 'zwischen', 'nach', 'von'] if a[0].islower() else ['Um', 'Am', 'Im', 'Ab', 'Bis', 'Seit', 'Vor', 'Zwischen', 'Nach']), 'Предлог времени: ' + a + '.') for q, a in tp if '___ März ___' not in q and '/' not in q]
 add('tempprep', tpl)
 
+# ---- Starke / gemischte / schwache Verben: Präteritum + Perfekt (Stammformen)
+# inf | Prät. 3.Sg | Partizip II | Hilfsverb | Partikel (trennbar) | pусский
+SV = """beginnen|begann|begonnen|h||начинать
+bleiben|blieb|geblieben|s||оставаться
+bringen|brachte|gebracht|h||приносить
+denken|dachte|gedacht|h||думать
+essen|aß|gegessen|h||есть
+fahren|fuhr|gefahren|s||ехать
+fallen|fiel|gefallen|s||падать
+finden|fand|gefunden|h||находить
+fliegen|flog|geflogen|s||лететь
+geben|gab|gegeben|h||давать
+gehen|ging|gegangen|s||идти
+gewinnen|gewann|gewonnen|h||выигрывать
+halten|hielt|gehalten|h||держать
+heißen|hieß|geheißen|h||называться
+helfen|half|geholfen|h||помогать
+kennen|kannte|gekannt|h||знать (кого-то)
+kommen|kam|gekommen|s||приходить
+laufen|lief|gelaufen|s||бежать
+lesen|las|gelesen|h||читать
+liegen|lag|gelegen|h||лежать
+nehmen|nahm|genommen|h||брать
+rufen|rief|gerufen|h||звать
+schlafen|schlief|geschlafen|h||спать
+schreiben|schrieb|geschrieben|h||писать
+schwimmen|schwamm|geschwommen|s||плавать
+sehen|sah|gesehen|h||видеть
+sein|war|gewesen|s||быть
+singen|sang|gesungen|h||петь
+sitzen|saß|gesessen|h||сидеть
+sprechen|sprach|gesprochen|h||говорить
+stehen|stand|gestanden|h||стоять
+sterben|starb|gestorben|s||умирать
+tragen|trug|getragen|h||носить
+treffen|traf|getroffen|h||встречать
+trinken|trank|getrunken|h||пить
+tun|tat|getan|h||делать
+vergessen|vergaß|vergessen|h||забывать
+verlieren|verlor|verloren|h||терять
+verstehen|verstand|verstanden|h||понимать
+waschen|wusch|gewaschen|h||мыть
+werden|wurde|geworden|s||становиться
+wissen|wusste|gewusst|h||знать
+ziehen|zog|gezogen|h||тянуть
+bekommen|bekam|bekommen|h||получать
+gefallen|gefiel|gefallen|h||нравиться
+schließen|schloss|geschlossen|h||закрывать
+schneiden|schnitt|geschnitten|h||резать
+bitten|bat|gebeten|h||просить
+brechen|brach|gebrochen|h||ломать
+empfehlen|empfahl|empfohlen|h||рекомендовать
+entscheiden|entschied|entschieden|h||решать
+fangen|fing|gefangen|h||ловить
+greifen|griff|gegriffen|h||хватать
+lügen|log|gelogen|h||лгать
+scheinen|schien|geschienen|h||светить, казаться
+springen|sprang|gesprungen|s||прыгать
+steigen|stieg|gestiegen|s||подниматься
+streiten|stritt|gestritten|h||спорить
+verbringen|verbrachte|verbracht|h||проводить (время)
+verschwinden|verschwand|verschwunden|s||исчезать
+wachsen|wuchs|gewachsen|s||расти
+werfen|warf|geworfen|h||бросать
+nennen|nannte|genannt|h||называть
+rennen|rannte|gerannt|s||бежать, мчаться
+brennen|brannte|gebrannt|h||гореть
+leihen|lieh|geliehen|h||одалживать
+raten|riet|geraten|h||советовать
+schlagen|schlug|geschlagen|h||бить
+verlassen|verließ|verlassen|h||покидать
+vergleichen|verglich|verglichen|h||сравнивать
+beschreiben|beschrieb|beschrieben|h||описывать
+erfahren|erfuhr|erfahren|h||узнавать
+anrufen|rief|angerufen|h|an|звонить
+aufstehen|stand|aufgestanden|s|auf|вставать
+einladen|lud|eingeladen|h|ein|приглашать
+mitbringen|brachte|mitgebracht|h|mit|приносить с собой
+anfangen|fing|angefangen|h|an|начинать
+ankommen|kam|angekommen|s|an|прибывать
+aussehen|sah|ausgesehen|h|aus|выглядеть
+abfahren|fuhr|abgefahren|s|ab|отъезжать
+umziehen|zog|umgezogen|s|um|переезжать
+einschlafen|schlief|eingeschlafen|s|ein|засыпать
+teilnehmen|nahm|teilgenommen|h|teil|участвовать
+fernsehen|sah|ferngesehen|h|fern|смотреть телевизор
+aufmachen|machte|aufgemacht|h|auf|открывать
+mitkommen|kam|mitgekommen|s|mit|идти вместе
+zurückkommen|kam|zurückgekommen|s|zurück|возвращаться
+machen|machte|gemacht|h||делать
+lernen|lernte|gelernt|h||учить
+spielen|spielte|gespielt|h||играть
+arbeiten|arbeitete|gearbeitet|h||работать
+kaufen|kaufte|gekauft|h||покупать
+wohnen|wohnte|gewohnt|h||жить
+besuchen|besuchte|besucht|h||посещать
+kochen|kochte|gekocht|h||готовить
+hören|hörte|gehört|h||слышать
+sagen|sagte|gesagt|h||говорить
+fragen|fragte|gefragt|h||спрашивать
+warten|wartete|gewartet|h||ждать
+telefonieren|telefonierte|telefoniert|h||звонить по телефону
+studieren|studierte|studiert|h||учиться в вузе
+reisen|reiste|gereist|s||путешествовать
+passieren|passierte|passiert|s||случаться
+erleben|erlebte|erlebt|h||переживать
+einkaufen|kaufte|eingekauft|h|ein|делать покупки"""
+VERBS = [l.split('|') for l in SV.strip().split('\n')]
+STRONG_PL = [v for v in VERBS]
+PRONS = [('ich', 0), ('er', 0), ('du', 1), ('wir', 2), ('sie (они)', 2)]
+def pform(base, k):
+    if k == 0: return base
+    if k == 2: return base + ('n' if base.endswith('e') else 'en')
+    if base.endswith(('s', 'ß', 'x', 'z', 't', 'd')): return base + 'est'
+    return base + 'st'
+AUX = {'h': {'ich': 'habe', 'er': 'hat', 'du': 'hast', 'wir': 'haben', 'sie (они)': 'haben'},
+       's': {'ich': 'bin', 'er': 'ist', 'du': 'bist', 'wir': 'sind', 'sie (они)': 'sind'}}
+def weak_part(inf, part, pre):
+    stem = inf[len(part):] if part else inf
+    stem = stem[:-2] if stem.endswith('en') else stem[:-1]
+    return (part + 'ge' + stem + 't') if part else 'ge' + stem + 't'
+rg = random.Random(11)
+prl, pfl = [], []
+for inf, pr, p2, aux, part, ru in VERBS:
+    base_inf = inf
+    for k in range(2):
+        pn, kk = rg.choice(PRONS)
+        form = pform(pr, kk)
+        pool = [pform(pr, 2 if kk == 0 else 0), p2, (inf[len(part):] if part else inf)[:-2] + 'te', rg.choice(VERBS)[1], pform(rg.choice(VERBS)[1], kk)]
+        pool = [x for x in dict.fromkeys(pool) if x != form]
+        w = rg.sample(pool, min(3, len(pool)))
+        q = f'Präteritum: {pn} ___{" " + part if part else ""} ({inf})'
+        prl.append(mc(q, form, w, f'{inf} — {pr} — {p2} ({ru}). {pn} → {form}.'))
+    for k in range(2):
+        pn, kk = rg.choice(PRONS)
+        a = AUX[aux][pn]; a2 = AUX['s' if aux == 'h' else 'h'][pn]
+        right = f'{a} {p2}'
+        wp = weak_part(inf, part, None)
+        cand = [f'{a2} {p2}', f'{a} {wp}', f'{a2} {wp}', f'{a} {inf}', f'{a} {wp[:-1]}en', f'{a2} {wp[:-1]}en']
+        cand = [x for x in dict.fromkeys(cand) if x != right]
+        pfl.append(mc(f'Perfekt: {pn} ___ ({inf})', right, rg.sample(cand, 3), f'{inf} — {pr} — {p2}; Hilfsverb: {"haben" if aux == "h" else "sein"}. ({ru})'))
+rg.shuffle(prl); rg.shuffle(pfl)
+add('praeteritum', prl); add('perfekt', pfl)
+def table(sel):
+    return '; '.join(f'{v[0]} — {v[1]} — {v[3] == "s" and "ist " or ""}{v[2]}' for v in VERBS if v[0] in sel)
+T_('praeteritum')['rule'] += ['Stammformen (Infinitiv — Präteritum — Partizip II): ei–ie–ie: ' + table(['bleiben', 'schreiben', 'steigen', 'schneiden', 'streiten', 'leihen', 'scheinen']) + '.',
+  'i–a–u: ' + table(['finden', 'singen', 'trinken', 'springen', 'gewinnen', 'schwimmen', 'verschwinden']) + '.',
+  'ie/ei–ie… e–a–e/o: ' + table(['geben', 'lesen', 'sehen', 'essen', 'sprechen', 'nehmen', 'treffen', 'helfen', 'werfen']) + '.',
+  'a–u–a: ' + table(['fahren', 'tragen', 'schlafen', 'waschen', 'wachsen', 'schlagen']) + '.',
+  'gemischte (Vokalwechsel + -te): ' + table(['bringen', 'denken', 'kennen', 'nennen', 'rennen', 'brennen', 'wissen']) + '.']
+T_('perfekt')['rule'] += ['С sein: движение и изменение состояния — gehen, fahren, kommen, fliegen, laufen, schwimmen, springen, aufstehen, einschlafen, werden, bleiben, sein, sterben, passieren.',
+  'Слабые: ge-…-t (gemacht, gearbeitet); без ge- на -ieren и с неотделяемой приставкой: telefoniert, besucht, bekommen, verstanden. Отделяемые: ge между приставкой и корнем (angerufen, aufgestanden).']
+
 # ---- порядок слов
 add('dass', [od(x) for x in ['Ich weiß, dass er heute nicht kommt.', 'Sie sagt, dass das Wetter schön ist.', 'Er glaubt, dass sie recht hat.', 'Ich hoffe, dass du bald kommst.', 'Es ist wichtig, dass wir pünktlich sind.', 'Er meint, dass der Film gut war.', 'Ich finde, dass Deutsch nicht leicht ist.', 'Wir wissen, dass ihr Hunger habt.']])
 add('relativ', [od(x) for x in ['Das ist der Mann, der neben mir wohnt.', 'Wo ist das Buch, das ich gestern gekauft habe?', 'Die Frau, die dort arbeitet, ist nett.', 'Ich kenne den Mann, den du gesehen hast.', 'Das ist die Tasche, die ich suche.', 'Der Hund, der bellt, gehört meinem Nachbarn.', 'Ich möchte ein Haus, das einen Garten hat.', 'Das sind die Schuhe, die ich gekauft habe.']])

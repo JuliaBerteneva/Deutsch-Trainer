@@ -7425,7 +7425,12 @@
 "Слабые: корень + -te: machen → machte, du machtest, wir machten.",
 "Сильные: меняют гласную: gehen → ging, kommen → kam, sehen → sah, schreiben → schrieb.",
 "Смешанные: меняют гласную + -te: denken → dachte, bringen → brachte, wissen → wusste, kennen → kannte.",
-"sein: war, hatte: hatte, werden: wurde. Используется в письменной речи и рассказах."
+"sein: war, hatte: hatte, werden: wurde. Используется в письменной речи и рассказах.",
+"Stammformen (Infinitiv — Präteritum — Partizip II): ei–ie–ie: bleiben — blieb — ist geblieben; schreiben — schrieb — geschrieben; schneiden — schnitt — geschnitten; scheinen — schien — geschienen; steigen — stieg — ist gestiegen; streiten — stritt — gestritten; leihen — lieh — geliehen.",
+"i–a–u: finden — fand — gefunden; gewinnen — gewann — gewonnen; schwimmen — schwamm — ist geschwommen; singen — sang — gesungen; trinken — trank — getrunken; springen — sprang — ist gesprungen; verschwinden — verschwand — ist verschwunden.",
+"ie/ei–ie… e–a–e/o: essen — aß — gegessen; geben — gab — gegeben; helfen — half — geholfen; lesen — las — gelesen; nehmen — nahm — genommen; sehen — sah — gesehen; sprechen — sprach — gesprochen; treffen — traf — getroffen; werfen — warf — geworfen.",
+"a–u–a: fahren — fuhr — ist gefahren; schlafen — schlief — geschlafen; tragen — trug — getragen; waschen — wusch — gewaschen; wachsen — wuchs — ist gewachsen; schlagen — schlug — geschlagen.",
+"gemischte (Vokalwechsel + -te): bringen — brachte — gebracht; denken — dachte — gedacht; kennen — kannte — gekannt; wissen — wusste — gewusst; nennen — nannte — genannt; rennen — rannte — ist gerannt; brennen — brannte — gebrannt."
 ],
 "items": [
 {
@@ -8165,6 +8170,2096 @@
 "e": "wissen → Präteritum: wusste / wussten (wir, sie)."
 },
 {
+"t": "mc",
+"q": "Präteritum: wir ___ (trinken)",
+"a": "tranken",
+"w": [
+"vergaßen",
+"log",
+"trinkte"
+],
+"e": "trinken — trank — getrunken (пить). wir → tranken."
+},
+{
+"t": "mc",
+"q": "Präteritum: er ___ (sagen)",
+"a": "sagte",
+"w": [
+"wohnte",
+"sagten",
+"gesagt"
+],
+"e": "sagen — sagte — gesagt (говорить). er → sagte."
+},
+{
+"t": "mc",
+"q": "Präteritum: ich ___ (schließen)",
+"a": "schloss",
+"w": [
+"schließte",
+"schlossen",
+"geschlossen"
+],
+"e": "schließen — schloss — geschlossen (закрывать). ich → schloss."
+},
+{
+"t": "mc",
+"q": "Präteritum: du ___ (fragen)",
+"a": "fragtest",
+"w": [
+"gefragt",
+"riefst",
+"rief"
+],
+"e": "fragen — fragte — gefragt (спрашивать). du → fragtest."
+},
+{
+"t": "mc",
+"q": "Präteritum: wir ___ auf (aufstehen)",
+"a": "standen",
+"w": [
+"stand",
+"stehte",
+"aufgestanden"
+],
+"e": "aufstehen — stand — aufgestanden (вставать). wir → standen."
+},
+{
+"t": "mc",
+"q": "Präteritum: sie (они) ___ auf (aufmachen)",
+"a": "machten",
+"w": [
+"machte",
+"aufgemacht",
+"schloss"
+],
+"e": "aufmachen — machte — aufgemacht (открывать). sie (они) → machten."
+},
+{
+"t": "mc",
+"q": "Präteritum: wir ___ (besuchen)",
+"a": "besuchten",
+"w": [
+"kochten",
+"besucht",
+"brannte"
+],
+"e": "besuchen — besuchte — besucht (посещать). wir → besuchten."
+},
+{
+"t": "mc",
+"q": "Präteritum: er ___ (schlagen)",
+"a": "schlug",
+"w": [
+"sah",
+"schlugen",
+"hörte"
+],
+"e": "schlagen — schlug — geschlagen (бить). er → schlug."
+},
+{
+"t": "mc",
+"q": "Präteritum: du ___ an (ankommen)",
+"a": "kamst",
+"w": [
+"kommte",
+"angekommen",
+"verschwandest"
+],
+"e": "ankommen — kam — angekommen (прибывать). du → kamst."
+},
+{
+"t": "mc",
+"q": "Präteritum: du ___ (werfen)",
+"a": "warfst",
+"w": [
+"werfte",
+"geworfen",
+"warf"
+],
+"e": "werfen — warf — geworfen (бросать). du → warfst."
+},
+{
+"t": "mc",
+"q": "Präteritum: wir ___ (bitten)",
+"a": "baten",
+"w": [
+"verschwanden",
+"bat",
+"bittte"
+],
+"e": "bitten — bat — gebeten (просить). wir → baten."
+},
+{
+"t": "mc",
+"q": "Präteritum: sie (они) ___ (schneiden)",
+"a": "schnitten",
+"w": [
+"bekam",
+"fragten",
+"geschnitten"
+],
+"e": "schneiden — schnitt — geschnitten (резать). sie (они) → schnitten."
+},
+{
+"t": "mc",
+"q": "Präteritum: er ___ (verlassen)",
+"a": "verließ",
+"w": [
+"flog",
+"stieg",
+"verließen"
+],
+"e": "verlassen — verließ — verlassen (покидать). er → verließ."
+},
+{
+"t": "mc",
+"q": "Präteritum: wir ___ (bekommen)",
+"a": "bekamen",
+"w": [
+"bekommte",
+"schlug",
+"bekommen"
+],
+"e": "bekommen — bekam — bekommen (получать). wir → bekamen."
+},
+{
+"t": "mc",
+"q": "Präteritum: sie (они) ___ (werden)",
+"a": "wurden",
+"w": [
+"geworden",
+"wartete",
+"warteten"
+],
+"e": "werden — wurde — geworden (становиться). sie (они) → wurden."
+},
+{
+"t": "mc",
+"q": "Präteritum: wir ___ (beginnen)",
+"a": "begannen",
+"w": [
+"erfuhr",
+"telefonierten",
+"beginnte"
+],
+"e": "beginnen — begann — begonnen (начинать). wir → begannen."
+},
+{
+"t": "mc",
+"q": "Präteritum: du ___ (sterben)",
+"a": "starbst",
+"w": [
+"sterbte",
+"gestorben",
+"verstandest"
+],
+"e": "sterben — starb — gestorben (умирать). du → starbst."
+},
+{
+"t": "mc",
+"q": "Präteritum: er ___ (sehen)",
+"a": "sah",
+"w": [
+"gesehen",
+"sahen",
+"verglich"
+],
+"e": "sehen — sah — gesehen (видеть). er → sah."
+},
+{
+"t": "mc",
+"q": "Präteritum: wir ___ (vergessen)",
+"a": "vergaßen",
+"w": [
+"vergessen",
+"vergaß",
+"las"
+],
+"e": "vergessen — vergaß — vergessen (забывать). wir → vergaßen."
+},
+{
+"t": "mc",
+"q": "Präteritum: ich ___ (nehmen)",
+"a": "nahm",
+"w": [
+"nehmte",
+"genommen",
+"schlief"
+],
+"e": "nehmen — nahm — genommen (брать). ich → nahm."
+},
+{
+"t": "mc",
+"q": "Präteritum: sie (они) ___ (telefonieren)",
+"a": "telefonierten",
+"w": [
+"fand",
+"telefoniert",
+"telefonierte"
+],
+"e": "telefonieren — telefonierte — telefoniert (звонить по телефону). sie (они) → telefonierten."
+},
+{
+"t": "mc",
+"q": "Präteritum: wir ___ (reisen)",
+"a": "reisten",
+"w": [
+"wohnte",
+"gereist",
+"baten"
+],
+"e": "reisen — reiste — gereist (путешествовать). wir → reisten."
+},
+{
+"t": "mc",
+"q": "Präteritum: sie (они) ___ (verstehen)",
+"a": "verstanden",
+"w": [
+"fuhr",
+"verstehte",
+"verstand"
+],
+"e": "verstehen — verstand — verstanden (понимать). sie (они) → verstanden."
+},
+{
+"t": "mc",
+"q": "Präteritum: sie (они) ___ (greifen)",
+"a": "griffen",
+"w": [
+"hielt",
+"griff",
+"greifte"
+],
+"e": "greifen — griff — gegriffen (хватать). sie (они) → griffen."
+},
+{
+"t": "mc",
+"q": "Präteritum: sie (они) ___ (bleiben)",
+"a": "blieben",
+"w": [
+"stritten",
+"geblieben",
+"bleibte"
+],
+"e": "bleiben — blieb — geblieben (оставаться). sie (они) → blieben."
+},
+{
+"t": "mc",
+"q": "Präteritum: sie (они) ___ (gehen)",
+"a": "gingen",
+"w": [
+"ging",
+"gehte",
+"kamen"
+],
+"e": "gehen — ging — gegangen (идти). sie (они) → gingen."
+},
+{
+"t": "mc",
+"q": "Präteritum: ich ___ (laufen)",
+"a": "lief",
+"w": [
+"zog",
+"liefen",
+"laufte"
+],
+"e": "laufen — lief — gelaufen (бежать). ich → lief."
+},
+{
+"t": "mc",
+"q": "Präteritum: wir ___ ein (einkaufen)",
+"a": "kauften",
+"w": [
+"wusste",
+"schrieben",
+"kaufte"
+],
+"e": "einkaufen — kaufte — eingekauft (делать покупки). wir → kauften."
+},
+{
+"t": "mc",
+"q": "Präteritum: er ___ (geben)",
+"a": "gab",
+"w": [
+"gaben",
+"hörte",
+"gegeben"
+],
+"e": "geben — gab — gegeben (давать). er → gab."
+},
+{
+"t": "mc",
+"q": "Präteritum: wir ___ fern (fernsehen)",
+"a": "sahen",
+"w": [
+"ferngesehen",
+"schwammen",
+"sah"
+],
+"e": "fernsehen — sah — ferngesehen (смотреть телевизор). wir → sahen."
+},
+{
+"t": "mc",
+"q": "Präteritum: du ___ (sitzen)",
+"a": "saßest",
+"w": [
+"entschied",
+"sitzte",
+"gesessen"
+],
+"e": "sitzen — saß — gesessen (сидеть). du → saßest."
+},
+{
+"t": "mc",
+"q": "Präteritum: ich ___ (rennen)",
+"a": "rannte",
+"w": [
+"las",
+"rannten",
+"rennte"
+],
+"e": "rennen — rannte — gerannt (бежать, мчаться). ich → rannte."
+},
+{
+"t": "mc",
+"q": "Präteritum: wir ___ (halten)",
+"a": "hielten",
+"w": [
+"reiste",
+"hielt",
+"haltte"
+],
+"e": "halten — hielt — gehalten (держать). wir → hielten."
+},
+{
+"t": "mc",
+"q": "Präteritum: er ___ (kennen)",
+"a": "kannte",
+"w": [
+"lief",
+"gekannt",
+"kannten"
+],
+"e": "kennen — kannte — gekannt (знать (кого-то)). er → kannte."
+},
+{
+"t": "mc",
+"q": "Präteritum: wir ___ (verlieren)",
+"a": "verloren",
+"w": [
+"trafen",
+"verlierte",
+"verlor"
+],
+"e": "verlieren — verlor — verloren (терять). wir → verloren."
+},
+{
+"t": "mc",
+"q": "Präteritum: sie (они) ___ (sitzen)",
+"a": "saßen",
+"w": [
+"fand",
+"saß",
+"liefen"
+],
+"e": "sitzen — saß — gesessen (сидеть). sie (они) → saßen."
+},
+{
+"t": "mc",
+"q": "Präteritum: sie (они) ___ (erfahren)",
+"a": "erfuhren",
+"w": [
+"erfahren",
+"verstanden",
+"sprach"
+],
+"e": "erfahren — erfuhr — erfahren (узнавать). sie (они) → erfuhren."
+},
+{
+"t": "mc",
+"q": "Präteritum: du ___ (bitten)",
+"a": "batest",
+"w": [
+"bat",
+"arbeitete",
+"gebeten"
+],
+"e": "bitten — bat — gebeten (просить). du → batest."
+},
+{
+"t": "mc",
+"q": "Präteritum: du ___ (stehen)",
+"a": "standest",
+"w": [
+"gestanden",
+"half",
+"stand"
+],
+"e": "stehen — stand — gestanden (стоять). du → standest."
+},
+{
+"t": "mc",
+"q": "Präteritum: ich ___ (raten)",
+"a": "riet",
+"w": [
+"stand",
+"ratte",
+"schlug"
+],
+"e": "raten — riet — geraten (советовать). ich → riet."
+},
+{
+"t": "mc",
+"q": "Präteritum: du ___ (steigen)",
+"a": "stiegst",
+"w": [
+"stieg",
+"brachst",
+"stritt"
+],
+"e": "steigen — stieg — gestiegen (подниматься). du → stiegst."
+},
+{
+"t": "mc",
+"q": "Präteritum: er ___ (lesen)",
+"a": "las",
+"w": [
+"gewann",
+"gelesen",
+"griff"
+],
+"e": "lesen — las — gelesen (читать). er → las."
+},
+{
+"t": "mc",
+"q": "Präteritum: ich ___ (erleben)",
+"a": "erlebte",
+"w": [
+"erlebten",
+"erlebt",
+"brannte"
+],
+"e": "erleben — erlebte — erlebt (переживать). ich → erlebte."
+},
+{
+"t": "mc",
+"q": "Präteritum: du ___ (verbringen)",
+"a": "verbrachtest",
+"w": [
+"verbracht",
+"verbrachte",
+"reistest"
+],
+"e": "verbringen — verbrachte — verbracht (проводить (время)). du → verbrachtest."
+},
+{
+"t": "mc",
+"q": "Präteritum: ich ___ (singen)",
+"a": "sang",
+"w": [
+"singte",
+"gesungen",
+"sangen"
+],
+"e": "singen — sang — gesungen (петь). ich → sang."
+},
+{
+"t": "mc",
+"q": "Präteritum: wir ___ (kaufen)",
+"a": "kauften",
+"w": [
+"gekauft",
+"kaufte",
+"machte"
+],
+"e": "kaufen — kaufte — gekauft (покупать). wir → kauften."
+},
+{
+"t": "mc",
+"q": "Präteritum: du ___ (erfahren)",
+"a": "erfuhrst",
+"w": [
+"machtest",
+"erfuhr",
+"erfahrte"
+],
+"e": "erfahren — erfuhr — erfahren (узнавать). du → erfuhrst."
+},
+{
+"t": "mc",
+"q": "Präteritum: wir ___ (gewinnen)",
+"a": "gewannen",
+"w": [
+"gewinnte",
+"besuchten",
+"gewann"
+],
+"e": "gewinnen — gewann — gewonnen (выигрывать). wir → gewannen."
+},
+{
+"t": "mc",
+"q": "Präteritum: ich ___ (denken)",
+"a": "dachte",
+"w": [
+"dachten",
+"rief",
+"wartete"
+],
+"e": "denken — dachte — gedacht (думать). ich → dachte."
+},
+{
+"t": "mc",
+"q": "Präteritum: du ___ (denken)",
+"a": "dachtest",
+"w": [
+"dachte",
+"flogst",
+"empfahl"
+],
+"e": "denken — dachte — gedacht (думать). du → dachtest."
+},
+{
+"t": "mc",
+"q": "Präteritum: ich ___ teil (teilnehmen)",
+"a": "nahm",
+"w": [
+"brachte",
+"wusste",
+"nahmen"
+],
+"e": "teilnehmen — nahm — teilgenommen (участвовать). ich → nahm."
+},
+{
+"t": "mc",
+"q": "Präteritum: er ___ fern (fernsehen)",
+"a": "sah",
+"w": [
+"wusch",
+"griff",
+"sehte"
+],
+"e": "fernsehen — sah — ferngesehen (смотреть телевизор). er → sah."
+},
+{
+"t": "mc",
+"q": "Präteritum: du ___ zurück (zurückkommen)",
+"a": "kamst",
+"w": [
+"kommte",
+"zurückgekommen",
+"kam"
+],
+"e": "zurückkommen — kam — zurückgekommen (возвращаться). du → kamst."
+},
+{
+"t": "mc",
+"q": "Präteritum: du ___ (waschen)",
+"a": "wuschst",
+"w": [
+"wusch",
+"gewaschen",
+"waschte"
+],
+"e": "waschen — wusch — gewaschen (мыть). du → wuschst."
+},
+{
+"t": "mc",
+"q": "Präteritum: sie (они) ___ (treffen)",
+"a": "trafen",
+"w": [
+"hielt",
+"traf",
+"treffte"
+],
+"e": "treffen — traf — getroffen (встречать). sie (они) → trafen."
+},
+{
+"t": "mc",
+"q": "Präteritum: wir ___ zurück (zurückkommen)",
+"a": "kamen",
+"w": [
+"zurückgekommen",
+"kommte",
+"sah"
+],
+"e": "zurückkommen — kam — zurückgekommen (возвращаться). wir → kamen."
+},
+{
+"t": "mc",
+"q": "Präteritum: er ___ mit (mitbringen)",
+"a": "brachte",
+"w": [
+"brachten",
+"fing",
+"kaufte"
+],
+"e": "mitbringen — brachte — mitgebracht (приносить с собой). er → brachte."
+},
+{
+"t": "mc",
+"q": "Präteritum: er ___ (greifen)",
+"a": "griff",
+"w": [
+"greifte",
+"ging",
+"kam"
+],
+"e": "greifen — griff — gegriffen (хватать). er → griff."
+},
+{
+"t": "mc",
+"q": "Präteritum: er ___ ein (einkaufen)",
+"a": "kaufte",
+"w": [
+"eingekauft",
+"griff",
+"kauften"
+],
+"e": "einkaufen — kaufte — eingekauft (делать покупки). er → kaufte."
+},
+{
+"t": "mc",
+"q": "Präteritum: ich ___ (fliegen)",
+"a": "flog",
+"w": [
+"geflogen",
+"lieh",
+"trug"
+],
+"e": "fliegen — flog — geflogen (лететь). ich → flog."
+},
+{
+"t": "mc",
+"q": "Präteritum: wir ___ (schließen)",
+"a": "schlossen",
+"w": [
+"luden",
+"schließte",
+"flog"
+],
+"e": "schließen — schloss — geschlossen (закрывать). wir → schlossen."
+},
+{
+"t": "mc",
+"q": "Präteritum: sie (они) ___ (nennen)",
+"a": "nannten",
+"w": [
+"nannte",
+"beschrieb",
+"erlebten"
+],
+"e": "nennen — nannte — genannt (называть). sie (они) → nannten."
+},
+{
+"t": "mc",
+"q": "Präteritum: du ___ (machen)",
+"a": "machtest",
+"w": [
+"flog",
+"machte",
+"gemacht"
+],
+"e": "machen — machte — gemacht (делать). du → machtest."
+},
+{
+"t": "mc",
+"q": "Präteritum: du ___ (tun)",
+"a": "tatest",
+"w": [
+"getan",
+"tat",
+"tte"
+],
+"e": "tun — tat — getan (делать). du → tatest."
+},
+{
+"t": "mc",
+"q": "Präteritum: er ___ (sein)",
+"a": "war",
+"w": [
+"waren",
+"sete",
+"gewesen"
+],
+"e": "sein — war — gewesen (быть). er → war."
+},
+{
+"t": "mc",
+"q": "Präteritum: du ___ (brechen)",
+"a": "brachst",
+"w": [
+"brechte",
+"gebrochen",
+"brach"
+],
+"e": "brechen — brach — gebrochen (ломать). du → brachst."
+},
+{
+"t": "mc",
+"q": "Präteritum: wir ___ (schreiben)",
+"a": "schrieben",
+"w": [
+"schreibte",
+"rannte",
+"geschrieben"
+],
+"e": "schreiben — schrieb — geschrieben (писать). wir → schrieben."
+},
+{
+"t": "mc",
+"q": "Präteritum: er ___ (wachsen)",
+"a": "wuchs",
+"w": [
+"warf",
+"wachste",
+"gewachsen"
+],
+"e": "wachsen — wuchs — gewachsen (расти). er → wuchs."
+},
+{
+"t": "mc",
+"q": "Präteritum: sie (они) ___ (kochen)",
+"a": "kochten",
+"w": [
+"gekocht",
+"log",
+"nahmen"
+],
+"e": "kochen — kochte — gekocht (готовить). sie (они) → kochten."
+},
+{
+"t": "mc",
+"q": "Präteritum: wir ___ (empfehlen)",
+"a": "empfahlen",
+"w": [
+"empfohlen",
+"fing",
+"empfahl"
+],
+"e": "empfehlen — empfahl — empfohlen (рекомендовать). wir → empfahlen."
+},
+{
+"t": "mc",
+"q": "Präteritum: ich ___ (warten)",
+"a": "wartete",
+"w": [
+"wartte",
+"begann",
+"warteten"
+],
+"e": "warten — wartete — gewartet (ждать). ich → wartete."
+},
+{
+"t": "mc",
+"q": "Präteritum: wir ___ (liegen)",
+"a": "lagen",
+"w": [
+"wuschen",
+"liegte",
+"gelegen"
+],
+"e": "liegen — lag — gelegen (лежать). wir → lagen."
+},
+{
+"t": "mc",
+"q": "Präteritum: wir ___ ein (einladen)",
+"a": "luden",
+"w": [
+"stand",
+"ladte",
+"kamen"
+],
+"e": "einladen — lud — eingeladen (приглашать). wir → luden."
+},
+{
+"t": "mc",
+"q": "Präteritum: er ___ (werfen)",
+"a": "warf",
+"w": [
+"verglich",
+"warfen",
+"werfte"
+],
+"e": "werfen — warf — geworfen (бросать). er → warf."
+},
+{
+"t": "mc",
+"q": "Präteritum: du ___ (kommen)",
+"a": "kamst",
+"w": [
+"kommte",
+"kam",
+"schlossest"
+],
+"e": "kommen — kam — gekommen (приходить). du → kamst."
+},
+{
+"t": "mc",
+"q": "Präteritum: sie (они) ___ (passieren)",
+"a": "passierten",
+"w": [
+"passiert",
+"passierte",
+"machten"
+],
+"e": "passieren — passierte — passiert (случаться). sie (они) → passierten."
+},
+{
+"t": "mc",
+"q": "Präteritum: sie (они) ___ (gefallen)",
+"a": "gefielen",
+"w": [
+"bat",
+"gefallen",
+"gefallte"
+],
+"e": "gefallen — gefiel — gefallen (нравиться). sie (они) → gefielen."
+},
+{
+"t": "mc",
+"q": "Präteritum: du ___ (wissen)",
+"a": "wusstest",
+"w": [
+"gewusst",
+"beschrieb",
+"wisste"
+],
+"e": "wissen — wusste — gewusst (знать). du → wusstest."
+},
+{
+"t": "mc",
+"q": "Präteritum: ich ___ (bringen)",
+"a": "brachte",
+"w": [
+"bringte",
+"verbrachte",
+"sah"
+],
+"e": "bringen — brachte — gebracht (приносить). ich → brachte."
+},
+{
+"t": "mc",
+"q": "Präteritum: ich ___ (studieren)",
+"a": "studierte",
+"w": [
+"schnitt",
+"studierten",
+"studiert"
+],
+"e": "studieren — studierte — studiert (учиться в вузе). ich → studierte."
+},
+{
+"t": "mc",
+"q": "Präteritum: er ___ (verlieren)",
+"a": "verlor",
+"w": [
+"schnitt",
+"verloren",
+"verlierte"
+],
+"e": "verlieren — verlor — verloren (терять). er → verlor."
+},
+{
+"t": "mc",
+"q": "Präteritum: wir ___ (gehen)",
+"a": "gingen",
+"w": [
+"machten",
+"gegangen",
+"gehte"
+],
+"e": "gehen — ging — gegangen (идти). wir → gingen."
+},
+{
+"t": "mc",
+"q": "Präteritum: wir ___ aus (aussehen)",
+"a": "sahen",
+"w": [
+"erfuhr",
+"verstanden",
+"sah"
+],
+"e": "aussehen — sah — ausgesehen (выглядеть). wir → sahen."
+},
+{
+"t": "mc",
+"q": "Präteritum: er ___ (wohnen)",
+"a": "wohnte",
+"w": [
+"gewohnt",
+"wohnten",
+"lieh"
+],
+"e": "wohnen — wohnte — gewohnt (жить). er → wohnte."
+},
+{
+"t": "mc",
+"q": "Präteritum: wir ___ (fragen)",
+"a": "fragten",
+"w": [
+"gefragt",
+"kannten",
+"fragte"
+],
+"e": "fragen — fragte — gefragt (спрашивать). wir → fragten."
+},
+{
+"t": "mc",
+"q": "Präteritum: er ___ (fangen)",
+"a": "fing",
+"w": [
+"erlebte",
+"gefangen",
+"fangte"
+],
+"e": "fangen — fing — gefangen (ловить). er → fing."
+},
+{
+"t": "mc",
+"q": "Präteritum: du ___ (verstehen)",
+"a": "verstandest",
+"w": [
+"verstanden",
+"standest",
+"verstehte"
+],
+"e": "verstehen — verstand — verstanden (понимать). du → verstandest."
+},
+{
+"t": "mc",
+"q": "Präteritum: sie (они) ___ (machen)",
+"a": "machten",
+"w": [
+"machte",
+"gemacht",
+"spielten"
+],
+"e": "machen — machte — gemacht (делать). sie (они) → machten."
+},
+{
+"t": "mc",
+"q": "Präteritum: sie (они) ___ (laufen)",
+"a": "liefen",
+"w": [
+"laufte",
+"lief",
+"schliefen"
+],
+"e": "laufen — lief — gelaufen (бежать). sie (они) → liefen."
+},
+{
+"t": "mc",
+"q": "Präteritum: wir ___ (entscheiden)",
+"a": "entschieden",
+"w": [
+"entscheidte",
+"sangen",
+"fiel"
+],
+"e": "entscheiden — entschied — entschieden (решать). wir → entschieden."
+},
+{
+"t": "mc",
+"q": "Präteritum: sie (они) ___ ein (einladen)",
+"a": "luden",
+"w": [
+"eingeladen",
+"lud",
+"ladte"
+],
+"e": "einladen — lud — eingeladen (приглашать). sie (они) → luden."
+},
+{
+"t": "mc",
+"q": "Präteritum: sie (они) ___ (rufen)",
+"a": "riefen",
+"w": [
+"rufte",
+"erfuhr",
+"trugen"
+],
+"e": "rufen — rief — gerufen (звать). sie (они) → riefen."
+},
+{
+"t": "mc",
+"q": "Präteritum: sie (они) ___ (beginnen)",
+"a": "begannen",
+"w": [
+"schrieben",
+"schwamm",
+"beginnte"
+],
+"e": "beginnen — begann — begonnen (начинать). sie (они) → begannen."
+},
+{
+"t": "mc",
+"q": "Präteritum: sie (они) ___ (studieren)",
+"a": "studierten",
+"w": [
+"flogen",
+"studierte",
+"wusch"
+],
+"e": "studieren — studierte — studiert (учиться в вузе). sie (они) → studierten."
+},
+{
+"t": "mc",
+"q": "Präteritum: wir ___ (singen)",
+"a": "sangen",
+"w": [
+"sang",
+"hieß",
+"dachten"
+],
+"e": "singen — sang — gesungen (петь). wir → sangen."
+},
+{
+"t": "mc",
+"q": "Präteritum: du ___ (ziehen)",
+"a": "zogst",
+"w": [
+"ziehte",
+"wohntest",
+"zog"
+],
+"e": "ziehen — zog — gezogen (тянуть). du → zogst."
+},
+{
+"t": "mc",
+"q": "Präteritum: wir ___ (beschreiben)",
+"a": "beschrieben",
+"w": [
+"kaufte",
+"liefen",
+"beschreibte"
+],
+"e": "beschreiben — beschrieb — beschrieben (описывать). wir → beschrieben."
+},
+{
+"t": "mc",
+"q": "Präteritum: sie (они) ___ (warten)",
+"a": "warteten",
+"w": [
+"wartete",
+"lagen",
+"gewartet"
+],
+"e": "warten — wartete — gewartet (ждать). sie (они) → warteten."
+},
+{
+"t": "mc",
+"q": "Präteritum: du ___ (nehmen)",
+"a": "nahmst",
+"w": [
+"genommen",
+"nahm",
+"dachtest"
+],
+"e": "nehmen — nahm — genommen (брать). du → nahmst."
+},
+{
+"t": "mc",
+"q": "Präteritum: ich ___ mit (mitkommen)",
+"a": "kam",
+"w": [
+"mitgekommen",
+"kommte",
+"kamen"
+],
+"e": "mitkommen — kam — mitgekommen (идти вместе). ich → kam."
+},
+{
+"t": "mc",
+"q": "Präteritum: ich ___ ab (abfahren)",
+"a": "fuhr",
+"w": [
+"fahrte",
+"schnitt",
+"sprach"
+],
+"e": "abfahren — fuhr — abgefahren (отъезжать). ich → fuhr."
+},
+{
+"t": "mc",
+"q": "Präteritum: ich ___ (spielen)",
+"a": "spielte",
+"w": [
+"flog",
+"gespielt",
+"tat"
+],
+"e": "spielen — spielte — gespielt (играть). ich → spielte."
+},
+{
+"t": "mc",
+"q": "Präteritum: ich ___ (arbeiten)",
+"a": "arbeitete",
+"w": [
+"arbeiteten",
+"gearbeitet",
+"arbeitte"
+],
+"e": "arbeiten — arbeitete — gearbeitet (работать). ich → arbeitete."
+},
+{
+"t": "mc",
+"q": "Präteritum: du ___ (arbeiten)",
+"a": "arbeitetest",
+"w": [
+"gearbeitet",
+"trafst",
+"arbeitte"
+],
+"e": "arbeiten — arbeitete — gearbeitet (работать). du → arbeitetest."
+},
+{
+"t": "mc",
+"q": "Präteritum: ich ___ (sterben)",
+"a": "starb",
+"w": [
+"schlief",
+"starben",
+"schloss"
+],
+"e": "sterben — starb — gestorben (умирать). ich → starb."
+},
+{
+"t": "mc",
+"q": "Präteritum: er ___ ein (einschlafen)",
+"a": "schlief",
+"w": [
+"verglich",
+"schliefen",
+"empfahl"
+],
+"e": "einschlafen — schlief — eingeschlafen (засыпать). er → schlief."
+},
+{
+"t": "mc",
+"q": "Präteritum: sie (они) ___ (wohnen)",
+"a": "wohnten",
+"w": [
+"gewohnt",
+"standen",
+"rannte"
+],
+"e": "wohnen — wohnte — gewohnt (жить). sie (они) → wohnten."
+},
+{
+"t": "mc",
+"q": "Präteritum: du ___ (kaufen)",
+"a": "kauftest",
+"w": [
+"hieß",
+"brachtest",
+"kaufte"
+],
+"e": "kaufen — kaufte — gekauft (покупать). du → kauftest."
+},
+{
+"t": "mc",
+"q": "Präteritum: ich ___ (scheinen)",
+"a": "schien",
+"w": [
+"schienen",
+"machte",
+"scheinte"
+],
+"e": "scheinen — schien — geschienen (светить, казаться). ich → schien."
+},
+{
+"t": "mc",
+"q": "Präteritum: ich ___ an (anrufen)",
+"a": "rief",
+"w": [
+"fing",
+"rufte",
+"begann"
+],
+"e": "anrufen — rief — angerufen (звонить). ich → rief."
+},
+{
+"t": "mc",
+"q": "Präteritum: sie (они) ___ (schwimmen)",
+"a": "schwammen",
+"w": [
+"rannte",
+"schwamm",
+"schwimmte"
+],
+"e": "schwimmen — schwamm — geschwommen (плавать). sie (они) → schwammen."
+},
+{
+"t": "mc",
+"q": "Präteritum: ich ___ (waschen)",
+"a": "wusch",
+"w": [
+"wuschen",
+"gewaschen",
+"waschte"
+],
+"e": "waschen — wusch — gewaschen (мыть). ich → wusch."
+},
+{
+"t": "mc",
+"q": "Präteritum: ich ___ (gewinnen)",
+"a": "gewann",
+"w": [
+"stritt",
+"gewinnte",
+"gab"
+],
+"e": "gewinnen — gewann — gewonnen (выигрывать). ich → gewann."
+},
+{
+"t": "mc",
+"q": "Präteritum: ich ___ (hören)",
+"a": "hörte",
+"w": [
+"hörten",
+"kaufte",
+"nahm"
+],
+"e": "hören — hörte — gehört (слышать). ich → hörte."
+},
+{
+"t": "mc",
+"q": "Präteritum: er ___ (finden)",
+"a": "fand",
+"w": [
+"findte",
+"gefunden",
+"lag"
+],
+"e": "finden — fand — gefunden (находить). er → fand."
+},
+{
+"t": "mc",
+"q": "Präteritum: sie (они) ___ (besuchen)",
+"a": "besuchten",
+"w": [
+"besuchte",
+"besucht",
+"griff"
+],
+"e": "besuchen — besuchte — besucht (посещать). sie (они) → besuchten."
+},
+{
+"t": "mc",
+"q": "Präteritum: ich ___ (lügen)",
+"a": "log",
+"w": [
+"gelogen",
+"logen",
+"lügte"
+],
+"e": "lügen — log — gelogen (лгать). ich → log."
+},
+{
+"t": "mc",
+"q": "Präteritum: du ___ ein (einschlafen)",
+"a": "schliefst",
+"w": [
+"tatest",
+"schlief",
+"schlafte"
+],
+"e": "einschlafen — schlief — eingeschlafen (засыпать). du → schliefst."
+},
+{
+"t": "mc",
+"q": "Präteritum: ich ___ (springen)",
+"a": "sprang",
+"w": [
+"gesprungen",
+"wohnte",
+"passierte"
+],
+"e": "springen — sprang — gesprungen (прыгать). ich → sprang."
+},
+{
+"t": "mc",
+"q": "Präteritum: sie (они) ___ (schlafen)",
+"a": "schliefen",
+"w": [
+"schlief",
+"half",
+"brannten"
+],
+"e": "schlafen — schlief — geschlafen (спать). sie (они) → schliefen."
+},
+{
+"t": "mc",
+"q": "Präteritum: er ___ (verschwinden)",
+"a": "verschwand",
+"w": [
+"verschwindte",
+"verschwanden",
+"zog"
+],
+"e": "verschwinden — verschwand — verschwunden (исчезать). er → verschwand."
+},
+{
+"t": "mc",
+"q": "Präteritum: sie (они) ___ (bringen)",
+"a": "brachten",
+"w": [
+"bringte",
+"sprach",
+"brachte"
+],
+"e": "bringen — brachte — gebracht (приносить). sie (они) → brachten."
+},
+{
+"t": "mc",
+"q": "Präteritum: wir ___ (rufen)",
+"a": "riefen",
+"w": [
+"rufte",
+"gerufen",
+"erfuhren"
+],
+"e": "rufen — rief — gerufen (звать). wir → riefen."
+},
+{
+"t": "mc",
+"q": "Präteritum: ich ___ (fallen)",
+"a": "fiel",
+"w": [
+"las",
+"fallte",
+"fielen"
+],
+"e": "fallen — fiel — gefallen (падать). ich → fiel."
+},
+{
+"t": "mc",
+"q": "Präteritum: du ___ (schneiden)",
+"a": "schnittest",
+"w": [
+"geschnitten",
+"erlebte",
+"zogst"
+],
+"e": "schneiden — schnitt — geschnitten (резать). du → schnittest."
+},
+{
+"t": "mc",
+"q": "Präteritum: wir ___ (lernen)",
+"a": "lernten",
+"w": [
+"empfahl",
+"gelernt",
+"lernte"
+],
+"e": "lernen — lernte — gelernt (учить). wir → lernten."
+},
+{
+"t": "mc",
+"q": "Präteritum: wir ___ an (ankommen)",
+"a": "kamen",
+"w": [
+"machten",
+"lernte",
+"kam"
+],
+"e": "ankommen — kam — angekommen (прибывать). wir → kamen."
+},
+{
+"t": "mc",
+"q": "Präteritum: wir ___ (rennen)",
+"a": "rannten",
+"w": [
+"bekamen",
+"gerannt",
+"schlief"
+],
+"e": "rennen — rannte — gerannt (бежать, мчаться). wir → rannten."
+},
+{
+"t": "mc",
+"q": "Präteritum: du ___ (vergleichen)",
+"a": "verglichst",
+"w": [
+"verglichen",
+"brachtest",
+"vergleichte"
+],
+"e": "vergleichen — verglich — verglichen (сравнивать). du → verglichst."
+},
+{
+"t": "mc",
+"q": "Präteritum: sie (они) ___ (heißen)",
+"a": "hießen",
+"w": [
+"hieß",
+"geheißen",
+"heißte"
+],
+"e": "heißen — hieß — geheißen (называться). sie (они) → hießen."
+},
+{
+"t": "mc",
+"q": "Präteritum: er ___ (tun)",
+"a": "tat",
+"w": [
+"griff",
+"taten",
+"getan"
+],
+"e": "tun — tat — getan (делать). er → tat."
+},
+{
+"t": "mc",
+"q": "Präteritum: du ___ teil (teilnehmen)",
+"a": "nahmst",
+"w": [
+"nehmte",
+"teilgenommen",
+"nahm"
+],
+"e": "teilnehmen — nahm — teilgenommen (участвовать). du → nahmst."
+},
+{
+"t": "mc",
+"q": "Präteritum: sie (они) ___ (sehen)",
+"a": "sahen",
+"w": [
+"zogen",
+"gesehen",
+"sehte"
+],
+"e": "sehen — sah — gesehen (видеть). sie (они) → sahen."
+},
+{
+"t": "mc",
+"q": "Präteritum: wir ___ (scheinen)",
+"a": "schienen",
+"w": [
+"schien",
+"hörte",
+"studierten"
+],
+"e": "scheinen — schien — geschienen (светить, казаться). wir → schienen."
+},
+{
+"t": "mc",
+"q": "Präteritum: ich ___ (bleiben)",
+"a": "blieb",
+"w": [
+"blieben",
+"flog",
+"schlug"
+],
+"e": "bleiben — blieb — geblieben (оставаться). ich → blieb."
+},
+{
+"t": "mc",
+"q": "Präteritum: er ___ (passieren)",
+"a": "passierte",
+"w": [
+"passiert",
+"passierten",
+"kochte"
+],
+"e": "passieren — passierte — passiert (случаться). er → passierte."
+},
+{
+"t": "mc",
+"q": "Präteritum: ich ___ (sein)",
+"a": "war",
+"w": [
+"log",
+"gewesen",
+"waren"
+],
+"e": "sein — war — gewesen (быть). ich → war."
+},
+{
+"t": "mc",
+"q": "Präteritum: sie (они) ___ (reisen)",
+"a": "reisten",
+"w": [
+"gereist",
+"reiste",
+"blieben"
+],
+"e": "reisen — reiste — gereist (путешествовать). sie (они) → reisten."
+},
+{
+"t": "mc",
+"q": "Präteritum: wir ___ (raten)",
+"a": "rieten",
+"w": [
+"starb",
+"riet",
+"geraten"
+],
+"e": "raten — riet — geraten (советовать). wir → rieten."
+},
+{
+"t": "mc",
+"q": "Präteritum: ich ___ aus (aussehen)",
+"a": "sah",
+"w": [
+"griff",
+"ausgesehen",
+"sahen"
+],
+"e": "aussehen — sah — ausgesehen (выглядеть). ich → sah."
+},
+{
+"t": "mc",
+"q": "Präteritum: er ___ (bekommen)",
+"a": "bekam",
+"w": [
+"besuchte",
+"bekommen",
+"bekamen"
+],
+"e": "bekommen — bekam — bekommen (получать). er → bekam."
+},
+{
+"t": "mc",
+"q": "Präteritum: wir ___ (essen)",
+"a": "aßen",
+"w": [
+"gegessen",
+"kannten",
+"esste"
+],
+"e": "essen — aß — gegessen (есть). wir → aßen."
+},
+{
+"t": "mc",
+"q": "Präteritum: er ___ um (umziehen)",
+"a": "zog",
+"w": [
+"warf",
+"umgezogen",
+"ziehte"
+],
+"e": "umziehen — zog — umgezogen (переезжать). er → zog."
+},
+{
+"t": "mc",
+"q": "Präteritum: sie (они) ___ (fliegen)",
+"a": "flogen",
+"w": [
+"flog",
+"logen",
+"ging"
+],
+"e": "fliegen — flog — geflogen (лететь). sie (они) → flogen."
+},
+{
+"t": "mc",
+"q": "Präteritum: du ___ (treffen)",
+"a": "trafst",
+"w": [
+"beschriebst",
+"bekam",
+"treffte"
+],
+"e": "treffen — traf — getroffen (встречать). du → trafst."
+},
+{
+"t": "mc",
+"q": "Präteritum: ich ___ (tragen)",
+"a": "trug",
+"w": [
+"entschied",
+"trugen",
+"fragte"
+],
+"e": "tragen — trug — getragen (носить). ich → trug."
+},
+{
+"t": "mc",
+"q": "Präteritum: sie (они) ___ (leihen)",
+"a": "liehen",
+"w": [
+"riet",
+"lieh",
+"geliehen"
+],
+"e": "leihen — lieh — geliehen (одалживать). sie (они) → liehen."
+},
+{
+"t": "mc",
+"q": "Präteritum: wir ___ (heißen)",
+"a": "hießen",
+"w": [
+"hieß",
+"verglichen",
+"geheißen"
+],
+"e": "heißen — hieß — geheißen (называться). wir → hießen."
+},
+{
+"t": "mc",
+"q": "Präteritum: du ___ (erleben)",
+"a": "erlebtest",
+"w": [
+"erlebt",
+"erlebte",
+"verließ"
+],
+"e": "erleben — erlebte — erlebt (переживать). du → erlebtest."
+},
+{
+"t": "mc",
+"q": "Präteritum: sie (они) ___ (schreiben)",
+"a": "schrieben",
+"w": [
+"geschrieben",
+"wurde",
+"schreibte"
+],
+"e": "schreiben — schrieb — geschrieben (писать). sie (они) → schrieben."
+},
+{
+"t": "mc",
+"q": "Präteritum: sie (они) ___ (sprechen)",
+"a": "sprachen",
+"w": [
+"hielten",
+"sprach",
+"gesprochen"
+],
+"e": "sprechen — sprach — gesprochen (говорить). sie (они) → sprachen."
+},
+{
+"t": "mc",
+"q": "Präteritum: er ___ (helfen)",
+"a": "half",
+"w": [
+"geholfen",
+"sah",
+"kam"
+],
+"e": "helfen — half — geholfen (помогать). er → half."
+},
+{
+"t": "mc",
+"q": "Präteritum: wir ___ (nennen)",
+"a": "nannten",
+"w": [
+"genannt",
+"nennte",
+"schrieb"
+],
+"e": "nennen — nannte — genannt (называть). wir → nannten."
+},
+{
+"t": "mc",
+"q": "Präteritum: wir ___ (spielen)",
+"a": "spielten",
+"w": [
+"gespielt",
+"aß",
+"passierten"
+],
+"e": "spielen — spielte — gespielt (играть). wir → spielten."
+},
+{
+"t": "mc",
+"q": "Präteritum: wir ___ (fangen)",
+"a": "fingen",
+"w": [
+"kam",
+"gefangen",
+"nahmen"
+],
+"e": "fangen — fing — gefangen (ловить). wir → fingen."
+},
+{
+"t": "mc",
+"q": "Präteritum: sie (они) ___ (wachsen)",
+"a": "wuchsen",
+"w": [
+"gewachsen",
+"wuchs",
+"dachte"
+],
+"e": "wachsen — wuchs — gewachsen (расти). sie (они) → wuchsen."
+},
+{
+"t": "mc",
+"q": "Präteritum: ich ___ (schwimmen)",
+"a": "schwamm",
+"w": [
+"schwimmte",
+"vergaß",
+"schwammen"
+],
+"e": "schwimmen — schwamm — geschwommen (плавать). ich → schwamm."
+},
+{
+"t": "mc",
+"q": "Präteritum: wir ___ (werden)",
+"a": "wurden",
+"w": [
+"wurde",
+"liefen",
+"geworden"
+],
+"e": "werden — wurde — geworden (становиться). wir → wurden."
+},
+{
+"t": "mc",
+"q": "Präteritum: er ___ ab (abfahren)",
+"a": "fuhr",
+"w": [
+"nahm",
+"fahrte",
+"fuhren"
+],
+"e": "abfahren — fuhr — abgefahren (отъезжать). er → fuhr."
+},
+{
+"t": "mc",
+"q": "Präteritum: sie (они) ___ (tragen)",
+"a": "trugen",
+"w": [
+"getragen",
+"tragte",
+"kochten"
+],
+"e": "tragen — trug — getragen (носить). sie (они) → trugen."
+},
+{
+"t": "mc",
+"q": "Präteritum: du ___ (telefonieren)",
+"a": "telefoniertest",
+"w": [
+"erlebtest",
+"starb",
+"telefonierte"
+],
+"e": "telefonieren — telefonierte — telefoniert (звонить по телефону). du → telefoniertest."
+},
+{
+"t": "mc",
+"q": "Präteritum: du ___ (verlassen)",
+"a": "verließest",
+"w": [
+"verlassen",
+"verließ",
+"ludest"
+],
+"e": "verlassen — verließ — verlassen (покидать). du → verließest."
+},
+{
+"t": "mc",
+"q": "Präteritum: er ___ (liegen)",
+"a": "lag",
+"w": [
+"lagen",
+"gelegen",
+"wohnte"
+],
+"e": "liegen — lag — gelegen (лежать). er → lag."
+},
+{
+"t": "mc",
+"q": "Präteritum: sie (они) ___ (fallen)",
+"a": "fielen",
+"w": [
+"zog",
+"fiel",
+"verloren"
+],
+"e": "fallen — fiel — gefallen (падать). sie (они) → fielen."
+},
+{
+"t": "mc",
+"q": "Präteritum: sie (они) ___ an (anfangen)",
+"a": "fingen",
+"w": [
+"fangte",
+"las",
+"fing"
+],
+"e": "anfangen — fing — angefangen (начинать). sie (они) → fingen."
+},
+{
+"t": "mc",
+"q": "Präteritum: wir ___ (fahren)",
+"a": "fuhren",
+"w": [
+"half",
+"gefahren",
+"fuhr"
+],
+"e": "fahren — fuhr — gefahren (ехать). wir → fuhren."
+},
+{
+"t": "mc",
+"q": "Präteritum: du ___ mit (mitbringen)",
+"a": "brachtest",
+"w": [
+"brachte",
+"lag",
+"mitgebracht"
+],
+"e": "mitbringen — brachte — mitgebracht (приносить с собой). du → brachtest."
+},
+{
+"t": "mc",
+"q": "Präteritum: du ___ (vergessen)",
+"a": "vergaßest",
+"w": [
+"vergaß",
+"starbst",
+"vergesste"
+],
+"e": "vergessen — vergaß — vergessen (забывать). du → vergaßest."
+},
+{
+"t": "mc",
+"q": "Präteritum: wir ___ (streiten)",
+"a": "stritten",
+"w": [
+"stritt",
+"arbeiteten",
+"brachte"
+],
+"e": "streiten — stritt — gestritten (спорить). wir → stritten."
+},
+{
+"t": "mc",
+"q": "Präteritum: ich ___ (streiten)",
+"a": "stritt",
+"w": [
+"nahm",
+"kannte",
+"stritten"
+],
+"e": "streiten — stritt — gestritten (спорить). ich → stritt."
+},
+{
+"t": "mc",
+"q": "Präteritum: ich ___ (schlagen)",
+"a": "schlug",
+"w": [
+"geschlagen",
+"schlugen",
+"schlagte"
+],
+"e": "schlagen — schlug — geschlagen (бить). ich → schlug."
+},
+{
+"t": "mc",
+"q": "Präteritum: du ___ (essen)",
+"a": "aßest",
+"w": [
+"esste",
+"gewannst",
+"aß"
+],
+"e": "essen — aß — gegessen (есть). du → aßest."
+},
+{
+"t": "mc",
+"q": "Präteritum: ich ___ (leihen)",
+"a": "lieh",
+"w": [
+"wohnte",
+"verlor",
+"leihte"
+],
+"e": "leihen — lieh — geliehen (одалживать). ich → lieh."
+},
+{
+"t": "mc",
+"q": "Präteritum: ich ___ auf (aufstehen)",
+"a": "stand",
+"w": [
+"verschwand",
+"fuhr",
+"standen"
+],
+"e": "aufstehen — stand — aufgestanden (вставать). ich → stand."
+},
+{
+"t": "mc",
+"q": "Präteritum: er ___ (vergleichen)",
+"a": "verglich",
+"w": [
+"verglichen",
+"verlor",
+"vergleichte"
+],
+"e": "vergleichen — verglich — verglichen (сравнивать). er → verglich."
+},
+{
+"t": "mc",
+"q": "Präteritum: du ___ an (anfangen)",
+"a": "fingst",
+"w": [
+"fuhrst",
+"fangte",
+"kaufte"
+],
+"e": "anfangen — fing — angefangen (начинать). du → fingst."
+},
+{
+"t": "mc",
+"q": "Präteritum: wir ___ (brechen)",
+"a": "brachen",
+"w": [
+"brechte",
+"brach",
+"gebrochen"
+],
+"e": "brechen — brach — gebrochen (ломать). wir → brachen."
+},
+{
+"t": "mc",
+"q": "Präteritum: wir ___ (sprechen)",
+"a": "sprachen",
+"w": [
+"sprechte",
+"schnitt",
+"sprach"
+],
+"e": "sprechen — sprach — gesprochen (говорить). wir → sprachen."
+},
+{
+"t": "mc",
+"q": "Präteritum: wir ___ (brennen)",
+"a": "brannten",
+"w": [
+"fing",
+"brennte",
+"gebrannt"
+],
+"e": "brennen — brannte — gebrannt (гореть). wir → brannten."
+},
+{
+"t": "mc",
+"q": "Präteritum: er ___ (empfehlen)",
+"a": "empfahl",
+"w": [
+"sang",
+"empfohlen",
+"empfehlte"
+],
+"e": "empfehlen — empfahl — empfohlen (рекомендовать). er → empfahl."
+},
+{
+"t": "mc",
+"q": "Präteritum: wir ___ (lügen)",
+"a": "logen",
+"w": [
+"gelogen",
+"lügte",
+"rannten"
+],
+"e": "lügen — log — gelogen (лгать). wir → logen."
+},
+{
+"t": "mc",
+"q": "Präteritum: du ___ mit (mitkommen)",
+"a": "kamst",
+"w": [
+"kam",
+"machte",
+"mitgekommen"
+],
+"e": "mitkommen — kam — mitgekommen (идти вместе). du → kamst."
+},
+{
+"t": "mc",
+"q": "Präteritum: wir ___ (springen)",
+"a": "sprangen",
+"w": [
+"springte",
+"hörten",
+"gesprungen"
+],
+"e": "springen — sprang — gesprungen (прыгать). wir → sprangen."
+},
+{
+"t": "mc",
+"q": "Präteritum: wir ___ (hören)",
+"a": "hörten",
+"w": [
+"zogen",
+"gehört",
+"hörte"
+],
+"e": "hören — hörte — gehört (слышать). wir → hörten."
+},
+{
+"t": "mc",
+"q": "Präteritum: du ___ (lernen)",
+"a": "lerntest",
+"w": [
+"wusste",
+"gelernt",
+"lernte"
+],
+"e": "lernen — lernte — gelernt (учить). du → lerntest."
+},
+{
+"t": "mc",
+"q": "Präteritum: er ___ (kochen)",
+"a": "kochte",
+"w": [
+"sah",
+"kam",
+"gekocht"
+],
+"e": "kochen — kochte — gekocht (готовить). er → kochte."
+},
+{
+"t": "mc",
+"q": "Präteritum: ich ___ (kennen)",
+"a": "kannte",
+"w": [
+"kannten",
+"tat",
+"gekannt"
+],
+"e": "kennen — kannte — gekannt (знать (кого-то)). ich → kannte."
+},
+{
+"t": "mc",
+"q": "Präteritum: wir ___ (helfen)",
+"a": "halfen",
+"w": [
+"helfte",
+"rannte",
+"standen"
+],
+"e": "helfen — half — geholfen (помогать). wir → halfen."
+},
+{
+"t": "mc",
+"q": "Präteritum: du ___ an (anrufen)",
+"a": "riefst",
+"w": [
+"passiertest",
+"rief",
+"schien"
+],
+"e": "anrufen — rief — angerufen (звонить). du → riefst."
+},
+{
+"t": "mc",
+"q": "Präteritum: sie (они) ___ (brennen)",
+"a": "brannten",
+"w": [
+"lernte",
+"brennte",
+"gebrannt"
+],
+"e": "brennen — brannte — gebrannt (гореть). sie (они) → brannten."
+},
+{
 "t": "order",
 "s": "Gestern war ich im Kino.",
 "e": "",
@@ -8324,7 +10419,9 @@
 "rule": [
 "haben / sein (на 2-м месте) + Partizip II (в конце). Ich habe gespielt. Er ist gefahren.",
 "sein — глаголы движения и изменения состояния: gehen, fahren, kommen, fliegen, aufstehen, werden, bleiben, sein.",
-"Слабые: ge-…-t (gemacht); сильные: ge-…-en (gesehen, gegangen); trennbare: aufgestanden; без ge-: besucht, verstanden, telefoniert."
+"Слабые: ge-…-t (gemacht); сильные: ge-…-en (gesehen, gegangen); trennbare: aufgestanden; без ge-: besucht, verstanden, telefoniert.",
+"С sein: движение и изменение состояния — gehen, fahren, kommen, fliegen, laufen, schwimmen, springen, aufstehen, einschlafen, werden, bleiben, sein, sterben, passieren.",
+"Слабые: ge-…-t (gemacht, gearbeitet); без ge- на -ieren и с неотделяемой приставкой: telefoniert, besucht, bekommen, verstanden. Отделяемые: ge между приставкой и корнем (angerufen, aufgestanden)."
 ],
 "items": [
 {
@@ -9295,6 +11392,2074 @@
 "gespielt"
 ],
 "e": "Partizip II: geblieben."
+},
+{
+"t": "mc",
+"q": "Perfekt: ich ___ (tragen)",
+"a": "habe getragen",
+"w": [
+"bin getragen",
+"habe getragt",
+"bin getragt"
+],
+"e": "tragen — trug — getragen; Hilfsverb: haben. (носить)"
+},
+{
+"t": "mc",
+"q": "Perfekt: du ___ (anrufen)",
+"a": "hast angerufen",
+"w": [
+"bist angerufen",
+"hast anrufen",
+"bist angeruft"
+],
+"e": "anrufen — rief — angerufen; Hilfsverb: haben. (звонить)"
+},
+{
+"t": "mc",
+"q": "Perfekt: er ___ (kommen)",
+"a": "ist gekommen",
+"w": [
+"ist kommen",
+"ist gekommt",
+"hat gekommen"
+],
+"e": "kommen — kam — gekommen; Hilfsverb: sein. (приходить)"
+},
+{
+"t": "mc",
+"q": "Perfekt: wir ___ (bekommen)",
+"a": "haben bekommen",
+"w": [
+"sind gebekommen",
+"haben gebekommen",
+"sind bekommen"
+],
+"e": "bekommen — bekam — bekommen; Hilfsverb: haben. (получать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: ich ___ (essen)",
+"a": "habe gegessen",
+"w": [
+"bin gegessen",
+"bin geessen",
+"habe essen"
+],
+"e": "essen — aß — gegessen; Hilfsverb: haben. (есть)"
+},
+{
+"t": "mc",
+"q": "Perfekt: er ___ (ziehen)",
+"a": "hat gezogen",
+"w": [
+"ist gezieht",
+"ist geziehen",
+"hat geziehen"
+],
+"e": "ziehen — zog — gezogen; Hilfsverb: haben. (тянуть)"
+},
+{
+"t": "mc",
+"q": "Perfekt: er ___ (bleiben)",
+"a": "ist geblieben",
+"w": [
+"ist gebleiben",
+"hat geblieben",
+"ist bleiben"
+],
+"e": "bleiben — blieb — geblieben; Hilfsverb: sein. (оставаться)"
+},
+{
+"t": "mc",
+"q": "Perfekt: du ___ (fragen)",
+"a": "hast gefragt",
+"w": [
+"hast gefragen",
+"bist gefragt",
+"bist gefragen"
+],
+"e": "fragen — fragte — gefragt; Hilfsverb: haben. (спрашивать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: sie (они) ___ (steigen)",
+"a": "sind gestiegen",
+"w": [
+"haben gestiegen",
+"sind gesteigt",
+"sind gesteigen"
+],
+"e": "steigen — stieg — gestiegen; Hilfsverb: sein. (подниматься)"
+},
+{
+"t": "mc",
+"q": "Perfekt: wir ___ (aufstehen)",
+"a": "sind aufgestanden",
+"w": [
+"haben aufgestanden",
+"sind aufgestehen",
+"haben aufgesteht"
+],
+"e": "aufstehen — stand — aufgestanden; Hilfsverb: sein. (вставать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: du ___ (kaufen)",
+"a": "hast gekauft",
+"w": [
+"bist gekaufen",
+"hast kaufen",
+"hast gekaufen"
+],
+"e": "kaufen — kaufte — gekauft; Hilfsverb: haben. (покупать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: er ___ (nennen)",
+"a": "hat genannt",
+"w": [
+"hat genennt",
+"hat nennen",
+"hat genennen"
+],
+"e": "nennen — nannte — genannt; Hilfsverb: haben. (называть)"
+},
+{
+"t": "mc",
+"q": "Perfekt: wir ___ (essen)",
+"a": "haben gegessen",
+"w": [
+"haben geesst",
+"haben geessen",
+"sind geessen"
+],
+"e": "essen — aß — gegessen; Hilfsverb: haben. (есть)"
+},
+{
+"t": "mc",
+"q": "Perfekt: er ___ (singen)",
+"a": "hat gesungen",
+"w": [
+"hat gesingt",
+"ist gesungen",
+"ist gesingen"
+],
+"e": "singen — sang — gesungen; Hilfsverb: haben. (петь)"
+},
+{
+"t": "mc",
+"q": "Perfekt: du ___ (abfahren)",
+"a": "bist abgefahren",
+"w": [
+"bist abgefahrt",
+"bist abfahren",
+"hast abgefahrt"
+],
+"e": "abfahren — fuhr — abgefahren; Hilfsverb: sein. (отъезжать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: er ___ (abfahren)",
+"a": "ist abgefahren",
+"w": [
+"ist abfahren",
+"ist abgefahrt",
+"hat abgefahren"
+],
+"e": "abfahren — fuhr — abgefahren; Hilfsverb: sein. (отъезжать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: ich ___ (schreiben)",
+"a": "habe geschrieben",
+"w": [
+"bin geschreibt",
+"habe geschreibt",
+"bin geschrieben"
+],
+"e": "schreiben — schrieb — geschrieben; Hilfsverb: haben. (писать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: sie (они) ___ (greifen)",
+"a": "haben gegriffen",
+"w": [
+"haben gegreifen",
+"sind gegreifen",
+"sind gegreift"
+],
+"e": "greifen — griff — gegriffen; Hilfsverb: haben. (хватать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: er ___ (beschreiben)",
+"a": "hat beschrieben",
+"w": [
+"ist gebeschreibt",
+"hat gebeschreibt",
+"hat gebeschreiben"
+],
+"e": "beschreiben — beschrieb — beschrieben; Hilfsverb: haben. (описывать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: du ___ (scheinen)",
+"a": "hast geschienen",
+"w": [
+"hast gescheinen",
+"bist geschienen",
+"hast scheinen"
+],
+"e": "scheinen — schien — geschienen; Hilfsverb: haben. (светить, казаться)"
+},
+{
+"t": "mc",
+"q": "Perfekt: er ___ (rennen)",
+"a": "ist gerannt",
+"w": [
+"ist gerennen",
+"hat gerennt",
+"hat gerannt"
+],
+"e": "rennen — rannte — gerannt; Hilfsverb: sein. (бежать, мчаться)"
+},
+{
+"t": "mc",
+"q": "Perfekt: ich ___ (ankommen)",
+"a": "bin angekommen",
+"w": [
+"bin angekommt",
+"bin ankommen",
+"habe angekommen"
+],
+"e": "ankommen — kam — angekommen; Hilfsverb: sein. (прибывать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: sie (они) ___ (kochen)",
+"a": "haben gekocht",
+"w": [
+"haben kochen",
+"sind gekochen",
+"haben gekochen"
+],
+"e": "kochen — kochte — gekocht; Hilfsverb: haben. (готовить)"
+},
+{
+"t": "mc",
+"q": "Perfekt: er ___ (laufen)",
+"a": "ist gelaufen",
+"w": [
+"ist gelauft",
+"ist laufen",
+"hat gelauft"
+],
+"e": "laufen — lief — gelaufen; Hilfsverb: sein. (бежать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: sie (они) ___ (werfen)",
+"a": "haben geworfen",
+"w": [
+"sind gewerft",
+"haben gewerft",
+"haben gewerfen"
+],
+"e": "werfen — warf — geworfen; Hilfsverb: haben. (бросать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: du ___ (erleben)",
+"a": "hast erlebt",
+"w": [
+"bist erlebt",
+"hast geerleben",
+"bist geerleben"
+],
+"e": "erleben — erlebte — erlebt; Hilfsverb: haben. (переживать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: ich ___ (schlafen)",
+"a": "habe geschlafen",
+"w": [
+"habe geschlaft",
+"bin geschlafen",
+"habe schlafen"
+],
+"e": "schlafen — schlief — geschlafen; Hilfsverb: haben. (спать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: ich ___ (brechen)",
+"a": "habe gebrochen",
+"w": [
+"bin gebrecht",
+"bin gebrochen",
+"habe gebrecht"
+],
+"e": "brechen — brach — gebrochen; Hilfsverb: haben. (ломать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: er ___ (fahren)",
+"a": "ist gefahren",
+"w": [
+"ist fahren",
+"hat gefahrt",
+"hat gefahren"
+],
+"e": "fahren — fuhr — gefahren; Hilfsverb: sein. (ехать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: sie (они) ___ (aufstehen)",
+"a": "sind aufgestanden",
+"w": [
+"haben aufgestehen",
+"sind aufgestehen",
+"sind aufgesteht"
+],
+"e": "aufstehen — stand — aufgestanden; Hilfsverb: sein. (вставать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: wir ___ (studieren)",
+"a": "haben studiert",
+"w": [
+"sind gestudiert",
+"haben gestudieren",
+"sind studiert"
+],
+"e": "studieren — studierte — studiert; Hilfsverb: haben. (учиться в вузе)"
+},
+{
+"t": "mc",
+"q": "Perfekt: du ___ (teilnehmen)",
+"a": "hast teilgenommen",
+"w": [
+"hast teilnehmen",
+"hast teilgenehmen",
+"hast teilgenehmt"
+],
+"e": "teilnehmen — nahm — teilgenommen; Hilfsverb: haben. (участвовать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: er ___ (einladen)",
+"a": "hat eingeladen",
+"w": [
+"ist eingeladt",
+"hat eingeladt",
+"ist eingeladen"
+],
+"e": "einladen — lud — eingeladen; Hilfsverb: haben. (приглашать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: sie (они) ___ (lernen)",
+"a": "haben gelernt",
+"w": [
+"sind gelernen",
+"haben gelernen",
+"haben lernen"
+],
+"e": "lernen — lernte — gelernt; Hilfsverb: haben. (учить)"
+},
+{
+"t": "mc",
+"q": "Perfekt: sie (они) ___ (erleben)",
+"a": "haben erlebt",
+"w": [
+"sind geerlebt",
+"haben erleben",
+"haben geerleben"
+],
+"e": "erleben — erlebte — erlebt; Hilfsverb: haben. (переживать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: sie (они) ___ (beschreiben)",
+"a": "haben beschrieben",
+"w": [
+"sind gebeschreiben",
+"sind gebeschreibt",
+"haben gebeschreiben"
+],
+"e": "beschreiben — beschrieb — beschrieben; Hilfsverb: haben. (описывать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: ich ___ (schließen)",
+"a": "habe geschlossen",
+"w": [
+"bin geschlossen",
+"habe geschließt",
+"bin geschließen"
+],
+"e": "schließen — schloss — geschlossen; Hilfsverb: haben. (закрывать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: wir ___ (verbringen)",
+"a": "haben verbracht",
+"w": [
+"sind verbracht",
+"haben geverbringen",
+"haben verbringen"
+],
+"e": "verbringen — verbrachte — verbracht; Hilfsverb: haben. (проводить (время))"
+},
+{
+"t": "mc",
+"q": "Perfekt: du ___ (besuchen)",
+"a": "hast besucht",
+"w": [
+"bist gebesuchen",
+"bist gebesucht",
+"hast gebesucht"
+],
+"e": "besuchen — besuchte — besucht; Hilfsverb: haben. (посещать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: er ___ (vergessen)",
+"a": "hat vergessen",
+"w": [
+"ist vergessen",
+"ist gevergesst",
+"hat gevergessen"
+],
+"e": "vergessen — vergaß — vergessen; Hilfsverb: haben. (забывать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: du ___ (stehen)",
+"a": "hast gestanden",
+"w": [
+"bist gesteht",
+"hast stehen",
+"bist gestanden"
+],
+"e": "stehen — stand — gestanden; Hilfsverb: haben. (стоять)"
+},
+{
+"t": "mc",
+"q": "Perfekt: ich ___ (ziehen)",
+"a": "habe gezogen",
+"w": [
+"bin gezieht",
+"habe ziehen",
+"bin geziehen"
+],
+"e": "ziehen — zog — gezogen; Hilfsverb: haben. (тянуть)"
+},
+{
+"t": "mc",
+"q": "Perfekt: ich ___ (telefonieren)",
+"a": "habe telefoniert",
+"w": [
+"bin getelefoniert",
+"bin getelefonieren",
+"bin telefoniert"
+],
+"e": "telefonieren — telefonierte — telefoniert; Hilfsverb: haben. (звонить по телефону)"
+},
+{
+"t": "mc",
+"q": "Perfekt: er ___ (einkaufen)",
+"a": "hat eingekauft",
+"w": [
+"hat eingekaufen",
+"hat einkaufen",
+"ist eingekaufen"
+],
+"e": "einkaufen — kaufte — eingekauft; Hilfsverb: haben. (делать покупки)"
+},
+{
+"t": "mc",
+"q": "Perfekt: er ___ (streiten)",
+"a": "hat gestritten",
+"w": [
+"hat gestreitt",
+"hat streiten",
+"hat gestreiten"
+],
+"e": "streiten — stritt — gestritten; Hilfsverb: haben. (спорить)"
+},
+{
+"t": "mc",
+"q": "Perfekt: wir ___ (tun)",
+"a": "haben getan",
+"w": [
+"sind getan",
+"haben getuen",
+"sind getut"
+],
+"e": "tun — tat — getan; Hilfsverb: haben. (делать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: wir ___ (nehmen)",
+"a": "haben genommen",
+"w": [
+"haben genehmen",
+"sind genommen",
+"haben genehmt"
+],
+"e": "nehmen — nahm — genommen; Hilfsverb: haben. (брать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: er ___ (zurückkommen)",
+"a": "ist zurückgekommen",
+"w": [
+"hat zurückgekommen",
+"hat zurückgekommt",
+"ist zurückgekommt"
+],
+"e": "zurückkommen — kam — zurückgekommen; Hilfsverb: sein. (возвращаться)"
+},
+{
+"t": "mc",
+"q": "Perfekt: sie (они) ___ (arbeiten)",
+"a": "haben gearbeitet",
+"w": [
+"haben gearbeiten",
+"sind gearbeitt",
+"sind gearbeiten"
+],
+"e": "arbeiten — arbeitete — gearbeitet; Hilfsverb: haben. (работать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: sie (они) ___ (mitbringen)",
+"a": "haben mitgebracht",
+"w": [
+"haben mitbringen",
+"sind mitgebringt",
+"sind mitgebracht"
+],
+"e": "mitbringen — brachte — mitgebracht; Hilfsverb: haben. (приносить с собой)"
+},
+{
+"t": "mc",
+"q": "Perfekt: sie (они) ___ (wissen)",
+"a": "haben gewusst",
+"w": [
+"sind gewusst",
+"haben wissen",
+"haben gewissen"
+],
+"e": "wissen — wusste — gewusst; Hilfsverb: haben. (знать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: du ___ (verlieren)",
+"a": "hast verloren",
+"w": [
+"bist geverlieren",
+"hast geverliert",
+"hast geverlieren"
+],
+"e": "verlieren — verlor — verloren; Hilfsverb: haben. (терять)"
+},
+{
+"t": "mc",
+"q": "Perfekt: du ___ (bekommen)",
+"a": "hast bekommen",
+"w": [
+"bist gebekommt",
+"bist bekommen",
+"hast gebekommt"
+],
+"e": "bekommen — bekam — bekommen; Hilfsverb: haben. (получать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: du ___ (gewinnen)",
+"a": "hast gewonnen",
+"w": [
+"bist gewonnen",
+"hast gewinnen",
+"bist gegewinnen"
+],
+"e": "gewinnen — gewann — gewonnen; Hilfsverb: haben. (выигрывать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: du ___ (streiten)",
+"a": "hast gestritten",
+"w": [
+"hast streiten",
+"hast gestreiten",
+"hast gestreitt"
+],
+"e": "streiten — stritt — gestritten; Hilfsverb: haben. (спорить)"
+},
+{
+"t": "mc",
+"q": "Perfekt: wir ___ (fliegen)",
+"a": "sind geflogen",
+"w": [
+"sind gefliegen",
+"sind fliegen",
+"haben gefliegt"
+],
+"e": "fliegen — flog — geflogen; Hilfsverb: sein. (лететь)"
+},
+{
+"t": "mc",
+"q": "Perfekt: er ___ (verstehen)",
+"a": "hat verstanden",
+"w": [
+"ist geverstehen",
+"ist verstanden",
+"hat geverstehen"
+],
+"e": "verstehen — verstand — verstanden; Hilfsverb: haben. (понимать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: sie (они) ___ (treffen)",
+"a": "haben getroffen",
+"w": [
+"sind getreffen",
+"sind getroffen",
+"haben treffen"
+],
+"e": "treffen — traf — getroffen; Hilfsverb: haben. (встречать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: er ___ (nehmen)",
+"a": "hat genommen",
+"w": [
+"hat genehmen",
+"ist genehmen",
+"hat nehmen"
+],
+"e": "nehmen — nahm — genommen; Hilfsverb: haben. (брать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: er ___ (sehen)",
+"a": "hat gesehen",
+"w": [
+"ist geseht",
+"hat sehen",
+"hat geseht"
+],
+"e": "sehen — sah — gesehen; Hilfsverb: haben. (видеть)"
+},
+{
+"t": "mc",
+"q": "Perfekt: ich ___ (fallen)",
+"a": "bin gefallen",
+"w": [
+"bin gefallt",
+"habe gefallt",
+"habe gefallen"
+],
+"e": "fallen — fiel — gefallen; Hilfsverb: sein. (падать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: wir ___ (lügen)",
+"a": "haben gelogen",
+"w": [
+"sind gelügen",
+"sind gelogen",
+"sind gelügt"
+],
+"e": "lügen — log — gelogen; Hilfsverb: haben. (лгать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: er ___ (springen)",
+"a": "ist gesprungen",
+"w": [
+"ist gespringt",
+"ist springen",
+"hat gesprungen"
+],
+"e": "springen — sprang — gesprungen; Hilfsverb: sein. (прыгать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: ich ___ (heißen)",
+"a": "habe geheißen",
+"w": [
+"habe heißen",
+"bin geheißt",
+"habe geheißt"
+],
+"e": "heißen — hieß — geheißen; Hilfsverb: haben. (называться)"
+},
+{
+"t": "mc",
+"q": "Perfekt: wir ___ (sterben)",
+"a": "sind gestorben",
+"w": [
+"sind gesterben",
+"sind gesterbt",
+"haben gestorben"
+],
+"e": "sterben — starb — gestorben; Hilfsverb: sein. (умирать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: wir ___ (anfangen)",
+"a": "haben angefangen",
+"w": [
+"sind angefangt",
+"sind angefangen",
+"haben anfangen"
+],
+"e": "anfangen — fing — angefangen; Hilfsverb: haben. (начинать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: er ___ (schlagen)",
+"a": "hat geschlagen",
+"w": [
+"ist geschlagt",
+"ist geschlagen",
+"hat geschlagt"
+],
+"e": "schlagen — schlug — geschlagen; Hilfsverb: haben. (бить)"
+},
+{
+"t": "mc",
+"q": "Perfekt: wir ___ (wissen)",
+"a": "haben gewusst",
+"w": [
+"sind gewisst",
+"sind gewusst",
+"haben gewissen"
+],
+"e": "wissen — wusste — gewusst; Hilfsverb: haben. (знать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: du ___ (trinken)",
+"a": "hast getrunken",
+"w": [
+"bist getrinkt",
+"hast getrinken",
+"bist getrinken"
+],
+"e": "trinken — trank — getrunken; Hilfsverb: haben. (пить)"
+},
+{
+"t": "mc",
+"q": "Perfekt: wir ___ (leihen)",
+"a": "haben geliehen",
+"w": [
+"haben geleihen",
+"sind geleiht",
+"sind geleihen"
+],
+"e": "leihen — lieh — geliehen; Hilfsverb: haben. (одалживать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: wir ___ (fernsehen)",
+"a": "haben ferngesehen",
+"w": [
+"haben ferngeseht",
+"sind ferngesehen",
+"haben fernsehen"
+],
+"e": "fernsehen — sah — ferngesehen; Hilfsverb: haben. (смотреть телевизор)"
+},
+{
+"t": "mc",
+"q": "Perfekt: du ___ (fahren)",
+"a": "bist gefahren",
+"w": [
+"hast gefahrt",
+"hast gefahren",
+"bist fahren"
+],
+"e": "fahren — fuhr — gefahren; Hilfsverb: sein. (ехать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: er ___ (werden)",
+"a": "ist geworden",
+"w": [
+"hat gewerden",
+"ist gewerden",
+"hat gewerdt"
+],
+"e": "werden — wurde — geworden; Hilfsverb: sein. (становиться)"
+},
+{
+"t": "mc",
+"q": "Perfekt: wir ___ (hören)",
+"a": "haben gehört",
+"w": [
+"haben gehören",
+"sind gehört",
+"haben hören"
+],
+"e": "hören — hörte — gehört; Hilfsverb: haben. (слышать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: ich ___ (schwimmen)",
+"a": "bin geschwommen",
+"w": [
+"bin schwimmen",
+"habe geschwimmen",
+"bin geschwimmt"
+],
+"e": "schwimmen — schwamm — geschwommen; Hilfsverb: sein. (плавать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: wir ___ (trinken)",
+"a": "haben getrunken",
+"w": [
+"sind getrinken",
+"sind getrinkt",
+"haben getrinken"
+],
+"e": "trinken — trank — getrunken; Hilfsverb: haben. (пить)"
+},
+{
+"t": "mc",
+"q": "Perfekt: ich ___ (liegen)",
+"a": "habe gelegen",
+"w": [
+"bin geliegt",
+"habe geliegen",
+"bin gelegen"
+],
+"e": "liegen — lag — gelegen; Hilfsverb: haben. (лежать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: du ___ (bleiben)",
+"a": "bist geblieben",
+"w": [
+"bist bleiben",
+"bist gebleiben",
+"bist gebleibt"
+],
+"e": "bleiben — blieb — geblieben; Hilfsverb: sein. (оставаться)"
+},
+{
+"t": "mc",
+"q": "Perfekt: ich ___ (entscheiden)",
+"a": "habe entschieden",
+"w": [
+"bin geentscheiden",
+"habe geentscheidt",
+"bin entschieden"
+],
+"e": "entscheiden — entschied — entschieden; Hilfsverb: haben. (решать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: sie (они) ___ (einschlafen)",
+"a": "sind eingeschlafen",
+"w": [
+"sind eingeschlaft",
+"sind einschlafen",
+"haben eingeschlafen"
+],
+"e": "einschlafen — schlief — eingeschlafen; Hilfsverb: sein. (засыпать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: wir ___ (lesen)",
+"a": "haben gelesen",
+"w": [
+"sind gelest",
+"haben gelest",
+"haben lesen"
+],
+"e": "lesen — las — gelesen; Hilfsverb: haben. (читать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: ich ___ (gehen)",
+"a": "bin gegangen",
+"w": [
+"habe gegangen",
+"bin gehen",
+"habe gegeht"
+],
+"e": "gehen — ging — gegangen; Hilfsverb: sein. (идти)"
+},
+{
+"t": "mc",
+"q": "Perfekt: sie (они) ___ (schwimmen)",
+"a": "sind geschwommen",
+"w": [
+"haben geschwimmt",
+"sind geschwimmt",
+"sind schwimmen"
+],
+"e": "schwimmen — schwamm — geschwommen; Hilfsverb: sein. (плавать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: du ___ (empfehlen)",
+"a": "hast empfohlen",
+"w": [
+"hast empfehlen",
+"hast geempfehlt",
+"bist geempfehlt"
+],
+"e": "empfehlen — empfahl — empfohlen; Hilfsverb: haben. (рекомендовать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: ich ___ (aufmachen)",
+"a": "habe aufgemacht",
+"w": [
+"bin aufgemachen",
+"habe aufgemachen",
+"bin aufgemacht"
+],
+"e": "aufmachen — machte — aufgemacht; Hilfsverb: haben. (открывать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: du ___ (lügen)",
+"a": "hast gelogen",
+"w": [
+"hast lügen",
+"bist gelogen",
+"bist gelügt"
+],
+"e": "lügen — log — gelogen; Hilfsverb: haben. (лгать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: er ___ (helfen)",
+"a": "hat geholfen",
+"w": [
+"hat helfen",
+"hat gehelft",
+"ist gehelft"
+],
+"e": "helfen — half — geholfen; Hilfsverb: haben. (помогать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: du ___ (beginnen)",
+"a": "hast begonnen",
+"w": [
+"hast gebeginnt",
+"bist begonnen",
+"hast gebeginnen"
+],
+"e": "beginnen — begann — begonnen; Hilfsverb: haben. (начинать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: ich ___ (aussehen)",
+"a": "habe ausgesehen",
+"w": [
+"habe ausgeseht",
+"habe aussehen",
+"bin ausgeseht"
+],
+"e": "aussehen — sah — ausgesehen; Hilfsverb: haben. (выглядеть)"
+},
+{
+"t": "mc",
+"q": "Perfekt: wir ___ (fragen)",
+"a": "haben gefragt",
+"w": [
+"haben fragen",
+"sind gefragen",
+"haben gefragen"
+],
+"e": "fragen — fragte — gefragt; Hilfsverb: haben. (спрашивать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: wir ___ (schließen)",
+"a": "haben geschlossen",
+"w": [
+"haben geschließt",
+"sind geschließen",
+"haben schließen"
+],
+"e": "schließen — schloss — geschlossen; Hilfsverb: haben. (закрывать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: wir ___ (brennen)",
+"a": "haben gebrannt",
+"w": [
+"sind gebrennen",
+"haben brennen",
+"haben gebrennen"
+],
+"e": "brennen — brannte — gebrannt; Hilfsverb: haben. (гореть)"
+},
+{
+"t": "mc",
+"q": "Perfekt: du ___ (waschen)",
+"a": "hast gewaschen",
+"w": [
+"hast gewascht",
+"hast waschen",
+"bist gewascht"
+],
+"e": "waschen — wusch — gewaschen; Hilfsverb: haben. (мыть)"
+},
+{
+"t": "mc",
+"q": "Perfekt: wir ___ (warten)",
+"a": "haben gewartet",
+"w": [
+"sind gewartt",
+"haben gewarten",
+"haben warten"
+],
+"e": "warten — wartete — gewartet; Hilfsverb: haben. (ждать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: sie (они) ___ (schlagen)",
+"a": "haben geschlagen",
+"w": [
+"haben schlagen",
+"sind geschlagen",
+"haben geschlagt"
+],
+"e": "schlagen — schlug — geschlagen; Hilfsverb: haben. (бить)"
+},
+{
+"t": "mc",
+"q": "Perfekt: er ___ (treffen)",
+"a": "hat getroffen",
+"w": [
+"hat treffen",
+"ist getreffen",
+"hat getrefft"
+],
+"e": "treffen — traf — getroffen; Hilfsverb: haben. (встречать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: sie (они) ___ (vergessen)",
+"a": "haben vergessen",
+"w": [
+"haben gevergessen",
+"sind gevergessen",
+"sind vergessen"
+],
+"e": "vergessen — vergaß — vergessen; Hilfsverb: haben. (забывать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: er ___ (kochen)",
+"a": "hat gekocht",
+"w": [
+"hat kochen",
+"ist gekocht",
+"ist gekochen"
+],
+"e": "kochen — kochte — gekocht; Hilfsverb: haben. (готовить)"
+},
+{
+"t": "mc",
+"q": "Perfekt: ich ___ (geben)",
+"a": "habe gegeben",
+"w": [
+"habe gegebt",
+"habe geben",
+"bin gegebt"
+],
+"e": "geben — gab — gegeben; Hilfsverb: haben. (давать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: er ___ (fangen)",
+"a": "hat gefangen",
+"w": [
+"hat gefangt",
+"ist gefangen",
+"ist gefangt"
+],
+"e": "fangen — fing — gefangen; Hilfsverb: haben. (ловить)"
+},
+{
+"t": "mc",
+"q": "Perfekt: er ___ (steigen)",
+"a": "ist gestiegen",
+"w": [
+"ist gesteigt",
+"ist steigen",
+"hat gestiegen"
+],
+"e": "steigen — stieg — gestiegen; Hilfsverb: sein. (подниматься)"
+},
+{
+"t": "mc",
+"q": "Perfekt: wir ___ (scheinen)",
+"a": "haben geschienen",
+"w": [
+"sind gescheinen",
+"haben scheinen",
+"haben gescheint"
+],
+"e": "scheinen — schien — geschienen; Hilfsverb: haben. (светить, казаться)"
+},
+{
+"t": "mc",
+"q": "Perfekt: wir ___ (teilnehmen)",
+"a": "haben teilgenommen",
+"w": [
+"sind teilgenehmt",
+"sind teilgenehmen",
+"sind teilgenommen"
+],
+"e": "teilnehmen — nahm — teilgenommen; Hilfsverb: haben. (участвовать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: wir ___ (zurückkommen)",
+"a": "sind zurückgekommen",
+"w": [
+"sind zurückgekommt",
+"sind zurückkommen",
+"haben zurückgekommt"
+],
+"e": "zurückkommen — kam — zurückgekommen; Hilfsverb: sein. (возвращаться)"
+},
+{
+"t": "mc",
+"q": "Perfekt: ich ___ (tun)",
+"a": "habe getan",
+"w": [
+"habe getut",
+"habe tun",
+"habe getuen"
+],
+"e": "tun — tat — getan; Hilfsverb: haben. (делать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: ich ___ (spielen)",
+"a": "habe gespielt",
+"w": [
+"habe spielen",
+"habe gespielen",
+"bin gespielt"
+],
+"e": "spielen — spielte — gespielt; Hilfsverb: haben. (играть)"
+},
+{
+"t": "mc",
+"q": "Perfekt: ich ___ (sitzen)",
+"a": "habe gesessen",
+"w": [
+"habe gesitzt",
+"bin gesitzen",
+"habe sitzen"
+],
+"e": "sitzen — saß — gesessen; Hilfsverb: haben. (сидеть)"
+},
+{
+"t": "mc",
+"q": "Perfekt: er ___ (erfahren)",
+"a": "hat erfahren",
+"w": [
+"ist erfahren",
+"hat geerfahren",
+"ist geerfahren"
+],
+"e": "erfahren — erfuhr — erfahren; Hilfsverb: haben. (узнавать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: wir ___ (erfahren)",
+"a": "haben erfahren",
+"w": [
+"sind geerfahren",
+"sind erfahren",
+"sind geerfahrt"
+],
+"e": "erfahren — erfuhr — erfahren; Hilfsverb: haben. (узнавать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: sie (они) ___ (sprechen)",
+"a": "haben gesprochen",
+"w": [
+"haben gesprechen",
+"sind gesprecht",
+"sind gesprechen"
+],
+"e": "sprechen — sprach — gesprochen; Hilfsverb: haben. (говорить)"
+},
+{
+"t": "mc",
+"q": "Perfekt: wir ___ (sein)",
+"a": "sind gewesen",
+"w": [
+"haben geseien",
+"haben gewesen",
+"sind geseien"
+],
+"e": "sein — war — gewesen; Hilfsverb: sein. (быть)"
+},
+{
+"t": "mc",
+"q": "Perfekt: wir ___ (umziehen)",
+"a": "sind umgezogen",
+"w": [
+"haben umgeziehen",
+"sind umgezieht",
+"sind umziehen"
+],
+"e": "umziehen — zog — umgezogen; Hilfsverb: sein. (переезжать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: wir ___ (nennen)",
+"a": "haben genannt",
+"w": [
+"haben genennen",
+"sind genennen",
+"sind genannt"
+],
+"e": "nennen — nannte — genannt; Hilfsverb: haben. (называть)"
+},
+{
+"t": "mc",
+"q": "Perfekt: sie (они) ___ (raten)",
+"a": "haben geraten",
+"w": [
+"haben raten",
+"sind geratt",
+"sind geraten"
+],
+"e": "raten — riet — geraten; Hilfsverb: haben. (советовать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: sie (они) ___ (empfehlen)",
+"a": "haben empfohlen",
+"w": [
+"haben geempfehlen",
+"haben empfehlen",
+"sind geempfehlt"
+],
+"e": "empfehlen — empfahl — empfohlen; Hilfsverb: haben. (рекомендовать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: wir ___ (schlafen)",
+"a": "haben geschlafen",
+"w": [
+"haben schlafen",
+"haben geschlaft",
+"sind geschlafen"
+],
+"e": "schlafen — schlief — geschlafen; Hilfsverb: haben. (спать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: wir ___ (verlieren)",
+"a": "haben verloren",
+"w": [
+"sind verloren",
+"haben geverlieren",
+"sind geverliert"
+],
+"e": "verlieren — verlor — verloren; Hilfsverb: haben. (терять)"
+},
+{
+"t": "mc",
+"q": "Perfekt: er ___ (waschen)",
+"a": "hat gewaschen",
+"w": [
+"ist gewascht",
+"hat gewascht",
+"hat waschen"
+],
+"e": "waschen — wusch — gewaschen; Hilfsverb: haben. (мыть)"
+},
+{
+"t": "mc",
+"q": "Perfekt: ich ___ (passieren)",
+"a": "bin passiert",
+"w": [
+"bin gepassiert",
+"habe gepassieren",
+"habe gepassiert"
+],
+"e": "passieren — passierte — passiert; Hilfsverb: sein. (случаться)"
+},
+{
+"t": "mc",
+"q": "Perfekt: ich ___ (kommen)",
+"a": "bin gekommen",
+"w": [
+"habe gekommt",
+"habe gekommen",
+"bin kommen"
+],
+"e": "kommen — kam — gekommen; Hilfsverb: sein. (приходить)"
+},
+{
+"t": "mc",
+"q": "Perfekt: wir ___ (stehen)",
+"a": "haben gestanden",
+"w": [
+"haben gesteht",
+"sind gestehen",
+"sind gestanden"
+],
+"e": "stehen — stand — gestanden; Hilfsverb: haben. (стоять)"
+},
+{
+"t": "mc",
+"q": "Perfekt: sie (они) ___ (kennen)",
+"a": "haben gekannt",
+"w": [
+"haben kennen",
+"sind gekennt",
+"sind gekennen"
+],
+"e": "kennen — kannte — gekannt; Hilfsverb: haben. (знать (кого-то))"
+},
+{
+"t": "mc",
+"q": "Perfekt: ich ___ (wohnen)",
+"a": "habe gewohnt",
+"w": [
+"habe gewohnen",
+"bin gewohnt",
+"habe wohnen"
+],
+"e": "wohnen — wohnte — gewohnt; Hilfsverb: haben. (жить)"
+},
+{
+"t": "mc",
+"q": "Perfekt: ich ___ (verstehen)",
+"a": "habe verstanden",
+"w": [
+"bin geversteht",
+"bin geverstehen",
+"habe verstehen"
+],
+"e": "verstehen — verstand — verstanden; Hilfsverb: haben. (понимать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: wir ___ (mitkommen)",
+"a": "sind mitgekommen",
+"w": [
+"haben mitgekommen",
+"sind mitgekommt",
+"haben mitgekommt"
+],
+"e": "mitkommen — kam — mitgekommen; Hilfsverb: sein. (идти вместе)"
+},
+{
+"t": "mc",
+"q": "Perfekt: ich ___ (verlassen)",
+"a": "habe verlassen",
+"w": [
+"habe geverlassen",
+"bin geverlasst",
+"habe geverlasst"
+],
+"e": "verlassen — verließ — verlassen; Hilfsverb: haben. (покидать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: du ___ (verlassen)",
+"a": "hast verlassen",
+"w": [
+"hast geverlassen",
+"hast geverlasst",
+"bist geverlassen"
+],
+"e": "verlassen — verließ — verlassen; Hilfsverb: haben. (покидать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: ich ___ (greifen)",
+"a": "habe gegriffen",
+"w": [
+"habe gegreift",
+"habe greifen",
+"bin gegreifen"
+],
+"e": "greifen — griff — gegriffen; Hilfsverb: haben. (хватать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: er ___ (gefallen)",
+"a": "hat gefallen",
+"w": [
+"ist gegefallen",
+"ist gegefallt",
+"ist gefallen"
+],
+"e": "gefallen — gefiel — gefallen; Hilfsverb: haben. (нравиться)"
+},
+{
+"t": "mc",
+"q": "Perfekt: du ___ (heißen)",
+"a": "hast geheißen",
+"w": [
+"bist geheißen",
+"hast geheißt",
+"bist geheißt"
+],
+"e": "heißen — hieß — geheißen; Hilfsverb: haben. (называться)"
+},
+{
+"t": "mc",
+"q": "Perfekt: er ___ (denken)",
+"a": "hat gedacht",
+"w": [
+"ist gedacht",
+"hat denken",
+"hat gedenken"
+],
+"e": "denken — dachte — gedacht; Hilfsverb: haben. (думать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: du ___ (reisen)",
+"a": "bist gereist",
+"w": [
+"hast gereist",
+"bist reisen",
+"bist gereisen"
+],
+"e": "reisen — reiste — gereist; Hilfsverb: sein. (путешествовать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: du ___ (hören)",
+"a": "hast gehört",
+"w": [
+"hast gehören",
+"bist gehören",
+"bist gehört"
+],
+"e": "hören — hörte — gehört; Hilfsverb: haben. (слышать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: sie (они) ___ (verschwinden)",
+"a": "sind verschwunden",
+"w": [
+"haben geverschwinden",
+"sind geverschwindt",
+"sind geverschwinden"
+],
+"e": "verschwinden — verschwand — verschwunden; Hilfsverb: sein. (исчезать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: wir ___ (machen)",
+"a": "haben gemacht",
+"w": [
+"haben gemachen",
+"haben machen",
+"sind gemachen"
+],
+"e": "machen — machte — gemacht; Hilfsverb: haben. (делать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: du ___ (kennen)",
+"a": "hast gekannt",
+"w": [
+"hast gekennt",
+"hast kennen",
+"hast gekennen"
+],
+"e": "kennen — kannte — gekannt; Hilfsverb: haben. (знать (кого-то))"
+},
+{
+"t": "mc",
+"q": "Perfekt: ich ___ (wachsen)",
+"a": "bin gewachsen",
+"w": [
+"bin wachsen",
+"habe gewachst",
+"habe gewachsen"
+],
+"e": "wachsen — wuchs — gewachsen; Hilfsverb: sein. (расти)"
+},
+{
+"t": "mc",
+"q": "Perfekt: wir ___ (tragen)",
+"a": "haben getragen",
+"w": [
+"sind getragen",
+"haben tragen",
+"haben getragt"
+],
+"e": "tragen — trug — getragen; Hilfsverb: haben. (носить)"
+},
+{
+"t": "mc",
+"q": "Perfekt: er ___ (rufen)",
+"a": "hat gerufen",
+"w": [
+"ist geruft",
+"ist gerufen",
+"hat geruft"
+],
+"e": "rufen — rief — gerufen; Hilfsverb: haben. (звать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: sie (они) ___ (beginnen)",
+"a": "haben begonnen",
+"w": [
+"haben gebeginnt",
+"sind begonnen",
+"haben beginnen"
+],
+"e": "beginnen — begann — begonnen; Hilfsverb: haben. (начинать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: du ___ (gehen)",
+"a": "bist gegangen",
+"w": [
+"hast gegangen",
+"hast gegehen",
+"bist gegehen"
+],
+"e": "gehen — ging — gegangen; Hilfsverb: sein. (идти)"
+},
+{
+"t": "mc",
+"q": "Perfekt: ich ___ (halten)",
+"a": "habe gehalten",
+"w": [
+"bin gehalten",
+"habe gehaltt",
+"bin gehaltt"
+],
+"e": "halten — hielt — gehalten; Hilfsverb: haben. (держать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: du ___ (machen)",
+"a": "hast gemacht",
+"w": [
+"bist gemacht",
+"bist gemachen",
+"hast gemachen"
+],
+"e": "machen — machte — gemacht; Hilfsverb: haben. (делать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: sie (они) ___ (leihen)",
+"a": "haben geliehen",
+"w": [
+"sind geliehen",
+"haben geleiht",
+"sind geleihen"
+],
+"e": "leihen — lieh — geliehen; Hilfsverb: haben. (одалживать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: er ___ (bitten)",
+"a": "hat gebeten",
+"w": [
+"hat gebittt",
+"ist gebitten",
+"hat bitten"
+],
+"e": "bitten — bat — gebeten; Hilfsverb: haben. (просить)"
+},
+{
+"t": "mc",
+"q": "Perfekt: ich ___ (rennen)",
+"a": "bin gerannt",
+"w": [
+"habe gerennen",
+"bin gerennt",
+"bin rennen"
+],
+"e": "rennen — rannte — gerannt; Hilfsverb: sein. (бежать, мчаться)"
+},
+{
+"t": "mc",
+"q": "Perfekt: du ___ (passieren)",
+"a": "bist passiert",
+"w": [
+"bist gepassiert",
+"bist passieren",
+"hast passiert"
+],
+"e": "passieren — passierte — passiert; Hilfsverb: sein. (случаться)"
+},
+{
+"t": "mc",
+"q": "Perfekt: sie (они) ___ (einladen)",
+"a": "haben eingeladen",
+"w": [
+"haben einladen",
+"haben eingeladt",
+"sind eingeladen"
+],
+"e": "einladen — lud — eingeladen; Hilfsverb: haben. (приглашать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: wir ___ (raten)",
+"a": "haben geraten",
+"w": [
+"haben geratt",
+"sind geraten",
+"haben raten"
+],
+"e": "raten — riet — geraten; Hilfsverb: haben. (советовать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: sie (они) ___ (fangen)",
+"a": "haben gefangen",
+"w": [
+"sind gefangt",
+"haben fangen",
+"sind gefangen"
+],
+"e": "fangen — fing — gefangen; Hilfsverb: haben. (ловить)"
+},
+{
+"t": "mc",
+"q": "Perfekt: er ___ (telefonieren)",
+"a": "hat telefoniert",
+"w": [
+"ist telefoniert",
+"hat getelefoniert",
+"ist getelefonieren"
+],
+"e": "telefonieren — telefonierte — telefoniert; Hilfsverb: haben. (звонить по телефону)"
+},
+{
+"t": "mc",
+"q": "Perfekt: sie (они) ___ (fliegen)",
+"a": "sind geflogen",
+"w": [
+"sind gefliegt",
+"haben geflogen",
+"haben gefliegen"
+],
+"e": "fliegen — flog — geflogen; Hilfsverb: sein. (лететь)"
+},
+{
+"t": "mc",
+"q": "Perfekt: er ___ (finden)",
+"a": "hat gefunden",
+"w": [
+"ist gefinden",
+"hat gefindt",
+"hat gefinden"
+],
+"e": "finden — fand — gefunden; Hilfsverb: haben. (находить)"
+},
+{
+"t": "mc",
+"q": "Perfekt: du ___ (helfen)",
+"a": "hast geholfen",
+"w": [
+"hast gehelft",
+"hast helfen",
+"bist gehelfen"
+],
+"e": "helfen — half — geholfen; Hilfsverb: haben. (помогать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: er ___ (vergleichen)",
+"a": "hat verglichen",
+"w": [
+"hat gevergleicht",
+"ist verglichen",
+"hat gevergleichen"
+],
+"e": "vergleichen — verglich — verglichen; Hilfsverb: haben. (сравнивать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: wir ___ (arbeiten)",
+"a": "haben gearbeitet",
+"w": [
+"sind gearbeiten",
+"haben gearbeiten",
+"sind gearbeitet"
+],
+"e": "arbeiten — arbeitete — gearbeitet; Hilfsverb: haben. (работать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: ich ___ (sprechen)",
+"a": "habe gesprochen",
+"w": [
+"bin gesprechen",
+"habe sprechen",
+"habe gesprecht"
+],
+"e": "sprechen — sprach — gesprochen; Hilfsverb: haben. (говорить)"
+},
+{
+"t": "mc",
+"q": "Perfekt: sie (они) ___ (springen)",
+"a": "sind gesprungen",
+"w": [
+"haben gespringen",
+"haben gesprungen",
+"haben gespringt"
+],
+"e": "springen — sprang — gesprungen; Hilfsverb: sein. (прыгать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: wir ___ (entscheiden)",
+"a": "haben entschieden",
+"w": [
+"sind geentscheidt",
+"haben entscheiden",
+"haben geentscheidt"
+],
+"e": "entscheiden — entschied — entschieden; Hilfsverb: haben. (решать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: er ___ (sagen)",
+"a": "hat gesagt",
+"w": [
+"ist gesagt",
+"hat gesagen",
+"hat sagen"
+],
+"e": "sagen — sagte — gesagt; Hilfsverb: haben. (говорить)"
+},
+{
+"t": "mc",
+"q": "Perfekt: er ___ (sitzen)",
+"a": "hat gesessen",
+"w": [
+"hat gesitzen",
+"ist gesitzt",
+"ist gesessen"
+],
+"e": "sitzen — saß — gesessen; Hilfsverb: haben. (сидеть)"
+},
+{
+"t": "mc",
+"q": "Perfekt: sie (они) ___ (finden)",
+"a": "haben gefunden",
+"w": [
+"haben gefindt",
+"haben finden",
+"haben gefinden"
+],
+"e": "finden — fand — gefunden; Hilfsverb: haben. (находить)"
+},
+{
+"t": "mc",
+"q": "Perfekt: er ___ (ankommen)",
+"a": "ist angekommen",
+"w": [
+"ist ankommen",
+"hat angekommt",
+"hat angekommen"
+],
+"e": "ankommen — kam — angekommen; Hilfsverb: sein. (прибывать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: er ___ (fernsehen)",
+"a": "hat ferngesehen",
+"w": [
+"ist ferngeseht",
+"hat ferngeseht",
+"hat fernsehen"
+],
+"e": "fernsehen — sah — ferngesehen; Hilfsverb: haben. (смотреть телевизор)"
+},
+{
+"t": "mc",
+"q": "Perfekt: ich ___ (werfen)",
+"a": "habe geworfen",
+"w": [
+"bin gewerft",
+"bin gewerfen",
+"habe gewerft"
+],
+"e": "werfen — warf — geworfen; Hilfsverb: haben. (бросать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: du ___ (werden)",
+"a": "bist geworden",
+"w": [
+"bist werden",
+"bist gewerdt",
+"hast gewerdt"
+],
+"e": "werden — wurde — geworden; Hilfsverb: sein. (становиться)"
+},
+{
+"t": "mc",
+"q": "Perfekt: ich ___ (brennen)",
+"a": "habe gebrannt",
+"w": [
+"habe gebrennen",
+"bin gebrannt",
+"bin gebrennt"
+],
+"e": "brennen — brannte — gebrannt; Hilfsverb: haben. (гореть)"
+},
+{
+"t": "mc",
+"q": "Perfekt: er ___ (verschwinden)",
+"a": "ist verschwunden",
+"w": [
+"hat geverschwindt",
+"ist geverschwinden",
+"ist geverschwindt"
+],
+"e": "verschwinden — verschwand — verschwunden; Hilfsverb: sein. (исчезать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: sie (они) ___ (rufen)",
+"a": "haben gerufen",
+"w": [
+"haben rufen",
+"sind gerufen",
+"haben geruft"
+],
+"e": "rufen — rief — gerufen; Hilfsverb: haben. (звать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: sie (они) ___ (schneiden)",
+"a": "haben geschnitten",
+"w": [
+"sind geschneiden",
+"sind geschnitten",
+"haben geschneiden"
+],
+"e": "schneiden — schnitt — geschnitten; Hilfsverb: haben. (резать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: wir ___ (geben)",
+"a": "haben gegeben",
+"w": [
+"haben geben",
+"sind gegeben",
+"sind gegebt"
+],
+"e": "geben — gab — gegeben; Hilfsverb: haben. (давать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: er ___ (einschlafen)",
+"a": "ist eingeschlafen",
+"w": [
+"hat eingeschlaft",
+"ist einschlafen",
+"ist eingeschlaft"
+],
+"e": "einschlafen — schlief — eingeschlafen; Hilfsverb: sein. (засыпать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: er ___ (warten)",
+"a": "hat gewartet",
+"w": [
+"hat warten",
+"ist gewarten",
+"ist gewartet"
+],
+"e": "warten — wartete — gewartet; Hilfsverb: haben. (ждать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: er ___ (bringen)",
+"a": "hat gebracht",
+"w": [
+"hat gebringen",
+"ist gebringt",
+"ist gebracht"
+],
+"e": "bringen — brachte — gebracht; Hilfsverb: haben. (приносить)"
+},
+{
+"t": "mc",
+"q": "Perfekt: ich ___ (gefallen)",
+"a": "habe gefallen",
+"w": [
+"habe gegefallt",
+"bin gefallen",
+"bin gegefallt"
+],
+"e": "gefallen — gefiel — gefallen; Hilfsverb: haben. (нравиться)"
+},
+{
+"t": "mc",
+"q": "Perfekt: du ___ (spielen)",
+"a": "hast gespielt",
+"w": [
+"bist gespielen",
+"hast spielen",
+"hast gespielen"
+],
+"e": "spielen — spielte — gespielt; Hilfsverb: haben. (играть)"
+},
+{
+"t": "mc",
+"q": "Perfekt: ich ___ (mitkommen)",
+"a": "bin mitgekommen",
+"w": [
+"bin mitkommen",
+"bin mitgekommt",
+"habe mitgekommt"
+],
+"e": "mitkommen — kam — mitgekommen; Hilfsverb: sein. (идти вместе)"
+},
+{
+"t": "mc",
+"q": "Perfekt: ich ___ (mitbringen)",
+"a": "habe mitgebracht",
+"w": [
+"bin mitgebracht",
+"habe mitgebringt",
+"habe mitgebringen"
+],
+"e": "mitbringen — brachte — mitgebracht; Hilfsverb: haben. (приносить с собой)"
+},
+{
+"t": "mc",
+"q": "Perfekt: sie (они) ___ (wohnen)",
+"a": "haben gewohnt",
+"w": [
+"sind gewohnen",
+"sind gewohnt",
+"haben gewohnen"
+],
+"e": "wohnen — wohnte — gewohnt; Hilfsverb: haben. (жить)"
+},
+{
+"t": "mc",
+"q": "Perfekt: wir ___ (denken)",
+"a": "haben gedacht",
+"w": [
+"haben denken",
+"sind gedacht",
+"haben gedenkt"
+],
+"e": "denken — dachte — gedacht; Hilfsverb: haben. (думать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: ich ___ (bringen)",
+"a": "habe gebracht",
+"w": [
+"bin gebringen",
+"bin gebringt",
+"habe gebringen"
+],
+"e": "bringen — brachte — gebracht; Hilfsverb: haben. (приносить)"
+},
+{
+"t": "mc",
+"q": "Perfekt: wir ___ (schneiden)",
+"a": "haben geschnitten",
+"w": [
+"sind geschneiden",
+"sind geschneidt",
+"sind geschnitten"
+],
+"e": "schneiden — schnitt — geschnitten; Hilfsverb: haben. (резать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: ich ___ (gewinnen)",
+"a": "habe gewonnen",
+"w": [
+"bin gegewinnen",
+"habe gegewinnt",
+"bin gegewinnt"
+],
+"e": "gewinnen — gewann — gewonnen; Hilfsverb: haben. (выигрывать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: er ___ (sein)",
+"a": "ist gewesen",
+"w": [
+"ist geseien",
+"hat geseit",
+"hat geseien"
+],
+"e": "sein — war — gewesen; Hilfsverb: sein. (быть)"
+},
+{
+"t": "mc",
+"q": "Perfekt: du ___ (verbringen)",
+"a": "hast verbracht",
+"w": [
+"hast geverbringt",
+"bist geverbringt",
+"hast geverbringen"
+],
+"e": "verbringen — verbrachte — verbracht; Hilfsverb: haben. (проводить (время))"
+},
+{
+"t": "mc",
+"q": "Perfekt: du ___ (halten)",
+"a": "hast gehalten",
+"w": [
+"hast halten",
+"bist gehaltt",
+"hast gehaltt"
+],
+"e": "halten — hielt — gehalten; Hilfsverb: haben. (держать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: du ___ (aufmachen)",
+"a": "hast aufgemacht",
+"w": [
+"hast aufmachen",
+"bist aufgemacht",
+"hast aufgemachen"
+],
+"e": "aufmachen — machte — aufgemacht; Hilfsverb: haben. (открывать)"
+},
+{
+"t": "mc",
+"q": "Perfekt: du ___ (vergleichen)",
+"a": "hast verglichen",
+"w": [
+"bist gevergleichen",
+"bist gevergleicht",
+"hast gevergleichen"
+],
+"e": "vergleichen — verglich — verglichen; Hilfsverb: haben. (сравнивать)"
 },
 {
 "t": "order",
