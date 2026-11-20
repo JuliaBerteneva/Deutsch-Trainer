@@ -1,0 +1,207 @@
+# Vocab — 2026-11-20
+
+**Kapitel 8 «Lebenslinien» — Schule früher (Kursbuch S.64, Übungsbuch S.74)**
+- die Schule (-n) — школа
+- der Schulbus (-se) — школьный автобус
+- zu Fuß gehen — идти пешком
+- der Weg (-e) / der Schulweg — дорога / дорога в школу
+- weit — далёкий
+- die Heizung (-en) — отопление
+- streng — строгий
+- sich unterhalten — разговаривать, болтать
+- böse — злой, плохой (озорной)
+- sich in die Ecke stellen — встать в угол
+- die Schreibtafel (-n) — грифельная доска
+- die Pause (-n) — перемена
+- der Hof (¨e) — двор
+- das Schulbuch (¨er) — школьный учебник
+- leihen, hat geliehen — одалживать
+- sich erinnern (an + Akk.) — помнить, вспоминать
+- die Kindheit — детство
+- der Unterricht (Sg.) — урок, занятия
+- die Klasse (-n) — класс
+- die Mütze (-n) — шапка
+- lustig — весёлый
+- leise — тихо
+- der Kindergarten (¨) — детский сад
+- das Schuljahr (-e) — учебный год
+- das Zeugnis (-se) — табель, аттестат
+- die Note (-n) — оценка
+
+**Modalverben im Präteritum (Kursbuch S.65, Übungsbuch S.75–77)**
+- ich musste / konnte / wollte / durfte / sollte — я должен был / мог / хотел / мог (имел право) / должен был (по поручению)
+- die Prüfung (-en) — экзамен
+- der Haushalt (Sg.) — домашнее хозяйство
+- die Hausaufgabe (-n) — домашнее задание
+
+**Erstaunen ausdrücken (Kursbuch S.65, Übungsbuch S.76–77)**
+- Wirklich? — Правда?
+- Unglaublich! — Невероятно!
+- Das ist nicht wahr! — Это неправда!
+- Das kann doch nicht sein! — Не может быть!
+
+**Lebensläufe / Karriere (Kursbuch S.66–67, Übungsbuch S.77–79)**
+- der Lebenslauf (¨e) — резюме, биография
+- die Karriere (-n) — карьера
+- das Studium (Studien) — учёба в университете
+- studieren — учиться в вузе
+- berühmt / bekannt — знаменитый / известный
+- die Hauptrolle (-n) — главная роль
+- der Erfolg (-e) — успех
+- erfolgreich — успешный
+- das Casting (-s) — кастинг
+- an einem Casting teilnehmen — участвовать в кастинге
+- die Rolle bekommen — получить роль
+- der Zufall (¨e) — случайность
+- die Leidenschaft (-en) — страсть
+- der Sänger / die Sängerin — певец / певица
+- das Konzert (-e) — концерт
+- gewinnen, hat gewonnen — выигрывать
+- verheiratet sein — быть женатым / замужем
+- umziehen, ist umgezogen — переезжать
+- der Beruf (-e) — профессия
+- die Ausbildung (-en) — профессиональное обучение
+- eine Ausbildung machen / abschließen — проходить / закончить обучение
+- fertig sein — закончить
+- der Abschluss (¨e) — диплом, окончание
+- der Doktor (-en) — доктор
+- das Abitur (Sg.) — аттестат зрелости
+- das Gymnasium (Gymnasien) — гимназия
+- die Grundschule (-n) — начальная школа
+- die Realschule (-n) — реальное училище
+- die Hauptschule (-n) — основная школа
+- der Schüler / die Schülerin — школьник / школьница
+- die Klassenfahrt (-en) — школьная поездка
+- auf Klassenfahrt fahren — ехать в школьную поездку
+- der Dekorateur / die Dekorateurin — декоратор
+- der Sachbearbeiter / die Sachbearbeiterin — делопроизводитель, специалист
+- der Kellner / die Kellnerin — официант / официантка
+- die Berufserfahrung (-en) — профессиональный опыт
+- das Möbelgeschäft (-e) — мебельный магазин
+- die Stelle (-n) — рабочее место, должность
+- die Arbeit (-en) — работа
+- die Fernsehserie (-n) — телесериал
+- der Steckbrief (-e) — краткая анкета, досье
+
+**Wortbildung: Nomen auf -heit, -keit, -ung (Kursbuch S.67, Übungsbuch S.78)**
+- die Kindheit — детство
+- die Gesundheit — здоровье
+- die Krankheit (-en) — болезнь
+- die Süßigkeit (-en) — сладость, сладкое
+- die Hoffnung (-en) — надежда
+- die Bestellung (-en) — заказ
+- die Einladung (-en) — приглашение
+- die Entschuldigung (-en) — извинение
+- die Wohnung (-en) — квартира
+- hoffen — надеяться
+- bestellen — заказывать
+- einladen, er lädt ein, hat eingeladen — приглашать
+- sich entschuldigen — извиняться
+- heizen — отапливать
+
+**Walk of Fame / Stars (Kursbuch S.68, Übungsbuch S.80–81)**
+- der Stern (-e) — звезда
+- das Filmfestival (-s) — кинофестиваль
+- der Schauspieler / die Schauspielerin — актёр / актриса
+- der Filmemacher (-) — кинорежиссёр, кинематографист
+- die Vermutung (-en) — предположение
+- der Spaziergang (¨e) — прогулка
+- stattfinden, hat stattgefunden — проходить, состояться
+- recherchieren — искать информацию, исследовать
+- geboren sein — родиться
+- leben / gelebt — жить / жил
+- sterben, er stirbt, ist gestorben — умирать
+- die Staatsangehörigkeit (-en) — гражданство
+
+**Kapitel 7 — Wortschatz / Anzeigen (Übungsbuch S.71–73)**
+- die Anzeige (-n) — объявление
+- das schwarze Brett — доска объявлений
+- der Nachbar (-n) / die Nachbarin — сосед / соседка
+- die Haustür (-en) — входная дверь
+- fremd — чужой
+- der Besichtigungstermin (-e) — время осмотра (квартиры)
+- der Fernseher (-) — телевизор
+- der Sessel (-) — кресло
+- der Spiegel (-) — зеркало
+- das Spielzeug (Sg.) — игрушки
+- der Keller (-) — подвал
+- außerhalb — за пределами, вне
+- los sein — происходить, быть
+- verkehrsgünstig — с удобным транспортным сообщением
+- der Fluglärm (Sg.) — шум самолётов
+- stören — мешать
+- die Altbauwohnung (-en) — квартира в старом доме
+- die Miete (-n) — арендная плата
+- der Mieter / die Mieterin — арендатор / арендаторша
+- der Vermieter / die Vermieterin — арендодатель / арендодательница
+- das Dachgeschoss (-e), DG — мансардный этаж
+- das Obergeschoss (-e), OG — верхний этаж
+- der Strom (Sg.) — электричество
+- die Einbauküche (-n), EBK — встроенная кухня
+- die Nebenkosten (Pl.), NK — дополнительные расходы
+- die Betriebskosten (Pl.) — эксплуатационные расходы
+- in Ordnung (sein) — (быть) в порядке
+- monatlich — ежемесячно
+- sich interessieren (für + Akk.) — интересоваться
+- Achtung! — Внимание!
+- besorgen — доставать, раздобыть
+- bitten, hat gebeten — просить
+- stellen — ставить
+- verschenken — дарить, отдавать
+- vorbeikommen, ist vorbeigekommen — заходить, заглянуть
+- weglaufen, er läuft weg, ist weggelaufen — убежать
+- wegfliegen, ist weggeflogen — улететь
+- schließen, hat geschlossen — закрывать
+- das Meerschweinchen (-) — морская свинка
+- die Bauarbeiten (Pl.) — строительные работы
+- das Verständnis (Sg.) — понимание
+- das Würstchen (-) — сосиска
+- der Finderlohn (¨e) — вознаграждение нашедшему
+- der Kinderwagen (-) — детская коляска
+- der Mitbewohner (-) / die Mitbewohnerin — сожитель / сожительница
+- die Katzenbox (-en) — переноска для кошки
+- die Kiste (-n) — ящик
+
+**Veronika, Kapitel 3 «Im Büro» (S.28–33)**
+- das Büro (-s) — офис
+- der Stock / der vierte Stock — этаж / четвёртый этаж
+- die Sekretärin (-nen) — секретарша
+- der Terminkalender (-) — ежедневник
+- der Termin (-e) — встреча, назначенное время
+- anrufen, hat angerufen — звонить
+- der Flug (¨e) — рейс, полёт
+- die Zeichnung (-en) — рисунок
+- der Zeichner (-) — художник-график
+- der Werbezeichner (-) — рекламный художник
+- die Kampagne (-n) — кампания
+- der Schreibtisch (-e) — письменный стол
+- aussuchen — выбирать
+- der Slogan (-s) — слоган
+- gereizt — раздражённый
+- entnervt — выведенный из себя
+- sichtlich — заметно
+- baff sein — быть ошарашенным
+- jdm. fällt etwas ein — кому-то что-то приходит в голову
+- die Kuh (¨e) — корова
+- die Summe (-n) — сумма
+- reich — богатый
+- Geld verdienen — зарабатывать деньги
+- übertreiben, hat übertrieben — преувеличивать
+- Unrecht haben — быть неправым
+- eilig — торопливый, спешащий
+- die Krawatte (-n) — галстук
+- pünktlich — точно вовремя
+- zeigen — показывать
+- sich vorstellen — представиться
+- kreieren — создавать
+- unterschreiben, hat unterschrieben — подписывать
+- der Vertrag (¨e) — договор
+- vorbereiten — подготовить
+- retten — спасать
+- jdn. retten — спасти кого-то
+- die Belohnung (-en) — вознаграждение
+- noch etwas drauflegen — добавить ещё
+- das Frühstück (-e) — завтрак
+- selbstsicher — самоуверенный
+- die Hand geben — пожать руку
+- Angenehm! — Приятно (познакомиться)!

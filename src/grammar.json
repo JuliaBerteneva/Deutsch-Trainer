@@ -3033,7 +3033,7 @@
 {
 "id": "modal_prat",
 "title": "Modalverben im Präteritum",
-"src": "AB S.95–96; KB S.84",
+"src": "AB S.95–96; KB S.84; KB S.65, ÜB S.75–77 (2026-11-20)",
 "rule": [
 "können → konnte, müssen → musste, wollen → wollte, sollen → sollte, dürfen → durfte, mögen → mochte.",
 "Без умлаута. Окончания: ich/er -, du -st, wir/sie -n, ihr -t (ich konnte, du konntest, wir konnten).",
@@ -9952,6 +9952,106 @@
 "s": "Das sind die Schuhe, die ich gekauft habe.",
 "e": "",
 "hint": ""
+}
+]
+},
+{
+"id": "wortbildung",
+"title": "Wortbildung: Nomen auf -heit, -keit, -ung",
+"src": "KB S.67; ÜB S.78 (2026-11-20)",
+"rule": [
+"Суффиксы -heit, -keit, -ung образуют существительные; они ВСЕГДА женского рода: die.",
+"-heit / -keit: от прилагательных (krank → die Krankheit, süß → die Süßigkeit, gesund → die Gesundheit).",
+"-ung: от глаголов (einladen → die Einladung, wohnen → die Wohnung). Мн. ч.: -en (die Einladungen)."
+],
+"items": [
+{
+"t": "mc",
+"q": "Какой артикль? ___ Krankheit",
+"a": "die",
+"w": [
+"der",
+"das",
+"den"
+],
+"e": "Слова на -heit всегда die."
+},
+{
+"t": "mc",
+"q": "Какой артикль? ___ Wohnung",
+"a": "die",
+"w": [
+"der",
+"das",
+"dem"
+],
+"e": "Слова на -ung всегда die."
+},
+{
+"t": "mc",
+"q": "einladen → ___ Einladung",
+"a": "die",
+"w": [
+"der",
+"das",
+"ein"
+],
+"e": "Существительное на -ung — женского рода."
+},
+{
+"t": "mc",
+"q": "süß → die ___",
+"a": "Süßigkeit",
+"w": [
+"Süßheit",
+"Süßung",
+"Süßen"
+],
+"e": "süß → Süßigkeit (вставляется -ig-: süß + igkeit)."
+},
+{
+"t": "mc",
+"q": "gesund → die ___",
+"a": "Gesundheit",
+"w": [
+"Gesundkeit",
+"Gesundung",
+"Gesunde"
+],
+"e": "gesund → -heit."
+},
+{
+"t": "mc",
+"q": "hoffen → die ___",
+"a": "Hoffnung",
+"w": [
+"Hoffheit",
+"Hoffkeit",
+"Hoffen"
+],
+"e": "hoffen → Hoffnung (-ung)."
+},
+{
+"t": "mc",
+"q": "bestellen → die ___",
+"a": "Bestellung",
+"w": [
+"Bestellheit",
+"Bestellkeit",
+"Bestellt"
+],
+"e": "глагол + -ung."
+},
+{
+"t": "mc",
+"q": "Kind → die ___",
+"a": "Kindheit",
+"w": [
+"Kindung",
+"Kindkeit",
+"Kinden"
+],
+"e": "Kind → Kindheit (детство)."
 }
 ]
 }

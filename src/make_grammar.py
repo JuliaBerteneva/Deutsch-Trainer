@@ -86,7 +86,7 @@ topic('dass', 'Nebensatz mit dass', 'AB S.73 §23',
   mc('Ich hoffe, ___ das Wetter gut wird.', 'dass', ['das', 'dasz', 'daß wird'], 'Союз dass (с двумя s).'),
   od('Er sagt, dass er morgen kommt.')])
 
-topic('modal_prat', 'Modalverben im Präteritum', 'AB S.95–96; KB S.84',
+topic('modal_prat', 'Modalverben im Präteritum', 'AB S.95–96; KB S.84; KB S.65, ÜB S.75–77 (2026-11-20)',
  ['können → konnte, müssen → musste, wollen → wollte, sollen → sollte, dürfen → durfte, mögen → mochte.',
   'Без умлаута. Окончания: ich/er -, du -st, wir/sie -n, ihr -t (ich konnte, du konntest, wir konnten).',
   'Infinitiv стоит в конце: Ich konnte gestern nicht kommen.'],
@@ -263,6 +263,19 @@ topic('relativ', 'Relativsatz', 'KB Kap.2; ÜB Kap.14–16',
 
 
 import random
+topic('wortbildung', 'Wortbildung: Nomen auf -heit, -keit, -ung', 'KB S.67; ÜB S.78 (2026-11-20)',
+ ['Суффиксы -heit, -keit, -ung образуют существительные; они ВСЕГДА женского рода: die.',
+  '-heit / -keit: от прилагательных (krank → die Krankheit, süß → die Süßigkeit, gesund → die Gesundheit).',
+  '-ung: от глаголов (einladen → die Einladung, wohnen → die Wohnung). Мн. ч.: -en (die Einladungen).'],
+ [mc('Какой артикль? ___ Krankheit', 'die', ['der', 'das', 'den'], 'Слова на -heit всегда die.'),
+  mc('Какой артикль? ___ Wohnung', 'die', ['der', 'das', 'dem'], 'Слова на -ung всегда die.'),
+  mc('einladen → ___ Einladung', 'die', ['der', 'das', 'ein'], 'Существительное на -ung — женского рода.'),
+  mc('süß → die ___', 'Süßigkeit', ['Süßheit', 'Süßung', 'Süßen'], 'süß → Süßigkeit (вставляется -ig-: süß + igkeit).'),
+  mc('gesund → die ___', 'Gesundheit', ['Gesundkeit', 'Gesundung', 'Gesunde'], 'gesund → -heit.'),
+  mc('hoffen → die ___', 'Hoffnung', ['Hoffheit', 'Hoffkeit', 'Hoffen'], 'hoffen → Hoffnung (-ung).'),
+  mc('bestellen → die ___', 'Bestellung', ['Bestellheit', 'Bestellkeit', 'Bestellt'], 'глагол + -ung.'),
+  mc('Kind → die ___', 'Kindheit', ['Kindung', 'Kindkeit', 'Kinden'], 'Kind → Kindheit (детство).')])
+
 R = random.Random(7)
 def T_(id): return next(t for t in T if t['id'] == id)
 def add(id, items):
