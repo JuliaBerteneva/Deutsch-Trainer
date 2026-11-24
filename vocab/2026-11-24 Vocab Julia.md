@@ -1,0 +1,193 @@
+# Vocab — 2026-11-24
+
+**Panorama IV: Stadt und Land (Kursbuch S.72–73)**
+- schnell — быстрый
+- langsam — медленный
+- laut — шумный, громкий
+- leise — тихий
+- hektisch — суетливый, беспокойный
+- ruhig — спокойный, тихий
+- langweilig — скучный
+- interessant — интересный
+- gesund — здоровый
+- stressig — стрессовый
+- anstrengend — утомительный
+- ausgehen — выходить (развлекаться)
+- sich entspannen — расслабляться
+- essen gehen — идти поесть (в ресторан)
+- spazieren gehen — гулять
+- im Garten arbeiten — работать в саду
+- ins Kino gehen — идти в кино
+- in der Natur sein — быть на природе
+- die Großstadt (-¨e) — большой город
+- auf dem Land — в деревне
+- Das Leben in der Stadt ist ... als auf dem Land. — Жизнь в городе ... чем в деревне.
+- die Stadtratte (-n) — городская крыса (городской житель)
+- die Landmaus (-¨e) — деревенская мышь (деревенский житель)
+- früher / jetzt — раньше / сейчас
+- der Vor- und Nachteil (-e) — плюсы и минусы
+- das Interview (-s) — интервью
+- die Zeitschrift (-en) — журнал
+
+**Kapitel 9 «Die lieben Kollegen» — Büroalltag (Kursbuch S.74–76, Übungsbuch S.84–87)**
+- der Kollege (-n) / die Kollegin (-nen) — коллега
+- der Chef (-s) / die Chefin (-nen) — начальник / начальница
+- das Büro (-s) — офис
+- der Selbsttest (-s) — тест для самопроверки
+- der Aufzug (-¨e) — лифт
+- die Treppe (-n) — лестница
+- abstürzen — зависать, «падать» (о компьютере)
+- kaputtgehen — ломаться
+- sich beschweren — жаловаться
+- peinlich — неловкий, неприятный
+- unangenehm — неприятный
+- freundlich — дружелюбный
+- unfreundlich — недружелюбный
+- faul — ленивый
+- nett — приятный, милый
+- vorsichtig — осторожный
+- der IT-Support — ИТ-поддержка
+- der Experte (-n) / die Expertin (-nen) — эксперт
+- um Hilfe bitten — просить о помощи
+- erzählen — рассказывать
+- grüßen — здороваться
+- ansprechen — обращаться к кому-то, заговорить
+- fertig machen — закончить
+- aktuelle Informationen haben — иметь актуальную информацию
+- E-Mails beantworten — отвечать на письма
+- E-Mails löschen — удалять письма
+- E-Mails weiterleiten — пересылать письма
+- telefonieren — звонить, разговаривать по телефону
+- Tee kochen — заваривать чай
+- zu einer Besprechung gehen — идти на совещание
+- einem Kollegen helfen — помогать коллеге
+- den Computer einschalten — включить компьютер
+- am Computer arbeiten — работать за компьютером
+- mit dem Aufzug fahren — ехать на лифте
+- die Treppe nehmen — идти по лестнице
+- Probleme haben — иметь проблемы
+- im Team arbeiten — работать в команде
+- eine Firma gründen — основать фирму
+- das E-Mail-Postfach (-¨er) — почтовый ящик
+- der Anhang (-¨e) — вложение (в письме)
+- der Kontakt (-e) — контакт
+- das Protokoll (-e) — протокол
+- die Terminanfrage (-n) — запрос на встречу
+- der Termin (-e) — встреча, срок
+- die Präsentation (-en) — презентация
+- das Computerprogramm (-e) — компьютерная программа
+- Sehr geehrter Herr ... — Уважаемый господин ...
+- Mit freundlichen Grüßen — С уважением
+- Bescheid geben — сообщить, дать знать
+- die Sekretärin (-nen) — секретарша
+- die Verspätung (-en) — опоздание
+- die Geldbörse (-n) — кошелёк
+- das Gehalt (-¨er) — зарплата
+- das doppelte Gehalt — двойная зарплата
+- der Mitarbeiter (-) / die Mitarbeiterin (-nen) — сотрудник
+- der Psychologe (-n) — психолог
+- rausgehen — выходить
+- vergessen (vergisst, hat vergessen) — забывать
+- (sich) ärgern — злиться
+- fernsehen — смотреть телевизор
+- besichtigen — осматривать (достопримечательности)
+- verrückt — сумасшедший, безумный
+- gemütlich — уютный
+- mitkommen — идти вместе, пойти с кем-то
+
+**Nebensätze mit wenn (Kursbuch S.75, Übungsbuch S.85)**
+- Wenn ..., (dann) ... — Если / когда ..., (то) ...
+- Schema: Wenn + Subjekt + ... + Verb am Ende, (dann) + Verb (Position 2) + Subjekt
+- Wenn der Computer abstürzt, rufe ich den IT-Support an. — Если компьютер зависает, я звоню в ИТ-поддержку.
+- Wenn ich das doppelte Gehalt bekomme, arbeite ich nur einen halben Tag. — Если я получу двойную зарплату, я буду работать только полдня.
+
+**Wiederholung: Nebensätze mit weil (Übungsbuch S.84)**
+- Frau Walton vergisst die Namen, weil ... — Фрау Вальтон забывает имена, потому что ...
+- Schema: weil + Subjekt + ... + Verb am Ende
+
+**Kapitel 8 «Lebenslinien» — Lebenslauf (Übungsbuch S.80–83)**
+- der Lebenslauf (-¨e) — резюме, жизненный путь
+- die Berufsausbildung (-en) — профессиональное обучение
+- die Ausbildung (-en) / eine Ausbildung machen — обучение / проходить обучение
+- eine Ausbildung abschließen — закончить обучение
+- der Abschluss (-¨e) — окончание, диплом
+- das Abitur — аттестат зрелости
+- das Gymnasium (Gymnasien) — гимназия
+- die Realschule (-n) — реальное училище
+- die Grundschule (-n) — начальная школа
+- die Hauptschule (-n) — основная школа
+- die Note (-n) — оценка
+- das Zeugnis (-se) — аттестат, табель
+- das Studium (Sg.) — учёба в вузе
+- studieren — учиться в вузе
+- umziehen (ist umgezogen) — переезжать
+- verheiratet — женат / замужем
+- der Bruder (-¨) — брат
+- die Arbeit — работа
+- der Erfolg (-e) — успех
+- die Fernsehserie (-n) — телесериал
+- der Schauspieler (-) / die Schauspielerin (-nen) — актёр / актриса
+- der Filmemacher (-) — режиссёр
+- das Filmfestival (-s) — кинофестиваль
+- die Hauptrolle (-n) — главная роль
+- der Sänger (-) / die Sängerin (-nen) — певец / певица
+- die Nationalität (-en) — национальность, гражданство
+- das Museum (Museen) — музей
+- der Steckbrief (-e) — краткая анкета, досье
+- geboren sein — родиться
+- auftreten (ist aufgetreten) — выступать
+- die Klassenfahrt (-en) — школьная поездка
+- die Schulzeit (Sg.) — школьные годы
+- die Kindheit (Sg.) — детство
+- der Schulweg (-e) — дорога в школу
+- die Hausaufgaben (Pl.) — домашнее задание
+- streng — строгий
+- zur Grundschule gehen — ходить в начальную школу
+- einen Abschluss / das Abitur machen — сдавать выпускные экзамены
+- eine Stelle bekommen — получить место работы
+- ein gutes Zeugnis haben — иметь хороший аттестат
+- Er/Sie ist am ... geboren. — Он/она родился/родилась ...
+- Ich durfte / Ich musste ... — Мне разрешали / Мне приходилось ...
+
+**Wortbildung: Nomen auf -ung, -heit, -keit (Übungsbuch S.78) — все женского рода (die)**
+- sich entschuldigen → die Entschuldigung — извинение
+- wohnen → die Wohnung — квартира
+- bestellen → die Bestellung — заказ
+- einladen → die Einladung — приглашение
+- hoffen → die Hoffnung — надежда
+- heizen → die Heizung — отопление
+- süß → die Süßigkeit — сладость
+- gesund → die Gesundheit — здоровье
+- krank → die Krankheit — болезнь
+- Kind → die Kindheit — детство
+
+**Wortschatz Kapitel 8 (Übungsbuch S.83)**
+- böse — злой
+- damals — тогда, в те времена
+- ehemalig — бывший
+- leihen (er/sie hat geliehen) — одалживать
+- streng — строгий
+- das Papier (-e) — бумага
+- der Leser (-) / die Leserin (-nen) — читатель
+- die Ecke (-n) — угол
+- die Klasse (-n) — класс
+- sich erinnern — вспоминать
+- (sich) unterhalten (unterhält, hat unterhalten) — беседовать, развлекаться
+- wahr — правдивый
+- wissen (weiß, hat gewusst) — знать
+- geboren (sein) — родиться
+- teilnehmen (nimmt teil, hat teilgenommen) — участвовать
+- wechseln — менять
+- das Schwimmbad (-¨er) — бассейн
+- der Autor (-en) / die Autorin (-nen) — автор
+- der Einwanderer (-) / die Einwanderin (-nen) — иммигрант
+- der Komponist (-en) / die Komponistin (-nen) — композитор
+- der Muslim (-e) / die Muslimin (-nen) — мусульманин / мусульманка
+- der Zufall (-¨e) — случайность
+- die Band (-s) — группа
+- möglich — возможный
+- österreichisch — австрийский
+- die Hauptstadt (-¨e) — столица
+- der Stein (-e) — камень
+- sterben (stirbt, ist gestorben) — умирать
+- extra — дополнительно, отдельно
